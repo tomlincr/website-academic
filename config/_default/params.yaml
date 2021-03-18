@@ -20,7 +20,7 @@ twitter: 'tomlincr'
 
 # Contact (edit or remove options as required)
 
-email: https://formspree.io/f/hello@ctomlinson.net
+email: # removed as includes mailto: so instead just use formspree
 phone: 
 address:
   street: 
