@@ -29,6 +29,6 @@ item:
   description: ""
   organization: Johns Hopkins University
   organization_url: "https://www.jhu.edu"
-  title: Data Science: Foundations using R Specialization
+  title: "Data Science: Foundations using R Specialization"
   url: "https://www.coursera.org/specializations/data-science-foundations-r"
 ---
