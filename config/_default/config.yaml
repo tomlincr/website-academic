@@ -5,7 +5,7 @@
 
 title: Dr Chris Tomlinson # Website name
 baseurl: 'https://ctomlinson.net' # Website URL
-copyright: '© {2021} Chris Tomlinson' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Chris Tomlinson' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
