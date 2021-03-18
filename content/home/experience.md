@@ -26,12 +26,12 @@ experience:
     company: GenCoin
     company_url: ''
     location: Kent, Surrey & Sussex School of Anaesthesia
-    date_start: '2017-01-01'
+    date_start: '2016'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Rotations:
         
-        * Analysing
+        * ST3: Surrey & Sussex Healthcare NHS Trust
         * Modelling
         * Deploying
         
