@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
@@ -27,7 +30,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
