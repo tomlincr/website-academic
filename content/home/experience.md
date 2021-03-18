@@ -31,9 +31,9 @@ experience:
     description: |2-
         Rotations:
         
-        * ST3: SASH
-        * Modelling
-        * Deploying
+        * ST3: Surrey & Sussex Healthcare NHS Trust
+        * CT2: Royal Surrey NHS Foundation Trust
+        * CT1: Ashford and St Peter's Hospitals NHS Foundation Trust
         
   - title: Professor
     company: University X
