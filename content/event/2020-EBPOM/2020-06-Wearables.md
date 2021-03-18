@@ -6,7 +6,7 @@ tags:
   - poster
   - perioperative medicine
   - anaesthesia
-event: EBPOM 2020: Annual London Congress of Perioperative Medicine
+event: EBPOM 2020 Annual London Congress of Perioperative Medicine
 event_url: https://ebpom.org
 location: Online
 address:
