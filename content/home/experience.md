@@ -35,12 +35,17 @@ experience:
         * ST3: Surrey & Sussex Healthcare NHS Trust (2019-2020)
         * CT2: Royal Surrey NHS Foundation Trust (2018-2019)
         * CT1: Ashford and St Peter's Hospitals NHS Foundation Trust (2017-2018)
+        * JCF: Royal Brompton & Harefield NHS Foundation Trust (2016-2017)
         
-  - title: Professor
-    company: University X
+  - title: UK Foundation Programme
+    company: NHS
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: South Thames Foundation School
+    date_start: '2014-07-01'
+    date_end: '2016-07-31'
+    description: |2-
+        Rotations:
+        
+        * FY2: Western Sussex Hospitals NHS Foundation Trust *2015-2016*
+        * FY1: Royal Surrey NHS Foundation Trust *2014-2015*
 ---
