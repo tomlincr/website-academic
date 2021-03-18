@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    location: California
+    location: Kent, Surrey & Sussex School of Anaesthesia
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
