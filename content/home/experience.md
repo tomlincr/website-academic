@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
 title: Experience
 subtitle:
@@ -22,18 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Anaesthetics, Critical Care & Perioperative Medicine Doctor
+    company: NHS
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Kent, Surrey & Sussex School of Anaesthesia
+    date_start: '2016'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Rotations:
+        * ST3: Surrey & Sussex Healthcare NHS Trust  
+        * CT2: Royal Surrey County Hospital NHS Foundation Trust  
+        * CT1: Ashford & St. Peter's NHS Foundation Trust 
+        * Junior Clinical Fellow in Cardiothoracic Intensive Care - Royal Brompton & Harefield NHS Foundation Trust
+    
+        Experience:
+        * Elective & Emergency Anaesthesia
+        * Obstetric Anaesthesia
+        * Acute & Chronic Pain Medicine
+        * Intensive Care Medicine 
         
   - title: Professor
     company: University X
