@@ -29,10 +29,10 @@ experience:
     date_start: '2016'
     date_end: ''
     description: |2-      
-        * ST3: Surrey & Sussex Healthcare NHS Trust  
-        * CT2: Royal Surrey County Hospital NHS Foundation Trust  
-        * CT1: Ashford & St. Peter's NHS Foundation Trust 
-        * Junior Clinical Fellow in Cardiothoracic Intensive Care - Royal Brompton & Harefield NHS Foundation Trust
+        * ST3 @ Surrey & Sussex Healthcare NHS Trust  
+        * CT2 @ Royal Surrey County Hospital NHS Foundation Trust  
+        * CT1 @ Ashford & St. Peter's NHS Foundation Trust 
+        * Junior Clinical Fellow in Cardiothoracic Intensive Care @ Royal Brompton & Harefield NHS Foundation Trust
     
   - title: Professor
     company: University X
