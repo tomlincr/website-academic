@@ -11,10 +11,9 @@ role: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in
 bio: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in
   AI-enabled Healthcare
 interests:
-  - Physiology of Critical Illness
-  - Incorporating time-series data into healthcare models
-  - Using novel ML methods to decipher heterogeneity seen in patient's responses
-    to the complex interactions between comorbidities and acute illness
+  - Physiology of Critical Illness, particularly cardiovascular
+  - Integrating multi-modal healthcare data: population records, EHR, biomarkers, pan-omics
+  - Novel and probabilistic ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and acute illness
 social:
   - icon: envelope
     icon_pack: fas
