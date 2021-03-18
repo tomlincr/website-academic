@@ -31,13 +31,13 @@ experience:
     description: |2-
         Rotations:
         
-        * OOPR:
-        * ST3: Surrey & Sussex Healthcare NHS Trust (2019-2020)
-        * CT2: Royal Surrey NHS Foundation Trust (2018-2019)
-        * CT1: Ashford and St Peter's Hospitals NHS Foundation Trust (2017-2018)
-        * JCF: Royal Brompton & Harefield NHS Foundation Trust (2016-2017)
+        * OOPR: Prospective RCoA & GMC approval to participate in CDT *2020-*
+        * ST3: Surrey & Sussex Healthcare NHS Trust *2019-2020*
+        * CT2: Royal Surrey NHS Foundation Trust *2018-2019*
+        * CT1: Ashford and St Peter's Hospitals NHS Foundation Trust *2017-2018*
+        * JCF: Royal Brompton & Harefield NHS Foundation Trust *2016-2017*
         
-  - title: UK Foundation Programme
+  - title: UK Foundation Programme Doctor
     company: NHS
     company_url: ''
     location: South Thames Foundation School
@@ -46,6 +46,6 @@ experience:
     description: |2-
         Rotations:
         
-        * FY2: Western Sussex Hospitals NHS Foundation Trust *2015-2016*
-        * FY1: Royal Surrey NHS Foundation Trust *2014-2015*
+        * FY2: Trauma & Orthopaedics (+ General Surgical & Urology on-calls), Emergency Medicine, General Practice (Flansham Park Health Centre, Bognor Regis) @ Western Sussex Hospitals NHS Foundation Trust *2015-2016*
+        * FY1: Acute Medicine, General Surgery, General Medicine (Gastroenterology & Hepatology) @ Royal Surrey NHS Foundation Trust *2014-2015*
 ---
