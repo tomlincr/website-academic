@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/XHGLBQ7WT4ZW
+- certificate_url: "https://www.coursera.org/account/accomplishments/specialization/certificate/XHGLBQ7WT4ZW"
   date_end: ""
   date_start: "2020-05-09"
   description: ""
   organization: Johns Hopkins University
-  organization_url: https://www.jhu.edu
+  organization_url: "https://www.jhu.edu"
   title: Data Science: Foundations using R Specialization
-  url: https://www.coursera.org/specializations/data-science-foundations-r
+  url: "https://www.coursera.org/specializations/data-science-foundations-r"
 ---
