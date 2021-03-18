@@ -29,11 +29,10 @@ experience:
     date_start: '2016'
     date_end: ''
     description: |2-
-        Rotations
-        
-        * ST3 Surrey & Sussex Healthcare NHS Trust
-        * Modelling
-        * Deploying
+        Rotations  
+        * ST3 Surrey & Sussex Healthcare NHS Trust  
+        * Modelling  
+        * Deploying  
         
   - title: Professor
     company: University X
