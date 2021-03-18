@@ -2,7 +2,6 @@
 title: Subdural haemorrhage following epidural top-up for caesarean section
 author: admin
 date: '2019-09-11'
-slug: subdural-haemorrhage-following-epidural-top-up-for-caesarean-section
 tags:
   - poster
   - regional anaesthesia
