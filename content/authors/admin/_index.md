@@ -1,77 +1,88 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr Chris Tomlinson
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Critical Care Doctor & Clinician Data Scientist
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: UCL CDT in AI-enabled Healthcare
+  url: "https://www.ucl.ac.uk/aihealth-cdt/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in AI-enabled Healthcare
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physiology of Critical Illness
+- Incorporating time-series data into healthcare models
+- Using novel ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and acute illness
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MRes + PhD Candidate, AI-enabled Healthcare System
+    institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems
+    year: 2020-2024
+  - course: Primary Fellowship
+    institution: Royal College of Anaesthetists
+    year: 2018
+  - course: Dipolma in Medical Care of Catastrophes
+    institution: The Worshipful Society of Apothecaries of London
+    year: 2016
+  - course: Bachelor of Medicine & Surgery
+    institution: University College London
+    year: 2014
+  - course: Bachelor of Medical Sciences with Physiology (1st Class Hons)
+    institution: University College London
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/tomlincr
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Christopher_Tomlinson3
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0903-5395
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tomlincr
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+  link: https://www.linkedin.com/in/tomlincr
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: https://docs.google.com/document/d/1KRD5Pz2x_OTPO7wBuTpqHW0R_VNuUYDSHeXipo_R0tI
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or *comment out* if you are not using People widget.
+user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a registrar in Anaesthetics & Intensive Care undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am interested in leveraging the rich data routinely collected in Critical Care, alongside wider healthcare datasets, using machine learning methods to facilitate a more individualised approach to treatment decisions and targets. I hope to implement these tools as a ‘Clinical Informatics Consult’ empowering clinicians and patients to make better informed decisions, utilising all available evidence. 
