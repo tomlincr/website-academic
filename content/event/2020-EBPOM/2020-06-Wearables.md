@@ -20,8 +20,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2020-06-27'
-authors:
-- admin
+authors: [C Tomlinson]
 featured: no
 image:
   caption: ''
@@ -55,8 +54,6 @@ References
 
 Royal College of Physicians. National Early Warning Score (NEWS) 2 Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. London RCP, 2017.
 
-P. S. Myles, M. P. W. Grocott, O. Boney, S. R. Moonesinghe, on behalf of the COMPAC-StEP Group, Paul Myles, Michael Grocott, Bruce Biccard, Oliver Boney, Matthew Chan, Lee Fleisher, Cor Kalkman, Andrea Kurz, Ramani Moonesinghe, Duminda Wijeysundera, J. Bartoszko, W. S. Beattie, R. Bellomo, D. Buggy, L. Cabrini, J. Canet, T. Cook, D. J. Cooper, T. Corcoran, P. J. Devereaux, R. Eckenhoff, L. Evered, T. J. Gan, T. Gin, H. Grocott, G. Haller, S. Howell, M. Jayarajah, C. Kalkman, K. Karkouti, B. Kavanagh, A. Klein, G. Landoni, K. Leslie, D. R. McIlroy, D. Mazer, A. Moller, M. Mythen, M. Neuman, M. Neuman, R. Pearse, P. Peyton, J. Prowle, T. Richards, D. A. Scott, D. Sessler, A. Shaw, T. Short, M. Shulman, B. Silbert, M. Singer, J. R. Sneyd, D. Story, D. van Dijk, W. van Klei, on behalf of the COMPAC-StEP Group, Standardizing end points in perioperative trials towards a core and extended outcome set, BJA British Journal of Anaesthesia, Volume 116, Issue 5, May 2016, Pages 586–589, https://doi.org/10.1093/bja/aew066
+P. S. Myles, M. P. W. Grocott, O. Boney, S. R. Moonesinghe, on behalf of the COMPAC-StEP Group, Paul Myles, Michael Grocott, Bruce Biccard, Oliver Boney, Matthew Chan, Lee Fleisher, Cor Kalkman, Andrea Kurz, Ramani Moonesinghe, Duminda Wijeysundera, J. Bartoszko, W. S. Beattie, R. Bellomo, D. Buggy, L. Cabrini, J. Canet, T. Cook, D. J. Cooper, T. Corcoran, P. J. Devereaux, R. Eckenhoff, L. Evered, T. J. Gan, T. Gin, H. Grocott, G. Haller, S. Howell, M. Jayarajah, C. Kalkman, K. Karkouti, B. Kavanagh, A. Klein, G. Landoni, K. Leslie, D. R. McIlroy, D. Mazer, A. Moller, M. Mythen, M. Neuman, M. Neuman, R. Pearse, P. Peyton, J. Prowle, T. Richards, D. A. Scott, D. Sessler, A. Shaw, T. Short, M. Shulman, B. Silbert, M. Singer, J. R. Sneyd, D. Story, D. van Dijk, W. van Klei, on behalf of the COMPAC-StEP Group, Standardizing end points in perioperative trials towards a core and extended outcome set, BJA British Journal of Anaesthesia, Volume 116, Issue 5, May 2016, Pages 586–589, <https://doi.org/10.1093/bja/aew066>
 
-R code for data import & analysis freely available at https://ctomlinson.net/tag/EBPOM2020/ 
-
-
+R code for data import & analysis freely available at <https://ctomlinson.net/tag/EBPOM2020/>
