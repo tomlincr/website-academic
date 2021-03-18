@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Dr Chris Tomlinson # Website name
-baseurl: 'https://ctomlinson.net' # Website URL
+baseurl: 'https://tomlincr.netlify.app' # Website URL
 copyright: '© 2021 Chris Tomlinson' # Footer text, e.g. '© {year} Me'
 
 ############################
