@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Anaesthetics, Critical Care & Perioperative Medicine Doctor
+    company: NHS
     company_url: ''
     location: Kent, Surrey & Sussex School of Anaesthesia
     date_start: '2016-08-01'
@@ -31,9 +31,10 @@ experience:
     description: |2-
         Rotations:
         
-        * ST3: Surrey & Sussex Healthcare NHS Trust
-        * CT2: Royal Surrey NHS Foundation Trust
-        * CT1: Ashford and St Peter's Hospitals NHS Foundation Trust
+        * OOPR:
+        * ST3: Surrey & Sussex Healthcare NHS Trust (2019-2020)
+        * CT2: Royal Surrey NHS Foundation Trust (2018-2019)
+        * CT1: Ashford and St Peter's Hospitals NHS Foundation Trust (2017-2018)
         
   - title: Professor
     company: University X
