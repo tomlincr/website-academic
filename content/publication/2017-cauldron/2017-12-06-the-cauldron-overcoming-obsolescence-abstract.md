@@ -22,7 +22,7 @@ publication_short: 'JICS'
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ''
 
 tags:
   - career
