@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 title: Experience
 subtitle:
@@ -22,13 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Anaesthetics, Critical Care & Perioperative Medicine Doctor"
-    company: NHS
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    location: "Kent, Surrey & Sussex School of Anaesthesia"
-    date_start: '2016'
+    location: California
+    date_start: '2017-01-01'
     date_end: ''
-    
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
   - title: Professor
     company: University X
     company_url: ''
