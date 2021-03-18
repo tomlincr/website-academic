@@ -28,9 +28,7 @@ experience:
     location: Kent, Surrey & Sussex School of Anaesthesia
     date_start: '2016'
     date_end: ''
-    description: |2-
-      Rotations: 
-       
+    description: |2-      
         * ST3: Surrey & Sussex Healthcare NHS Trust  
         * CT2: Royal Surrey County Hospital NHS Foundation Trust  
         * CT1: Ashford & St. Peter's NHS Foundation Trust 
