@@ -31,7 +31,7 @@ experience:
     description: |2-
         Rotations:
         
-        * ST3 @ Surrey & Sussex Healthcare NHS Trust
+        * ST3 Surrey & Sussex Healthcare NHS Trust
         * Modelling
         * Deploying
         
