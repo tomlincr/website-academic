@@ -1,5 +1,5 @@
 ---
-title: Wearables for Home Post-Operative Monitoring: Proof of Concept
+title: "Wearables for Home Post-Operative Monitoring: Proof of Concept"
 author: admin
 date: '2020-06-27'
 tags:
@@ -30,7 +30,6 @@ doi: http://dx.doi.org/10.13140/RG.2.2.11804.72328
 url_slides: ~
 url_source: https://dcs.mediazoom.org/sites/23/2020/09/10202103/EBPOM-LONDON-2020-Abstract-Competition.pdf
 url_pdf: https://www.researchgate.net/publication/342492471_Wearables_for_Home_Post-Operative_Monitoring_Proof_of_Concept
-url_code: https://ctomlinson.net/tag/EBPOM2020/ 
 slides: ''
 projects: []
 ---
