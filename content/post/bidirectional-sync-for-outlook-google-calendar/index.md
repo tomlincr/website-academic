@@ -6,8 +6,8 @@ featured: false
 tags:
   - workflow
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 ---
 UCL, like many large academic/public organisations, has adopted the [Microsoft Office 365](https://www.ucl.ac.uk/isd/services/communicate-collaborate/microsoft-365-apps-for-enterprise) ecosystem. As a result of the COVID pandemic and remote working this integration has been intensified and Office 365 is now the platform of choice for not only email and documents, but meetings with MS Teams.
