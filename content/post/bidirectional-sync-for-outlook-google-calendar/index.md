@@ -3,6 +3,8 @@ title: Bidirectional Sync for Outlook & Google Calendar
 date: 2021-03-23T08:22:22.161Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - workflow
 image:
