@@ -7,6 +7,9 @@ authors:
   - admin
 tags:
   - workflow
+  - productivity
+  - software
+  - studying
 image:
   filename: ""
   focal_point: ""
@@ -30,6 +33,6 @@ Headline features:
 
 Sure it would be nice if there was a cross-platform version, but then you need to have Outlook running so that negates Linux anyway. As it's a portable app perhaps it could work on a Windows remote desktop but I haven't had a need to try this.
 
-Hope this is of use to someone. 
+Hope this is of use to someone.
 
 💰 If you've found this tool helpful you can [donate to phew198 here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=44DUQ7UT6WE2C&item_name=Outlook%20Google%20Calendar%20Sync%20donation.%20For%20splash%20screen%20hiding,%20enter%20your%20Gmail%20address%20in%20comment%20section).
