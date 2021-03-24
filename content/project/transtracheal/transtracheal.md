@@ -1,6 +1,6 @@
 ---
 title: Innovation in Transtracheal Airway Design
-summary: ""
+summary: Inaugral 'Innovation in Anaesthesia' BSc project leading to multidisciplary and industrial collaboration
 tags:
 - Medical devices
 - Anaesthesia
