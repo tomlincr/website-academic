@@ -1,6 +1,6 @@
 ---
 title: Innovation in Transtracheal Airway Design
-summary: 
+summary: ""
 tags:
 - Medical devices
 - Anaesthesia
