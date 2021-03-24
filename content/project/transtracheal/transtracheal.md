@@ -27,8 +27,8 @@ url_video: ""
 slides: ""
 ---
 
-* Speculatively approached [Dr Jim Roberts (UCLH)](https://www.ucl.ac.uk/anaesthesia/clinical-quality-innovation/innovation) and setup the first of many ‘Innovation in Anaesthesia’ BSc projects
-* Mathematical and benchtop modelling to define the optimum diameter for a transtracheal airway device
-* Industrial collaboration with UCL Business and Smiths Medical
-* Presented to [UCL Medical Modelling Group](https://www.ucl.ac.uk/medical-modelling/) for consideration as a [CoMPLEX project](https://www.ucl.ac.uk/complex/)
-* Ultimately abandoned following [NAP4 publication](https://www.nationalauditprojects.org.uk/NAP4-Report) and resultant decline in technique
+* 💡 Speculatively approached [Dr Jim Roberts (UCLH)](https://www.ucl.ac.uk/anaesthesia/clinical-quality-innovation/innovation) and setup the first of many ‘Innovation in Anaesthesia’ BSc projects
+* 📈 Mathematical and benchtop modelling to define the optimum diameter for a transtracheal airway device
+* 🔧 Industrial collaboration with UCL Business and Smiths Medical
+* 🎓rPresented to [UCL Medical Modelling Group](https://www.ucl.ac.uk/medical-modelling/) for consideration as a [CoMPLEX project](https://www.ucl.ac.uk/complex/)
+* ❌ Ultimately abandoned following [NAP4 publication](https://www.nationalauditprojects.org.uk/NAP4-Report) and resultant decline in technique
