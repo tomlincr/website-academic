@@ -1,6 +1,6 @@
 ---
-title: ❤ CVD-COVID-UK
-summary: Contributing clinical experience 👨‍⚕️, data wrangling and analytical skills 👨‍💻 to development of COVID-19 Severity phenotypes from linked EHR data for 54 million patients in England.
+title: CVD-COVID-UK
+summary: Contributing clinical experience, data wrangling and analytical skills to development of COVID-19 Severity phenotypes from linked EHR data for 54 million patients in England.
 tags:
 - HDR-UK
 - COVID
@@ -30,18 +30,18 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Contributing clinical experience, data wrangling and analytical skills to development of COVID-19 Severity phenotypes from linked EHR data for 54 million patients in England.
+👨‍⚕️ Contributing clinical experience, data wrangling and analytical skills to development of COVID-19 Severity phenotypes from linked EHR data for 54 million patients in England.
 
-Work packages:
+🎯 Work packages:
 
 * `CCU003`: Direct and indirect effects of the coronavirus pandemic in individuals with cardiovascular disease (Lead: Ami Banerjee, UCL)
 * `CCU013`: High-throughput electronic health record phenotyping approaches (Lead: Spiros Denaxas, UCL)
 
-Datasets:
+🏥 Datasets:
 
 * Hospital Episode Statistics Admitted Patient Care (APC) and Adult Critical Care (CC)
 * GPES data for Pandemic Planning and Research (GDPPR)
 * Second Generation Surveillance System (SGSS)
 * ONS deaths
 
-Work is conducted in the NHS Digital Trusted Research Environment using SQL, Python and Spark/Databricks.
+👨‍💻 Work is conducted in the NHS Digital Trusted Research Environment using SQL, Python and Spark/Databricks.
