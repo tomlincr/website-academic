@@ -1,17 +1,17 @@
 ---
 organizations:
-  - name: UCL CDT in AI-enabled Healthcare
-    url: https://www.ucl.ac.uk/aihealth-cdt/
+  - name: ""
+    url:
 superuser: true
 authors:
   - admin
 title: Dr Chris Tomlinson
-role: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in
-  AI-enabled Healthcare
+role: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in AI-enabled Healthcare
 interests:
-  - Physiology of Critical Illness, particularly cardiovascular
-  - Integrating multi-modal healthcare data: population records, EHR, biomarkers, pan-omics
+  - Physiology of Critical Illness
+  - Leveraging multi-modal healthcare data: population records, EHR, physiological variables, biomarkers, pan-omics
   - Novel and probabilistic ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and acute illness
+  - Time-series data
 social:
   - icon: envelope
     icon_pack: fas
@@ -58,4 +58,4 @@ user_groups: null
 
 I am a registrar in Anaesthetics & Intensive Care undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
 
-I am interested in leveraging the rich data routinely collected in Critical Care, alongside wider healthcare datasets, using machine learning methods to facilitate a more individualised approach to treatment decisions and targets. I hope to implement these tools as a ‘Clinical Informatics Consult’ empowering clinicians and patients to make better informed decisions, utilising all available evidence. 
+I am interested in leveraging the rich data routinely collected in Critical Care, alongside wider healthcare datasets, using machine learning methods to facilitate a more individualised approach to treatment decisions and targets.
