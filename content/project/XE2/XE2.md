@@ -4,6 +4,7 @@ summary: Large expedition to Everest Base Camp seeking to characterise acclimati
 tags:
 - XE2
 - Hypoxia
+- Physiology
 date: "2013-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

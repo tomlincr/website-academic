@@ -8,8 +8,6 @@ authors:
 title: Dr Chris Tomlinson
 role: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in
   AI-enabled Healthcare
-bio: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in
-  AI-enabled Healthcare
 interests:
   - Physiology of Critical Illness, particularly cardiovascular
   - Integrating multi-modal healthcare data: population records, EHR, biomarkers, pan-omics
