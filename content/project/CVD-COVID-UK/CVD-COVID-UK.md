@@ -19,7 +19,6 @@ image:
 links:
 - name: HDR-UK
   url: https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/
-links:
 - name: Descriptive Paper
   url: https://doi.org/10.1101/2021.02.22.21252185
 url_code: ""
