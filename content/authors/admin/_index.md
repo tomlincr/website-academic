@@ -9,7 +9,7 @@ title: Dr Chris Tomlinson
 role: Anaesthetist & Critical Care Doctor | PhD Candidate at UCL CDT in AI-enabled Healthcare
 interests:
   - Physiology of Critical Illness
-  - Leveraging multi-modal healthcare data: population records, EHR, physiological variables, biomarkers, pan-omics
+  - "Leveraging multi-modal healthcare data: population records, EHR, physiological variables, biomarkers, pan-omics"
   - Novel and probabilistic ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and acute illness
   - Time-series data
 social:
