@@ -25,6 +25,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0903-5395
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?hl=en&authuser=3&user=NcKe1aEAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/tomlincr
