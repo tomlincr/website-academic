@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Dr Chris Tomlinson
-role: 👨‍⚕️ Anaesthetist & Critical Care Doctor | 🎓 PhD Candidate at UCL CDT in AI-enabled Healthcare
+role: 👨‍⚕️ Anaesthetist & Critical Care Doctor | 🎓 PhD Candidate at [UCL CDT in AI-enabled Healthcare](https://www.ucl.ac.uk/aihealth-cdt/)
 interests:
   - Physiology of Critical Illness
   - "Leveraging multi-modal healthcare data: population records, EHR, physiological variables, biomarkers, pan-omics"
