@@ -1,5 +1,5 @@
 ---
-title: ESICM LIVES2020: Personalising Care: ML from ICP waves
+title: "ESICM LIVES2020: Personalising Care: ML from ICP waves"
 date: 2021-04-14
 draft: false
 featured: false
