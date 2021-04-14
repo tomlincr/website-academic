@@ -1,8 +1,8 @@
 ---
 title: "ESICM LIVES2020: Personalising Care: ML from ICP waves"
-date: 2021-04-14
+date: 2020-12-08
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 tags:
