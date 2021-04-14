@@ -1,5 +1,5 @@
 ---
-title: Implementing `wget` in Jupyter Notebooks on Windows 10
+title: Implementing wget in Jupyter Notebooks on Windows 10
 date: 2021-04-14
 draft: false
 featured: false
@@ -21,8 +21,8 @@ image:
 
 💡 [Eternally Bored](https://eternallybored.org/misc/wget/) produce compiled Windows binaries of [GNU Wget (only 32-bit)](https://www.gnu.org/software/wget/).
 
-💻 After downloading, move `wget.exe` into PATH (typically `C:\Windows\System32`, but can be found by entering `path` into the Windows Terminal/Command Prompt).
+🔧 After downloading, move `wget.exe` into PATH (typically `C:\Windows\System32`, but can be found by entering `path` into the Windows Terminal/Command Prompt).
 
-You can then call it via Jupyter using `!` to access terminal commands, e.g.
+💻 You can then call it via Jupyter using `!` to access terminal commands, e.g.
 
-`!wget http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/binarydigits.txt`
+`!wget http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/binarydigits.txt` ✅
