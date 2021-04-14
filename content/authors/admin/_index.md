@@ -59,6 +59,6 @@ email: ""
 user_groups: null
 ---
 
-I am a registrar in Anaesthetics & Intensive Care undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
+I am an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
 
 I am interested in leveraging the rich data routinely collected in Critical Care, alongside wider healthcare datasets, using machine learning methods to facilitate a more individualised approach to treatment decisions and targets.
