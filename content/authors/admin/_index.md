@@ -34,9 +34,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tomlincr
-  - icon: cv
-    icon_pack: ai
-    link: https://docs.google.com/document/d/1KRD5Pz2x_OTPO7wBuTpqHW0R_VNuUYDSHeXipo_R0tI
 education:
   courses:
     - course: MRes + PhD Candidate
