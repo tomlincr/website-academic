@@ -1,0 +1,128 @@
+---
+title: 'Code for EBPOM 2020 Abstract: Wearables for Home Post-op Monitoring'
+author: admin
+date: '2020-05-31'
+slug: EBPOM2020
+categories:
+  - wearables
+tags:
+  - EBPOM2020
+  - wearables
+  - anaesthesia
+  - perioperative
+  - cardiovascular
+  - fitbit
+  - ggplot
+  - healthcare data
+  - physiology
+  - research
+  - poster
+  - R
+  - visualisation
+subtitle: ''
+summary: ''
+authors: [C. Tomlinson]
+lastmod: '2020-05-31T16:44:39+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+
+Code for my abstract "Wearables for Home Post-Operative Monitoring: Proof of Concept" submitted to [Evidence Based PeriOperative Medicine 2020](https://www.ebpom.org/EBPOM2020)  
+  
+Imports fitbit data, via the web API and `fitbitr` package, into R. Then plots Figure 1 from the abstract, a graph of Heart Rate and Steps over Time with `geom_ribbon()`s representing NEWS2 ranges for HR and time asleep.
+
+```r
+# Load fitbit web API key into global environment
+FITBIT_KEY <- "<your OAuth 2.0 Client ID>"
+FITBIT_SECRET <- "<your Client Secret>"
+
+# Load fitbitr library by teramonagi
+# Installed via devtools::install_github("teramonagi/fitbitr")
+library("fitbitr")
+
+# Authenticate
+token <- fitbitr::oauth_token()
+# Set date
+date <- "YYYY/MM/DD"
+
+# Get step data
+df.step <- get_activity_intraday_time_series(token, resource_path = "steps", date = date, detail_level="15min")
+# Reduce data
+df.step <- df.step[,3:4]
+# Rename
+names(df.step) <- c("time", "steps")
+
+# Get HR data
+df.hr <- get_heart_rate_intraday_time_series(token, date = date, detail_level="15min")
+# Rename
+names(df.hr)[2] <- "HR"
+
+# Combine steps & HR
+df <- merge(df.step, df.hr, by = "time", all = TRUE)
+# Reprocess time to difftime to facilitate geom_smooth()
+df$time <- as.difftime(df$time, units = "mins")
+
+# Get sleep data
+df.sleep <- get_sleep_logs(token, date = date)
+# Identify asleep time
+asleep <- unique(df.sleep$sleep$startTime)
+# Identify awake time
+awake <- unique(df.sleep$sleep$endTime)
+# Get asleep time for next night
+asleep2 <- unique(get_sleep_logs(token, date = date)$sleep$startTime)
+
+## Plot
+library(ggplot2)
+library(ggthemes)
+library(gtable)
+library(grid)
+
+# Uses dual y-axis method from: https://rpubs.com/kohske/dual_axis_in_ggplot2
+
+grid.newpage()
+
+# First Plot: HR over Time
+p1 <- ggplot(df, aes(x = time, y = HR)) + geom_line(col = "red") + scale_x_discrete(breaks=c(0, 700, 1425), labels=c("00:00", "12:00", "23:59"), limits = c(0, 700, 1425)) + theme_few()
+# Add NEWS2 shaded ranges to HR
+NEWS2_HR_plotranges <- function(alpha = 0.2){
+        list(geom_ribbon(aes(ymin = 0, ymax = 40), fill = "red", alpha = alpha), 
+             geom_ribbon(aes(ymin = 40, ymax = 50), fill = "yellow", alpha = alpha), 
+             geom_ribbon(aes(ymin = 90, ymax = 110), fill = "yellow", alpha = alpha), 
+             geom_ribbon(aes(ymin = 110, ymax = 130), fill = "orange", alpha = alpha), 
+             geom_ribbon(aes(ymin = 130, ymax = Inf), fill = "red", alpha = alpha))
+}
+p1 <- p1 + NEWS2_HR_plotranges()
+
+# Second Plot: Steps over Time
+p2 <- ggplot(df, aes(x = time, y = steps)) + geom_line(shape = 24, col = "blue", alpha = 0.5) + labs(y = "Steps") theme_few() %+replace% 
+        theme(panel.background = element_rect(fill = NA))
+# Add shaded rectangles for time asleep
+p2 <- p2+ geom_ribbon(aes(xmin = 0, xmax = 424), col = "grey", alpha = 0.1)
+p2 <- p2 + geom_ribbon(aes(xmin = 1355, xmax = 1425), col = "grey", alpha = 0.1)
+
+# extract gtable
+g1 <- ggplot_gtable(ggplot_build(p1))
+g2 <- ggplot_gtable(ggplot_build(p2))
+# overlap the panel of 2nd plot on that of 1st plot
+pp <- c(subset(g1$layout, name == "panel", se = t:r))
+g <- gtable_add_grob(g1, g2$grobs[[which(g2$layout$name == "panel")]], pp$t, 
+                     pp$l, pp$b, pp$l)
+# axis tweaks
+ia <- which(g2$layout$name == "axis-l")
+ga <- g2$grobs[[ia]]
+ax <- ga$children[[2]]
+ax$widths <- rev(ax$widths)
+ax$grobs <- rev(ax$grobs)
+ax$grobs[[1]]$x <- ax$grobs[[1]]$x - unit(1, "npc") + unit(0.15, "cm")
+g <- gtable_add_cols(g, g2$widths[g2$layout[ia, ]$l], length(g$widths) - 1)
+g <- gtable_add_grob(g, ax, pp$t, length(g$widths) - 1, pp$b)
+
+# draw it
+grid.draw(g)
+```
