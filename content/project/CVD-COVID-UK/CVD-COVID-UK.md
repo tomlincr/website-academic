@@ -3,7 +3,10 @@ title: CVD-COVID-UK
 summary: Contributing clinical experience, data wrangling and analytical skills to development of COVID-19 Severity phenotypes from linked EHR data for 54 million patients in England.
 tags:
 - HDR-UK
-- COVID
+- COVID-19
+- Phenotyping
+- EHR
+- Health data science
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

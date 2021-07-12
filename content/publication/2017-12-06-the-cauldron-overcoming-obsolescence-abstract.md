@@ -16,6 +16,7 @@ publishDate: "2021-03-18"
 publication_types: ["1"]
 publication: 'Journal of the Intensive Care Society'
 publication_short: 'JICS'
+authors: [C. Tomlinson]
 abstract: ''
 summary: ''
 tags:
