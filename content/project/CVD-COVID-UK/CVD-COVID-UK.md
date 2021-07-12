@@ -36,6 +36,7 @@ slides: ""
 
 * `CCU003`: Direct and indirect effects of the coronavirus pandemic in individuals with cardiovascular disease (Lead: Ami Banerjee, UCL)
 * `CCU013`: High-throughput electronic health record phenotyping approaches (Lead: Spiros Denaxas, UCL)
+* `CCU020`: Evaluation of antithrombotic use and COVID-19 outcomes (Lead: Alex Handy, UCL)
 
 🏥 Datasets:
 
