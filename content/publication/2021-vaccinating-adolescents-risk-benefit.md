@@ -8,7 +8,7 @@ tags:
   - HDR-UK
   - BHF Data Science Centre
   - preprint
-authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, **Tomlinson C**, Yates C, Ziauddeen H & Pagel C]
+authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, Tomlinson C, Yates C, Ziauddeen H & Pagel C]
 doi: 'https://doi.org/10.31219/osf.io/grzma'
 publishDate: '2021-08-04'
 publication_types:
