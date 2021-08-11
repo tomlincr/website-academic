@@ -8,9 +8,9 @@ authors:
 title: Dr Chris Tomlinson
 role: 👨‍⚕️ Critical Care Doctor | 🎓 PhD @ [UCL CDT in AI-enabled Healthcare](https://www.ucl.ac.uk/aihealth-cdt/)
 interests:
-  - Physiology of Critical Illness
+  - Phenomics
   - "Leveraging multi-modal healthcare data: population records, EHR, physiological variables, biomarkers, pan-omics"
-  - Novel and probabilistic ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and acute illness
+  - Novel and probabilistic ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and Critical Illness
   - Time-series data
 social:
   - icon: envelope
