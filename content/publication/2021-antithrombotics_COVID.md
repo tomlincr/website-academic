@@ -29,7 +29,7 @@ url_poster: ~
 url_project: ~
 url_slides: 'https://alexhandy1.shinyapps.io/at-evaluation-results/'
 url_source: ~
-url_video: ~
+url_video: 'https://www.youtube.com/watch?v=Mk7mY-50xZ0'
 image:
   caption: ''
   focal_point: ''
