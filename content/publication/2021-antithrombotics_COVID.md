@@ -23,11 +23,11 @@ featured: yes
 url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.09.03.21263023v1.full.pdf'
 url_pmid: ''
 url_code: 'https://github.com/BHFDSC/CCU020'
-url_dashboard: 'https://alexhandy1.shinyapps.io/at-evaluation-results/'
+url_dashboard: 'https://alexhandy1.shinyapps.io/at-evaluation-results/' # Doesn't display
 url_dataset: ''
 url_poster: ~
 url_project: ~
-url_slides: ~
+url_slides: 'https://alexhandy1.shinyapps.io/at-evaluation-results/'
 url_source: ~
 url_video: ~
 image:
