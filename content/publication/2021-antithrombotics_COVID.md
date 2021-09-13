@@ -30,6 +30,8 @@ url_project: ~
 url_slides: 'https://alexhandy1.shinyapps.io/at-evaluation-results/'
 url_source: ~
 url_video: ~
+- name: Dashboard
+  url: 'https://alexhandy1.shinyapps.io/at-evaluation-results/'
 image:
   caption: ''
   focal_point: ''
