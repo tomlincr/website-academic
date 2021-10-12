@@ -34,6 +34,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tomlincr
+  - icon: university
+    icon_pack: fas
+    link: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
 education:
   courses:
     - course: MRes + PhD Candidate
