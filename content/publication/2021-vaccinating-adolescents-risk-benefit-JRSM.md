@@ -1,6 +1,6 @@
 ---
-title: "Vaccinating adolescents in England: a risk-benefit analysis"
-date: "2021-09-30"
+title: "Vaccinating adolescents against SARS-CoV-2 in England: a risk–benefit analysis"
+date: "2021-11-01"
 
 tags:
   - COVID19
@@ -10,8 +10,8 @@ tags:
   - vaccination
   - policy
 authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, Tomlinson C, Yates C, Ziauddeen H & Pagel C]
-doi: 'https://doi.org/10.31219/osf.io/grzma'
-publishDate: '2021-09-30'
+doi: 'https://doi.org/10.1177/01410768211052589'
+publishDate: '2021-11-01'
 publication_types:
   - '2' # Journal article
 publication: 'Journal of the Royal Society of Medicine'
@@ -19,7 +19,7 @@ publication_short: 'JRSM'
 abstract: ''
 summary: ''
 featured: yes
-url_pdf: 'https://www.rsm.ac.uk/media/5475435/vaccines_children_jrsm_rev_final.pdf'
+url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/01410768211052589'
 url_pmid: ''
 url_code: ''
 url_dataset: 'https://github.com/dgurdasani1/vaccine_adolescents_england'
