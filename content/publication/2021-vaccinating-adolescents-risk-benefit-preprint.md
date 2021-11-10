@@ -4,7 +4,8 @@ date: "2021-08-04"
 
 tags:
   - COVID19
-  - CVD-COVID-UK Consortium
+  - CVD-COVID-UK
+  - COVID-IMPACT
   - HDR-UK
   - BHF Data Science Centre
   - preprint

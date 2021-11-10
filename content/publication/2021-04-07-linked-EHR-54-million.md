@@ -5,7 +5,8 @@ date: "2021-04-07"
 tags:
   - COVID19
   - EHR
-  - CVD-COVID-UK Consortium
+  - CVD-COVID-UK
+  - COVID-IMPACT
   - HDR-UK
   - BHF Data Science Centre
 authors: [Angela Wood, Rachel Denholm, Sam Hollings, Jennifer Cooper, Samantha Ip, Venexia Walker, Spiros Denaxas, Ashley Akbari, Amitava Banerjee, William Whiteley, Alvina Lai, Jonathan Sterne, Cathie Sudlow on behalf of the CVD-COVID-UK consortium]
