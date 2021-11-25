@@ -3,9 +3,8 @@ title: "Understanding COVID-19 trajectories from a nationwide linked electronic 
 date: "2021-11-09"
 
 tags:
-  - COVID19
-  - CVD-COVID-UK
-  - COVID-IMPACT
+  - COVID-19
+  - CVD-COVID-UK/COVID-IMPACT
   - HDR-UK
   - BHF Data Science Centre
   - preprint
@@ -37,7 +36,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: [CVD-COVID-UK]
+projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 

@@ -2,9 +2,10 @@
 title: CVD-COVID-UK/COVID-IMPACT
 summary: Contributing clinical experience, data wrangling and analytical skills to development of COVID-19 Severity phenotypes from linked EHR data for 54 million patients in England.
 tags:
-- HDR-UK
 - COVID-19
 - CVD-COVID-UK/COVID-IMPACT
+- HDR-UK
+- BHF Data Science Centre
 - Phenotyping
 - EHR
 - Health data science
