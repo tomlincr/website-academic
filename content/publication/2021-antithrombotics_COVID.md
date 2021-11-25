@@ -3,8 +3,8 @@ title: "Evaluation of antithrombotic use and COVID-19 outcomes in a nationwide a
 date: "2021-09-10"
 
 tags:
-  - COVID19
-  - CVD-COVID-UK Consortium
+  - COVID-19
+  - CVD-COVID-UK/COVID-IMPACT
   - HDR-UK
   - BHF Data Science Centre
   - preprint
@@ -34,6 +34,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: [CVD-COVID-UK]
+projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
