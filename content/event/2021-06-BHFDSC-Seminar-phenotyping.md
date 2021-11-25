@@ -3,10 +3,13 @@ title: "Characterising COVID-19 related events in a nationwide electronic health
 author: admin
 date: '2021-06-16'
 tags:
-  - seminar
   - COVID-19
-  - BHFDSC
+  - CVD-COVID-UK/COVID-IMPACT
+  - BHF Data Science Centre
   - HDR-UK
+  - phenotyping
+  - phenomics
+  - linkage
 event: BHF Data Science Centre Seminar Series
 event_url: https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/
 location: Online
@@ -32,7 +35,7 @@ url_video: https://www.youtube.com/watch?v=aNmOu2kbAM4
 url_source: ~
 url_pdf: ~
 slides: ''
-projects: []
+projects: [CVD-COVID-UK/COVID-IMPACT]
 ---
 
 Short presentation of our progress on defining COVID-19 event phenotypes in the NHS-Digital Trusted Research Environment as part of the [CVD-COVID-UK Consortium](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/). 
