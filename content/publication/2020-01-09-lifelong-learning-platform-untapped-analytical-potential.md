@@ -17,7 +17,7 @@ publication: 'Anaesthesia'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: yes
+featured: no
 url_pdf: ~
 url_code: ~
 url_dataset: ~

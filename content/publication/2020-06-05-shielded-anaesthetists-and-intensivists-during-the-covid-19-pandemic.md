@@ -21,7 +21,7 @@ publication: 'Anaesthesia'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: yes
+featured: no
 url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/anae.15153'
 url_code: ~
 url_dataset: ~
