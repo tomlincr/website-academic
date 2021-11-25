@@ -6,12 +6,11 @@ superuser: true
 authors:
   - admin
 title: Dr Chris Tomlinson
-role: 👨‍⚕️ Critical Care Doctor | 🎓 PhD @ [UCL CDT in AI-enabled Healthcare](https://www.ucl.ac.uk/aihealth-cdt/)
+role: 👨‍💻Health Data Scientist |🎓PhD in AI Healthcare |👨‍⚕️Critical Care Doctor
 interests:
-  - Phenomics
-  - "Leveraging multi-modal healthcare data: population records, EHR, physiological variables, biomarkers, pan-omics"
-  - Novel and probabilistic ML methods to decipher heterogeneity seen in patient's responses to the complex interactions between comorbidities and Critical Illness
-  - Time-series data
+  - "Leveraging multi-modal healthcare data: electronic health records (EHR), population data, physiological variables, biomarkers, wearables, pan-omics"
+  - "Defining clinically-relevant EHR phenotypes to unlock routinely-collected healthcare data for research benefit"
+  - "Machine learning & deep learning methods for analysis, prediction and clustering of high-dimensional healthcare data"
 social:
   - icon: envelope
     icon_pack: fas
@@ -61,4 +60,6 @@ user_groups: null
 
 I am an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
 
-I am interested in leveraging the rich data routinely collected in Critical Care, alongside wider healthcare datasets, using machine learning methods to facilitate a more individualised approach to treatment decisions and targets.
+Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research I use real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 56.6 million individuals in England](https://doi.org/10.1101/2021.11.08.21265312).
+
+I am interested in the application of AI methodologies to disentangle the complex interactions between organ systems, individuals and healthcare systems to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
