@@ -38,7 +38,7 @@ social:
     link: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
 education:
   courses:
-    - course: PhD Candidate: Artificial Intelligence enabled healthcare
+    - course: "PhD Candidate: Artificial Intelligence enabled healthcare"
       institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
         Systems, UCL Institute of Health Informatics
       year: 2021-2024
