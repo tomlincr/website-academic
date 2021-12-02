@@ -38,10 +38,14 @@ social:
     link: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
 education:
   courses:
-    - course: MRes + PhD Candidate
+    - course: PhD Candidate: Artificial Intelligence enabled healthcare
       institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
         Systems, UCL Institute of Health Informatics
-      year: 2020-2024
+      year: 2021-2024
+    - course: MRes Artificial Intelligence enabled healthcare
+      institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
+        Systems, UCL Institute of Health Informatics
+      year: 2021
     - course: Primary Fellowship
       institution: Royal College of Anaesthetists
       year: 2018
