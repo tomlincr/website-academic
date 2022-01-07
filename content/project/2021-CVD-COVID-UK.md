@@ -19,6 +19,8 @@ links:
   url: https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/
 - name: Descriptive Paper
   url: https://doi.org/10.1101/2021.02.22.21252185
+- name: Phenotyping Paper
+  url: {{< relref "/publication/2021-11-09-COVID-phenotyping-preprint.md" >}}
 url_code: ""
 url_pdf: ""
 url_slides: ""
