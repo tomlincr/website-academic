@@ -42,4 +42,4 @@ slides: ''
 ---
 
 BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale  
-{{< youtube id="IYA1HZLDqbM", autoplay="false", title="BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale" >}}
+{{< youtube id="IYA1HZLDqbM" autoplay="false" title="BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale" >}}
