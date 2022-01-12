@@ -40,5 +40,6 @@ image:
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
-# BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IYA1HZLDqbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale  
+{{< youtube id="IYA1HZLDqbM", autoplay="false", title="BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale" >}}
