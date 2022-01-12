@@ -30,7 +30,7 @@ url_poster: ~
 url_project: 'https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/'
 url_slides: ~
 url_source: ~
-url_video: ~
+url_video: https://youtu.be/PmectJpzkaU
 image:
   caption: ''
   focal_point: ''
@@ -38,3 +38,6 @@ image:
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
+
+BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani  
+{{< youtube id="PmectJpzkaU" autoplay="false" title="BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani " >}}
