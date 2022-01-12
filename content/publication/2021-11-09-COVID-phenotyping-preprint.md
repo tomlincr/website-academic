@@ -41,5 +41,3 @@ slides: ''
 ---
 
 [Twitter thread](https://twitter.com/tomlincr/status/1458373976615383046)
-
-{{< tweet user="tomlincr" id="1458373976615383046" >}}
