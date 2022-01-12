@@ -32,7 +32,7 @@ url_poster: ~
 url_project: 'https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/'
 url_slides: ~
 url_source: ~
-url_video: ~
+url_video: https://www.youtube.com/watch?v=IYA1HZLDqbM
 image:
   caption: ''
   focal_point: ''
@@ -40,3 +40,5 @@ image:
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
+# BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYA1HZLDqbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
