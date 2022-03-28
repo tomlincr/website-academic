@@ -19,7 +19,7 @@ publication: 'Heart'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: no
+featured: yes
 url_pdf: 'https://heart.bmj.com/content/heartjnl/early/2022/03/09/heartjnl-2021-320325.full.pdf'
 url_pmid: ''
 url_code: 'https://github.com/BHFDSC/CCU020'

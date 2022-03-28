@@ -24,7 +24,7 @@ publication: 'medRxiv'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: no
+featured: yes
 url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.12.20.21268113v1.full.pdf'
 url_pmid: ''
 url_code: 'https://github.com/BHFDSC/CCU004_02'

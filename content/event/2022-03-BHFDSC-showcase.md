@@ -39,4 +39,4 @@ slides: ''
 projects: [CVD-COVID-UK/COVID-IMPACT]
 ---
 
-{{< youtube "EZb57aJFtz4?t=1490" >}}
+{{< youtube "EZb57aJFtz4?t=1492" >}}
