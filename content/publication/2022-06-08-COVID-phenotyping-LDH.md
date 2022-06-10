@@ -45,4 +45,5 @@ slides: ''
 Media coverage:
 
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://medicalxpress.com/news/2022-06-comprehensive-analysis-covid-reveals-previously.html). Medical Xpress. 08/06/2022.
-* ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://www.hdruk.ac.uk/news/most-comprehensive-analysis-of-covid-19-data-reveals-previously-unattributed-deaths/). HDR UK. 09/06/2022. 
+* ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://www.hdruk.ac.uk/news/most-comprehensive-analysis-of-covid-19-data-reveals-previously-unattributed-deaths/). HDR UK. 09/06/2022.
+* [First-of-its-kind study uses health data to build the most complete picture of COVID-19 pandemic"](https://www.news-medical.net/news/20220609/First-of-its-kind-study-uses-health-data-to-build-the-most-complete-picture-of-COVID-19-pandemic.aspx). Emily Henderson. News-Medical.Net. 09/06/2022.
