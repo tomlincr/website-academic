@@ -18,13 +18,13 @@ doi: 'https://doi.org/10.1016/S2589-7500(22)00091-7'
 publishDate: '2022-06-08'
 publication_types:
   - '2' #  Journal article
-publication: 'Lancet Digital Health'
-publication_short: 'LDH'
+publication: 'The Lancet Digital Health'
+publication_short: 'Lancet Digital Health'
 abstract: ''
 summary: ''
 featured: yes
 url_pdf: 'https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900091-7'
-url_pmid: ''
+url_pmid: 'https://pubmed.ncbi.nlm.nih.gov/35690576/'
 url_code: 'https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping'
 url_dataset: 'https://web.www.healthdatagateway.org/dataset/7e5f0247-f033-4f98-aed3-3d7422b9dc6d'
 url_poster: ~
@@ -41,6 +41,9 @@ slides: ''
 ---
 
 [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1534793635954188289)  
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1016%2Fs2589-7500(22)00091-7" class="plumx-details" data-site="plum" data-hide-when-empty="true">COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records</a>
   
 Media coverage:
 
