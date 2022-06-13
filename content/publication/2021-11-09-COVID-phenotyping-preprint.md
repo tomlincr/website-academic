@@ -50,5 +50,5 @@ slides: ''
 {{< tweet 1458373976615383046 >}}
 
 📊 Metrics:
-
-<div data-badge-details="right" data-badge-type="medium-donut" data-altmetric-id="116525450" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1101/2021.11.08.21265312" class="plumx-details" data-site="plum" data-hide-when-empty="true">Understanding COVID-19 trajectories from a nationwide linked electronic health record cohort of 56 million people: phenotypes, severity, waves</a>

@@ -43,7 +43,7 @@ slides: ''
 {{< tweet 1502310891227791370 >}}
   
 📺 BHF Data Science Centre seminar by Dr Alex Handy
-{{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}v
+{{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}
 
 📊 Metrics:
 
