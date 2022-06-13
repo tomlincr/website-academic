@@ -24,7 +24,7 @@ abstract: ''
 summary: ''
 featured: yes
 url_pdf: 'https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900091-7'
-url_pmid: 'https://pubmed.ncbi.nlm.nih.gov/35690576/'
+url_pmid: '35690576'
 url_code: 'https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping'
 url_dataset: 'https://web.www.healthdatagateway.org/dataset/7e5f0247-f033-4f98-aed3-3d7422b9dc6d'
 url_poster: ~
@@ -45,7 +45,7 @@ slides: ''
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.1016%2Fs2589-7500(22)00091-7" class="plumx-details" data-site="plum" data-hide-when-empty="true">COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records</a>
   
-Media coverage:
+📰 Media coverage:
 
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://medicalxpress.com/news/2022-06-comprehensive-analysis-covid-reveals-previously.html). Medical Xpress. 08/06/2022.
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://www.hdruk.ac.uk/news/most-comprehensive-analysis-of-covid-19-data-reveals-previously-unattributed-deaths/). HDR UK. 09/06/2022.
