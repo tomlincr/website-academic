@@ -42,6 +42,9 @@ slides: ''
 
 {{< icon name="twitter" pack="fab" >}} [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1534793635954188289)  
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣 COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records<br><br>Proud to share this work with <a href="https://twitter.com/johanhilge?ref_src=twsrc%5Etfw">@johanhilge</a> <a href="https://twitter.com/SpirosDenaxas?ref_src=twsrc%5Etfw">@SpirosDenaxas</a> <a href="https://twitter.com/BHFDataScience?ref_src=twsrc%5Etfw">@BHFDataScience</a> <a href="https://twitter.com/HDR_UK?ref_src=twsrc%5Etfw">@HDR_UK</a> + team in <a href="https://twitter.com/LancetDigitalH?ref_src=twsrc%5Etfw">@LancetDigitalH</a><a href="https://t.co/DY96ClN0c3">https://t.co/DY96ClN0c3</a><br><br>🧵</p>&mdash; Chris Tomlinson (@tomlincr) <a href="https://twitter.com/tomlincr/status/1534793635954188289?ref_src=twsrc%5Etfw">June 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.1016%2Fs2589-7500(22)00091-7" class="plumx-details" data-site="plum" data-hide-when-empty="true">COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records</a>
   
