@@ -49,7 +49,10 @@ slides: ''
 📺 BHF Data Science Centre seminar by Dr Mehrdad Mizani 
 {{< youtube id="a2OG67xBpqI" autoplay="false" >}}
 
-📊 PlumX metrics:
+📊 Metrics:
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4052647" class="plumx-details" data-site="plum" data-hide-when-empty="true">Using National Electronic Health Records for Pandemic Preparedness: Validation of a Parsimonious Model for Predicting Excess Deaths Among Those With COVID-19</a>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.2139/ssrn.4052647" data-hide-no-mentions="true" class="altmetric-embed"></div>
