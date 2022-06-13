@@ -56,4 +56,7 @@ slides: ''
 
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://medicalxpress.com/news/2022-06-comprehensive-analysis-covid-reveals-previously.html). Medical Xpress. 08/06/2022.
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://www.hdruk.ac.uk/news/most-comprehensive-analysis-of-covid-19-data-reveals-previously-unattributed-deaths/). HDR UK. 09/06/2022.
-* [First-of-its-kind study uses health data to build the most complete picture of COVID-19 pandemic"](https://www.news-medical.net/news/20220609/First-of-its-kind-study-uses-health-data-to-build-the-most-complete-picture-of-COVID-19-pandemic.aspx). Emily Henderson. News-Medical.Net. 09/06/2022.
+* ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://scienmag.com/most-comprehensive-analysis-of-covid-19-data-reveals-previously-unattributed-deaths/). ScienMag: Science Magazine. 09/06/2022.
+* ["COVID-19: TCTMD’s Dispatch for June 9"](https://www.tctmd.com/news/COVID19-daily-dispatch). TCTMD. 09/06/2022.
+* [First-of-its-kind study uses health data to build the most complete picture of COVID-19 pandemic"](https://www.news-medical.net/news/20220609/First-of-its-kind-study-uses-health-data-to-build-the-most-complete-picture-of-COVID-19-pandemic.aspx). Emily Henderson. News-Medical.Net. 10/06/2022.
+* [Population-level big data reveals COVID-19 phenotypes"](https://www.news-medical.net/news/20220613/Population-level-big-data-reveals-COVID-19-phenotypes.aspx). Shanet Susan Alex & Danielle Ellis. News-Medical.Net. 13/06/2022.
