@@ -39,5 +39,10 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani  
+📊 Metrics:
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1101/2021.11.22.21266512" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+
+📺 BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani  
 {{< youtube id="PmectJpzkaU" autoplay="false" title="BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani " >}}

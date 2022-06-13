@@ -41,10 +41,10 @@ slides: ''
 {{< icon name="twitter" pack="fab" >}} [Twitter thread](https://twitter.com/tomlincr/status/1502310891227791370)  
 
 {{< tweet 1502310891227791370 >}}
-  
-📺 BHF Data Science Centre seminar by Dr Alex Handy
-{{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}
 
 📊 Metrics:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1136/heartjnl-2021-320325" data-hide-no-mentions="true" class="altmetric-embed"></div>
+  
+📺 BHF Data Science Centre seminar by Dr Alex Handy
+{{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}

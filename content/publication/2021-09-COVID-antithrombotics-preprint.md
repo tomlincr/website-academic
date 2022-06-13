@@ -38,6 +38,9 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
+📊 Metrics:
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1101/2021.09.03.21263023" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-BHF Data Science Centre seminar by Dr Alex Handy
+📺 BHF Data Science Centre seminar by Dr Alex Handy
 {{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}

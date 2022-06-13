@@ -41,3 +41,7 @@ image:
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
+
+📊 Metrics:
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1101/2021.12.20.21268113" data-hide-no-mentions="true" class="altmetric-embed"></div>

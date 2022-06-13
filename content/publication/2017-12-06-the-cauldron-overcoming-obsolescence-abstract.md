@@ -54,3 +54,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+📊 Metrics:
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1177/1751143718790729" data-hide-no-mentions="true" class="altmetric-embed"></div>
