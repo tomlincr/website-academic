@@ -40,7 +40,7 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-[Twitter thread summarising key results](https://twitter.com/tomlincr/status/1534793635954188289)  
+{{< icon name="twitter" pack="fab" >}} [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1534793635954188289)  
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.1016%2Fs2589-7500(22)00091-7" class="plumx-details" data-site="plum" data-hide-when-empty="true">COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records</a>
