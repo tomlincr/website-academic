@@ -64,6 +64,6 @@ user_groups: null
 
 I am an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
 
-Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research I use real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 56.6 million individuals in England](https://doi.org/10.1101/2021.11.08.21265312).
+Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research I use real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
 
 I am interested in the application of AI methodologies to disentangle the complex interactions between organ systems, individuals and healthcare systems to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
