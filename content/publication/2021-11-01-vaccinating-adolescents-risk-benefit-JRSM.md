@@ -36,9 +36,15 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-[Twitter thread by Deepti Gurdasani](https://twitter.com/dgurdasani1/status/1422911517201141762?s=20)
+{{< icon name="twitter" pack="fab" >}} [Twitter thread by Deepti Gurdasani](https://twitter.com/dgurdasani1/status/1422911517201141762?s=20)  
 
-Media coverage:
+{{< tweet 1422911517201141762 >}}
+
+
+📊 Metrics:
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1101/2021.11.08.21265312" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+📰 Media coverage:
 
 * ["Giving 12 to 17-year-olds two doses of Pfizer's Covid vaccine could prevent 4,000 hospitalisations and benefits DO outweigh risks, study claims... but experts criticise 'limited' findings"](https://www.dailymail.co.uk/news/article-10041743/Giving-children-two-doses-Covid-jab-prevent-thousands-hospital-admissions-study.html). Connor Boyd. Mail Online. 30/09/2021.
 * ["Pressure grows on UK vaccine advisers to recommend second dose for teens"](https://www.ft.com/content/51cdd237-1bc4-47aa-b198-d45bb4bbcfd6). Oliver Barnes. Financial Times. 30/09/2021.
