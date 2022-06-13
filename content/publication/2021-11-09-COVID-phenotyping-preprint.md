@@ -22,7 +22,7 @@ publication: 'medRxiv'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: yes
+featured: no
 url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.11.08.21265312v1.full.pdf'
 url_pmid: ''
 url_code: 'https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping'
@@ -40,4 +40,15 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-[Twitter thread](https://twitter.com/tomlincr/status/1458373976615383046)
+❗ Now published in The Lancet Digital Health
+
+{{< cite page="/publication/2022-06-08-COVID-phenotyping-LDH.md" view="4" >}}
+
+
+{{< icon name="twitter" pack="fab" >}} [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1458373976615383046)  
+
+{{< tweet 1458373976615383046 >}}
+
+📊 Metrics:
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-altmetric-id="116525450" data-hide-no-mentions="true" class="altmetric-embed"></div>

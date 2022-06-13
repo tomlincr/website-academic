@@ -38,7 +38,13 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-[Twitter thread](https://twitter.com/tomlincr/status/1502310891227791370)  
+{{< icon name="twitter" pack="fab" >}} [Twitter thread](https://twitter.com/tomlincr/status/1502310891227791370)  
+
+{{< tweet 1502310891227791370 >}}
   
-BHF Data Science Centre seminar by Dr Alex Handy
-{{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}
+📺 BHF Data Science Centre seminar by Dr Alex Handy
+{{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}v
+
+📊 Metrics:
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1136/heartjnl-2021-320325" data-hide-no-mentions="true" class="altmetric-embed"></div>
