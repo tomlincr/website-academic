@@ -44,15 +44,19 @@ slides: ''
 
 {{< tweet 1534793635954188289 >}}
 
-📊 Metrics:
+<br>
+📊 **Metrics**
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.1016%2Fs2589-7500(22)00091-7" class="plumx-details" data-site="plum" data-hide-when-empty="true">COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records</a>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/S2589-7500(22)00091-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/S2589-7500(22)00091-7" data-hide-zero-citations="true" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
-📰 Media coverage:
+<br>
+📰 **Media coverage**
 
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://medicalxpress.com/news/2022-06-comprehensive-analysis-covid-reveals-previously.html). Medical Xpress. 08/06/2022.
 * ["Most comprehensive analysis of COVID-19 data reveals previously unattributed deaths"](https://www.hdruk.ac.uk/news/most-comprehensive-analysis-of-covid-19-data-reveals-previously-unattributed-deaths/). HDR UK. 09/06/2022.

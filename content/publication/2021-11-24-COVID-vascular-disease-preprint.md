@@ -39,10 +39,15 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-📊 Metrics:
+📊 **Metrics**
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1101/2021.11.22.21266512" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1101/2021.11.22.21266512" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.11.22.21266512" data-hide-zero-citations="true" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-📺 BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani  
+<br>
+📺 **BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani**  
 {{< youtube id="PmectJpzkaU" autoplay="false" title="BHF Data Science Centre seminar by Dr Samantha Ip & Dr Hoda Abbasizanjani " >}}

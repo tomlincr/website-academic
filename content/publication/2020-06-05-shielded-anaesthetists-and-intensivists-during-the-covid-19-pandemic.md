@@ -41,7 +41,12 @@ slides: ''
 {{< icon name="twitter" pack="fab" >}} [Twitter ](https://mobile.twitter.com/tomlincr/status/1268814956323012608)  
 {{< tweet 1268814956323012608 >}}
 
+<br>
+📊 **Metrics**
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1111/anae.15153" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
 
-📊 Metrics:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1111/anae.15153" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/anae.15153" data-hide-zero-citations="true" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

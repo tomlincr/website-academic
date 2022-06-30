@@ -38,9 +38,20 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-📊 Metrics:
+❗ **Now published in Heart**
+
+{{< cite page="/publication/2022-03-10-COVID-antithrombotics-heart.md" view="4" >}}
+
+<br>
+📊 **Metrics**
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1101/2021.09.03.21263023" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1101/2021.09.03.21263023" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-📺 BHF Data Science Centre seminar by Dr Alex Handy
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.09.03.21263023" data-hide-zero-citations="true" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<br>
+📺 **BHF Data Science Centre seminar by Dr Alex Handy**
 {{< youtube id="Mk7mY-50xZ0" autoplay="false" title="BHF Data Science Centre seminar by Dr Alex Handy" >}}
