@@ -40,13 +40,12 @@ slides: ''
 
 {{< cite page="/publication/2021-11-01-vaccinating-adolescents-risk-benefit-JRSM.md" view="4" >}}
 
-<br>
 {{< icon name="twitter" pack="fab" >}} [Twitter thread by Deepti Gurdasani](https://twitter.com/dgurdasani1/status/1422911517201141762?s=20)  
 
 {{< tweet 1422911517201141762 >}}
-
-<br>
+  
 📊 **Metrics**
+
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.31219/osf.io/grzma" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
 
@@ -55,7 +54,7 @@ slides: ''
 
 <span class="__dimensions_badge_embed__" data-doi="10.31219/osf.io/grzma" data-hide-zero-citations="true" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<br>
+
 📰 **Media coverage**
 
 * ["Why are government experts holding off vaccinating under-16s in the UK?"](https://www.theguardian.com/commentisfree/2021/aug/06/uk-government-experts-vaccinating-under-16s). Deepti Gurdasani. Guardian. 06/08/2021.
