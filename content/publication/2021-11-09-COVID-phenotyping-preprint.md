@@ -40,17 +40,15 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
 ---
 
-❗ **Now published in The Lancet Digital Health**
+❗ **Now published in The Lancet Digital Health**  
 
 {{< cite page="/publication/2022-06-08-COVID-phenotyping-LDH.md" view="4" >}}
 
-<br>
 {{< icon name="twitter" pack="fab" >}} [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1458373976615383046)  
 
 {{< tweet 1458373976615383046 >}}
-
-<br>
-📊 **Metrics**
+  
+📊 **Metrics**  
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.1101/2021.11.08.21265312" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
 
