@@ -41,6 +41,8 @@ slides: ''
 add_badge: true
 ---
 
+{{< metrics >}}
+
 {{< icon name="twitter" pack="fab" >}} [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1534793635954188289)  
 
 {{< tweet 1534793635954188289 >}}
