@@ -1,13 +1,7 @@
 <!-- https://gohugo.io/templates/shortcode-templates/#custom-shortcode-examples -->
-<!-- https://github.com/wowchemy/wowchemy-hugo-themes/discussions/1912#discussioncomment-125429 -->
+<!-- $.Page.Params
+refers to the page’s params; the “page” in this case refers to the content file in which the shortcode is declared (e.g., a shortcode_color field in a content’s front matter could be accessed via $.Page.Params.shortcode_color). -->
 
-<!-- <div class="ml-3">
-    {{ if $.Page.Params.doi }}
-      <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $.Page.Params.doi }}" data-condensed="true" class="altmetric-embed"></div>
-      <div class="__dimensions_badge_embed__" data-doi="{{ $.Page.Params.doi }}" data-legend="hover-left" data-style="small_circle"></div>
-      <a href={{ print "https://plu.mx/plum/a/?doi=" $.Page.Params.doi }} data-popup="bottom" data-size="medium" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true"></a>
-    {{ end }}
-    </div> -->
 
 {{ if $.Page.Params.doi }}
 <html>
@@ -51,13 +45,6 @@
             data-site="plum" 
             data-hide-when-empty="true">
         </a>
-        <!-- <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-            <a href="{{ print "https://plu.mx/plum/a/?doi=" $.Page.Params.doi }}" 
-            data-orientation="horizontal" 
-            class="plumx-summary" 
-            data-site="plum" 
-            data-hide-when-empty="true">
-            </a> -->
         </div>
     </section>
 {{ end }}
