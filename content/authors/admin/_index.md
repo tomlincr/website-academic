@@ -60,6 +60,7 @@ education:
       year: 2011
 email: ""
 user_groups: null
+highlight_name: true
 ---
 
 I am an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
