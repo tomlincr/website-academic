@@ -14,7 +14,7 @@ tags:
   - vaccination
   - policy
 authors: [Johan H Thygesen, Christopher Tomlinson, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
-doi: 'https://doi.org/10.1016/S2589-7500(22)00091-7'
+doi: '10.1016/S2589-7500(22)00091-7'
 publishDate: '2022-06-08'
 publication_types:
   - '2' #  Journal article
