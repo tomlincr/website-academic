@@ -15,7 +15,7 @@ tags:
   - modelling
   - CVD
 authors: [Mizani, Mehrdad A. and Dashtban, Muhammad and Pasea, Laura and Lai, Alvina and Thygesen, Johan Hilge and Tomlinson, Christopher and Handy, Alex and Mamza, Jil Billy and Morris, Tamsin and Khalid, Sara and Zaccardi, Francesco and Macleod, Mary J. and Torabi, Fatemeh and Canoy, Dexter and Akbari, Ashley and Berry, Colin and Bolton, Thomas and Nolan, John and Khunti, Kamlesh and Denaxas, Spiros and Hemingway, Harry and Sudlow, Cathie and Banerjee, Amitava and Consortium, CVD-COVID-UK]
-doi: 'http://dx.doi.org/10.2139/ssrn.4052647'
+doi: '10.2139/ssrn.4052647'
 publishDate: '2022-03-08'
 publication_types:
   - '3' #  Preprint / Working Paper
@@ -39,6 +39,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 {{< icon name="twitter" pack="fab" >}} [Twitter thread by Prof Ami Banerjee summarising key results](https://twitter.com/amibanerjee1/status/1501623666550919178)  

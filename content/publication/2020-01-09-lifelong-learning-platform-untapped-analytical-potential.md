@@ -32,6 +32,7 @@ image:
   preview_only: no
 projects: []
 slides: ''
+add_badge: true
 ---
 
 📊 **Metrics**

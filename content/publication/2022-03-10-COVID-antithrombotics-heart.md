@@ -11,7 +11,7 @@ tags:
   - EHR
   - policy
 authors: [Alex Handy,  Amitava Banerjee,  Angela Wood, Caroline Dale,  Cathie Sudlow,  Christopher Tomlinson,  Daniel Bean,  Johan H Thygesen,  Mehrdad A Mizani,  Michail Katsoulis,  Rohan Takhar,  Sam Hollings,  Spiros Denaxas,  Venexia Walker,  Richard Dobson,  Reecha Sofat &  CVD-COVID-UK Consortium]
-doi: 'https://doi.org/10.1136/heartjnl-2021-320325'
+doi: '10.1136/heartjnl-2021-320325'
 publishDate: '2022-03-10'
 publication_types:
   - '2' #  Journal article
@@ -36,6 +36,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 {{< icon name="twitter" pack="fab" >}} [Twitter thread](https://twitter.com/tomlincr/status/1502310891227791370)  

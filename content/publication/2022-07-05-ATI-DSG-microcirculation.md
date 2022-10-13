@@ -14,7 +14,7 @@ tags:
   - Tensorflow
   - OpenCV
 authors: [Christopher Tomlinson, Jan Grols, Ramit Debnath, Sarah Johnson, Max Barton, Tianyu Han, Seyedeh Nazanin Khatami, Giacomo Baldo, Aniketh Ramesh, Diego Cammarano, Kashif Rajpoot]
-doi: 'https://doi.org/10.5281/zenodo.6799096'
+doi: '10.5281/zenodo.6799096'
 publishDate: '2022-07-05'
 publication_types:
   - '4' #  Report
@@ -38,6 +38,7 @@ image:
   preview_only: no
 projects: [ATI-DSG]
 slides: ''
+add_badge: true
 ---
 
 {{< icon name="twitter" pack="fab" >}} [https://twitter.com/tomlincr/status/1498310957428359172]  

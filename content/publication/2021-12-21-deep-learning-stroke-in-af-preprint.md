@@ -16,7 +16,7 @@ tags:
   - Risk Prediction
 authors: [Alex Handy, Angela Wood, Cathie Sudlow, Christopher Tomlinson, Frank Kee, Johan H Thygesen, Mohammad Mamouei, Reecha Sofat, Richard
 Dobson, Samantha Ip3, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
-doi: 'https://doi.org/10.1101/2021.12.20.21268113'
+doi: '10.1101/2021.12.20.21268113'
 publishDate: '2021-12-21'
 publication_types:
   - '3' #  Preprint / Working Paper
@@ -40,6 +40,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 📊 **Metrics**

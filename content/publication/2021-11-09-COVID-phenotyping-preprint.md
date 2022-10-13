@@ -14,7 +14,7 @@ tags:
   - vaccination
   - policy
 authors: [Johan H Thygesen, Christopher Tomlinson, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
-doi: 'https://doi.org/10.1101/2021.11.08.21265312'
+doi: '10.1101/2021.11.08.21265312'
 publishDate: '2021-11-09'
 publication_types:
   - '3' #  Preprint / Working Paper
@@ -38,6 +38,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 ❗ **Now published in The Lancet Digital Health**  

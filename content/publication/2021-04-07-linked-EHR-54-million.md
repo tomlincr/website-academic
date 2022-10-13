@@ -9,7 +9,7 @@ tags:
   - HDR-UK
   - BHF Data Science Centre
 authors: [Angela Wood, Rachel Denholm, Sam Hollings, Jennifer Cooper, Samantha Ip, Venexia Walker, Spiros Denaxas, Ashley Akbari, Amitava Banerjee, William Whiteley, Alvina Lai, Jonathan Sterne, Cathie Sudlow on behalf of the CVD-COVID-UK consortium]
-doi: 'https://doi.org/10.1136/bmj.n826'
+doi: '10.1136/bmj.n826'
 publishDate: '2021-04-07'
 publication_types:
   - '2' # Journal article
@@ -33,6 +33,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 📊 **Metrics**

@@ -10,7 +10,7 @@ tags:
   - vaccination
   - policy
 authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, Tomlinson C, Yates C, Ziauddeen H & Pagel C]
-doi: 'https://doi.org/10.1177/01410768211052589'
+doi: '10.1177/01410768211052589'
 publishDate: '2021-11-01'
 publication_types:
   - '2' # Journal article
@@ -34,6 +34,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 {{< icon name="twitter" pack="fab" >}} [Twitter thread by Deepti Gurdasani](https://twitter.com/dgurdasani1/status/1422911517201141762?s=20)  

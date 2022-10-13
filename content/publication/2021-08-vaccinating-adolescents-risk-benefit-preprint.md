@@ -11,7 +11,7 @@ tags:
   - vaccination
   - policy
 authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, Tomlinson C, Yates C, Ziauddeen H & Pagel C]
-doi: 'https://doi.org/10.31219/osf.io/grzma'
+doi: '10.31219/osf.io/grzma'
 publishDate: '2021-08-04'
 publication_types:
   - '3' #  Preprint / Working Paper
@@ -35,6 +35,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 ❗ **Now published in The Journal of the Royal Society of Medicine (JRSM)**
 

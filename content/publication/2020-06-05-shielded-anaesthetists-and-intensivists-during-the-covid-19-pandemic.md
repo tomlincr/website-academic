@@ -13,7 +13,7 @@ tags:
   - wellbeing
   - COVID19
 authors: [H. A. Iliff, K. A. Simpson, C. R. Tomlinson, C. M. Webb on behalf of Anaesthetists, Intensivists Shielding]
-doi: 'https://doi.org/10.1111/anae.15153'
+doi: '10.1111/anae.15153'
 publishDate: '2020-06-04'
 publication_types:
   - '2'
@@ -36,6 +36,7 @@ image:
   preview_only: no
 projects: []
 slides: ''
+add_badge: true
 ---
 
 {{< icon name="twitter" pack="fab" >}} [Twitter ](https://mobile.twitter.com/tomlincr/status/1268814956323012608)  
