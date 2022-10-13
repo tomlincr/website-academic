@@ -1,9 +1,10 @@
 <!-- https://gohugo.io/templates/shortcode-templates/#custom-shortcode-examples -->
+<!-- https://github.com/wowchemy/wowchemy-hugo-themes/discussions/1912#discussioncomment-125429 -->
 
 <div class="ml-3">
-    {{ if $item.Params.doi }}
-      <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" class="altmetric-embed"></div>
-      <div class="__dimensions_badge_embed__" data-doi="{{ $item.Params.doi }}" data-legend="hover-left" data-style="small_circle"></div>
-      <a href={{ print "https://plu.mx/plum/a/?doi=" $item.Params.doi }} data-popup="bottom" data-size="medium" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true"></a>
+    {{ if $page.Params.doi }}
+      <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $page.Params.doi }}" data-condensed="true" class="altmetric-embed"></div>
+      <div class="__dimensions_badge_embed__" data-doi="{{ $page.Params.doi }}" data-legend="hover-left" data-style="small_circle"></div>
+      <a href={{ print "https://plu.mx/plum/a/?doi=" $page.Params.doi }} data-popup="bottom" data-size="medium" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true"></a>
     {{ end }}
     </div>
