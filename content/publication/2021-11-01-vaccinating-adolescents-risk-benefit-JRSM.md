@@ -37,20 +37,12 @@ slides: ''
 add_badge: true
 ---
 
+{{< metrics >}}
+
 {{< icon name="twitter" pack="fab" >}} [Twitter thread by Deepti Gurdasani](https://twitter.com/dgurdasani1/status/1422911517201141762?s=20)  
 
 {{< tweet 1422911517201141762 >}}
-  
-📊 **Metrics**
-
-<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
-<a href="https://plu.mx/plum/a/?doi=10.1177/01410768211052589" class="plumx-details" data-site="plum" data-hide-when-empty="true"></a>
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1177/01410768211052589" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1177/01410768211052589" data-hide-zero-citations="true" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  
+    
 📰 **Media coverage**
   
 * ["Giving 12 to 17-year-olds two doses of Pfizer's Covid vaccine could prevent 4,000 hospitalisations and benefits DO outweigh risks, study claims... but experts criticise 'limited' findings"](https://www.dailymail.co.uk/news/article-10041743/Giving-children-two-doses-Covid-jab-prevent-thousands-hospital-admissions-study.html). Connor Boyd. Mail Online. 30/09/2021.

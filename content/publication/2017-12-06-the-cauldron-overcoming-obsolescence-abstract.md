@@ -55,3 +55,5 @@ projects: []
 slides: ""
 add_badge: true
 ---
+
+{{< metrics >}}
