@@ -38,6 +38,7 @@ image:
   preview_only: no
 projects: [CVD-COVID-UK/COVID-IMPACT]
 slides: ''
+add_badge: true
 ---
 
 {{< icon name="twitter" pack="fab" >}} [Twitter thread summarising key results](https://twitter.com/tomlincr/status/1534793635954188289)  
