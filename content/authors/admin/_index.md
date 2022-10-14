@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 # Display name
-title: Dr Chris Tomlinson
+title: Chris Tomlinson
 # Full name (for SEO)
 first_name: Chris
 last_name: Tomlinson
