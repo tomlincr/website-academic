@@ -5,7 +5,11 @@ organizations:
 superuser: true
 authors:
   - admin
+# Display name
 title: Dr Chris Tomlinson
+# Full name (for SEO)
+first_name: Chris
+last_name: Tomlinson
 role: 👨‍💻Health Data Scientist |🎓PhD in AI Healthcare |👨‍⚕️Critical Care Doctor
 interests:
   - "Leveraging multi-modal healthcare data: electronic health records (EHR), population data, physiological variables, biomarkers, wearables, pan-omics"
@@ -63,8 +67,8 @@ user_groups: null
 highlight_name: true
 ---
 
-I am an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
+Chris Tomlinson is an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
 
-Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research I use real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
+Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research he uses real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
 
-I am interested in the application of AI methodologies to disentangle the complex interactions between organ systems, individuals and healthcare systems to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
+He is interested in the application of AI methodologies to disentangle the complex interactions between organ systems, individuals and healthcare systems to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
