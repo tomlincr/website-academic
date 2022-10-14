@@ -10,7 +10,7 @@ tags:
   - preprint
   - EHR
   - policy
-authors: [Alex Handy,  Amitava Banerjee,  Angela Wood, Caroline Dale,  Cathie Sudlow,  Christopher Tomlinson,  Daniel Bean,  Johan H Thygesen,  Mehrdad A Mizani,  Michail Katsoulis,  Rohan Takhar,  Sam Hollings,  Spiros Denaxas,  Venexia Walker,  Richard Dobson,  Reecha Sofat &  CVD-COVID-UK Consortium]
+authors: [Alex Handy,  Amitava Banerjee,  Angela Wood, Caroline Dale,  Cathie Sudlow,  admin,  Daniel Bean,  Johan H Thygesen,  Mehrdad A Mizani,  Michail Katsoulis,  Rohan Takhar,  Sam Hollings,  Spiros Denaxas,  Venexia Walker,  Richard Dobson,  Reecha Sofat &  CVD-COVID-UK Consortium]
 doi: '10.1136/heartjnl-2021-320325'
 publishDate: '2022-03-10'
 publication_types:

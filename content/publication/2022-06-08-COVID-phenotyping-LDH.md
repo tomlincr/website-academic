@@ -13,7 +13,10 @@ tags:
   - linkage
   - vaccination
   - policy
-authors: [Johan H Thygesen, Christopher Tomlinson, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
+authors: [Johan H Thygesen, admin, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 doi: '10.1016/S2589-7500(22)00091-7'
 publishDate: '2022-06-08'
 publication_types:

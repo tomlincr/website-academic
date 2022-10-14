@@ -12,7 +12,7 @@ tags:
   - linkage
   - vaccination
   - policy
-authors: [Rochelle Knight, Venexia Walker, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Rachel Denholm, Ashley Akbari, Hoda Abbasizanjani, Fatemeh Torabi, Efosa Omigie, Sam Hollings, Teri-Louise North, Renin Toms, Emanuele Di Angelantonio, Spiros Denaxas, Johan H Thygesen, Christopher Tomlinson, Ben Bray, Craig J Smith, Mark Barber, George Davey Smith, Nishi Chaturvedi, Cathie Sudlow, William N Whiteley, Angela Wood, Jonathan A C Sterne, CVD-COVID-UK/COVID-IMPACT consortium, Longitudinal Health and Wellbeing COVID-19 National Core Study]
+authors: [Rochelle Knight, Venexia Walker, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Rachel Denholm, Ashley Akbari, Hoda Abbasizanjani, Fatemeh Torabi, Efosa Omigie, Sam Hollings, Teri-Louise North, Renin Toms, Emanuele Di Angelantonio, Spiros Denaxas, Johan H Thygesen, admin, Ben Bray, Craig J Smith, Mark Barber, George Davey Smith, Nishi Chaturvedi, Cathie Sudlow, William N Whiteley, Angela Wood, Jonathan A C Sterne, CVD-COVID-UK/COVID-IMPACT consortium, Longitudinal Health and Wellbeing COVID-19 National Core Study]
 doi: '10.1101/2021.11.22.21266512'
 publishDate: '2021-11-24'
 publication_types:

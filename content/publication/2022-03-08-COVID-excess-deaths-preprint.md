@@ -14,7 +14,7 @@ tags:
   - mortality
   - modelling
   - CVD
-authors: [Mizani, Mehrdad A. and Dashtban, Muhammad and Pasea, Laura and Lai, Alvina and Thygesen, Johan Hilge and Tomlinson, Christopher and Handy, Alex and Mamza, Jil Billy and Morris, Tamsin and Khalid, Sara and Zaccardi, Francesco and Macleod, Mary J. and Torabi, Fatemeh and Canoy, Dexter and Akbari, Ashley and Berry, Colin and Bolton, Thomas and Nolan, John and Khunti, Kamlesh and Denaxas, Spiros and Hemingway, Harry and Sudlow, Cathie and Banerjee, Amitava and Consortium, CVD-COVID-UK]
+authors: [Mizani, Mehrdad A. and Dashtban, Muhammad and Pasea, Laura and Lai, Alvina and Thygesen, Johan Hilge, admin, and Handy, Alex and Mamza, Jil Billy and Morris, Tamsin and Khalid, Sara and Zaccardi, Francesco and Macleod, Mary J. and Torabi, Fatemeh and Canoy, Dexter and Akbari, Ashley and Berry, Colin and Bolton, Thomas and Nolan, John and Khunti, Kamlesh and Denaxas, Spiros and Hemingway, Harry and Sudlow, Cathie and Banerjee, Amitava and Consortium, CVD-COVID-UK]
 doi: '10.2139/ssrn.4052647'
 publishDate: '2022-03-08'
 publication_types:

@@ -8,7 +8,7 @@ tags:
   - training
   - anaesthesia
   - web
-authors: [C. Tomlinson]
+authors: [admin]
 doi: '10.1111/anae.14928'
 publishDate: '2020-01-09'
 publication_types:

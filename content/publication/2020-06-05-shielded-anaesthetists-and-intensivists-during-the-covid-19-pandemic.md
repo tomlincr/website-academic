@@ -12,7 +12,7 @@ tags:
   - health
   - wellbeing
   - COVID19
-authors: [H. A. Iliff, K. A. Simpson, C. R. Tomlinson, C. M. Webb on behalf of Anaesthetists, Intensivists Shielding]
+authors: [H. A. Iliff, K. A. Simpson, admin, C. M. Webb on behalf of Anaesthetists, Intensivists Shielding]
 doi: '10.1111/anae.15153'
 publishDate: '2020-06-04'
 publication_types:

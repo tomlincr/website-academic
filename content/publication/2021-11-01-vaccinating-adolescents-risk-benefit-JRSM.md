@@ -9,7 +9,7 @@ tags:
   - BHF Data Science Centre
   - vaccination
   - policy
-authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, Tomlinson C, Yates C, Ziauddeen H & Pagel C]
+authors: [Gurdasani D, Bhatt S, Costello A, Denaxas S, Flaxman S, Greenhalgh T, Griffin S, Hyde Z, Katzourakis A, McKee M, Michie S, Ratmann O, Reicher S, Scally G, admin, Yates C, Ziauddeen H & Pagel C]
 doi: '10.1177/01410768211052589'
 publishDate: '2021-11-01'
 publication_types:

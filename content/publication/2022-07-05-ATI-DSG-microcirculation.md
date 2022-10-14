@@ -13,7 +13,7 @@ tags:
   - Keras
   - Tensorflow
   - OpenCV
-authors: [Christopher Tomlinson, Jan Grols, Ramit Debnath, Sarah Johnson, Max Barton, Tianyu Han, Seyedeh Nazanin Khatami, Giacomo Baldo, Aniketh Ramesh, Diego Cammarano, Kashif Rajpoot]
+authors: [admin, Jan Grols, Ramit Debnath, Sarah Johnson, Max Barton, Tianyu Han, Seyedeh Nazanin Khatami, Giacomo Baldo, Aniketh Ramesh, Diego Cammarano, Kashif Rajpoot]
 doi: '10.5281/zenodo.6799096'
 publishDate: '2022-07-05'
 publication_types:

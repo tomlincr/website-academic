@@ -10,7 +10,7 @@ tags:
   - preprint
   - EHR
   - policy
-authors: [Alex Handy,  Amitava Banerjee,  Angela Wood, Caroline Dale,  Cathie Sudlow,  Christopher Tomlinson,  Daniel Bean,  Johan H Thygesen,  Mehrdad A Mizani,  Michail Katsoulis,  Reecha Sofat,  Richard Dobson, Rohan Takhar, Sam Hollings,  Spiros Denaxas,  Venexia Walker & CVD-COVID-UK Consortium]
+authors: [Alex Handy,  Amitava Banerjee,  Angela Wood, Caroline Dale,  Cathie Sudlow,  admin,  Daniel Bean,  Johan H Thygesen,  Mehrdad A Mizani,  Michail Katsoulis,  Reecha Sofat,  Richard Dobson, Rohan Takhar, Sam Hollings,  Spiros Denaxas,  Venexia Walker & CVD-COVID-UK Consortium]
 doi: '10.1101/2021.09.03.21263023'
 publishDate: '2021-09-10'
 publication_types:
