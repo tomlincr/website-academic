@@ -24,7 +24,7 @@ social:
     link: https://twitter.com/tomlincr
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Christopher_Tomlinson3
+    link: https://www.researchgate.net/profile/Christopher-Tomlinson
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0903-5395
