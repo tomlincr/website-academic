@@ -13,7 +13,7 @@ weight: 40
 title: Collaborators
 ---
 
-Chris enjoys productive collaborations spanning computer science, health informatics and clinical medicine across [UCL](https://www.ucl.ac.uk/) institutions, other universities within the UK and abroad and organisations such as [Health Data Research UK](https://www.hdruk.ac.uk/), [British Heart Foundation Data Science Centre](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/),  [The Alan Turing Institute](https://www.turing.ac.uk/) and [Wellcome Trust](https://wellcome.org/). 
+Chris enjoys productive collaborations spanning computer science, health informatics and clinical medicine across [UCL](https://www.ucl.ac.uk/) institutions, other universities within the UK and abroad as well as organisations such as [Health Data Research UK](https://www.hdruk.ac.uk/), [British Heart Foundation Data Science Centre](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/),  [The Alan Turing Institute](https://www.turing.ac.uk/) and [Wellcome Trust](https://wellcome.org/). 
 
 He strongly believes in the value of multidisciplinary collaboration for delivering responsible innovation and impacts, particularly in complex areas such as healthcare and biomedicine, as well as relishing the learning opportunities that this provides.
 
