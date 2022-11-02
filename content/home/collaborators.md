@@ -25,7 +25,7 @@ This ethos is reflected in a wide range of co-authors, as visualised in the inte
   allowfullscreen="true"
   src="https://cdn-app.dimensions.ai/static/vosviewer/?attraction=2&repulsion=-1&largest_component=false&_cbt=26add2f7b9&json=https%3A%2F%2Fapp.dimensions.ai%2Fviz%2Fdata%2Fpublication%2Fauthor%2Fvosviewer-coauthors.json%3Fignore_hyperauthorship%3DFalse%26max_nodes%3D100%26only_largest%3DFalse%26and_facet_researcher%3Dur.014123621041.41&simple_ui=true"
   width="100%"
-  height="75%"
+  height="100%"
   style="border: 1px solid #ddd; max-width: 1200px; min-height: 500px"
 >
 </iframe>
