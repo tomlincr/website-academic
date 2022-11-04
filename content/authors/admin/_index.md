@@ -50,10 +50,10 @@ education:
       institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
         Systems, UCL Institute of Health Informatics
       year: 2021
-    - course: Primary Fellowship
+    - course: MRCA (Primary Fellowship)
       institution: Royal College of Anaesthetists
       year: 2018
-    - course: Dipolma in Medical Care of Catastrophes
+    - course: Diploma in Medical Care of Catastrophes
       institution: The Worshipful Society of Apothecaries of London
       year: 2016
     - course: Bachelor of Medicine & Surgery
