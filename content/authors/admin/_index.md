@@ -67,7 +67,7 @@ user_groups: null
 highlight_name: true
 ---
 
-Chris Tomlinson is an Anaesthetics & Intensive Care registrar undertaking a combined MRes/PhD at the UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems.
+Chris Tomlinson is an Anaesthetics & Intensive Care registrar undertaking a PhD at the [UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems](https://www.ucl.ac.uk/aihealth-cdt/).
 
 Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research he uses real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
 
