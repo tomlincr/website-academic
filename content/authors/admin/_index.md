@@ -12,9 +12,9 @@ first_name: Chris
 last_name: Tomlinson
 role: 👨‍💻Health Data Scientist |🎓PhD in AI Healthcare |👨‍⚕️Critical Care Doctor
 interests:
-  - "Leveraging multi-modal healthcare data: electronic health records (EHR), population data, physiological variables, biomarkers, wearables, pan-omics"
-  - "Defining clinically-relevant EHR phenotypes to unlock routinely-collected healthcare data for research benefit"
-  - "Machine learning & deep learning methods for analysis, prediction and clustering of high-dimensional healthcare data"
+  - "**Phenomics**: Defining clinically-relevant EHR phenotypes to unlock routinely-collected healthcare data for research benefit"
+  - "**Representation learning**: building *predictive* representations that codify both domain knowledge and data-driven insights"
+  - "**Uncertainty quantification**: for clinical evaluation and scientific discovery"
 social:
   - icon: envelope
     icon_pack: fas
@@ -71,4 +71,4 @@ Chris Tomlinson is an Anaesthetics & Intensive Care registrar undertaking a PhD 
 
 Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research he uses real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
 
-He is interested in the application of AI methodologies to disentangle the complex interactions between organ systems, individuals and healthcare systems to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
+He is interested in the application of AI methodologies to disentangle the complex interactions between organ systems, diseases, individuals and healthcare services to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
