@@ -23,7 +23,7 @@ publication: 'Preprints with The Lancet'
 publication_short: 'SSRN'
 abstract: ''
 summary: ''
-featured: no
+featured: false
 url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/11196b82-5693-47e2-8f84-d8f9a93e7894-MECA.pdf?abstractid=4052647&mirid=1'
 url_pmid: ''
 url_code: 'https://github.com/BHFDSC/CCU003_03'
