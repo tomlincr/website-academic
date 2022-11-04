@@ -15,6 +15,8 @@ interests:
   - "**Phenomics**: Defining clinically-relevant EHR phenotypes to unlock routinely-collected healthcare data for research benefit"
   - "**Representation learning**: building *predictive* representations that codify both domain knowledge and data-driven insights"
   - "**Uncertainty quantification**: for clinical evaluation and scientific discovery"
+  - "**Causal inference**: for evidence generation from routinely-collected observational data"
+  # Latent variable models
 social:
   - icon: envelope
     icon_pack: fas
