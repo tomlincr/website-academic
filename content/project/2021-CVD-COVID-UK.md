@@ -67,4 +67,4 @@ I lead my own project `CCU038`: Evaluating the impact of COVID-19 on critical ca
 * Second Generation Surveillance System (SGSS)
 * ONS deaths
 
-👨‍💻 Work is conducted in the NHS Digital Trusted Research Environment using SQL, Python, R and Spark/Databricks.
+👨‍💻 Work is conducted in the [NHS Digital Trusted Research Environment](https://digital.nhs.uk/coronavirus/coronavirus-data-services-updates/trusted-research-environment-service-for-england) using SQL, Python, R and Spark on Databricks.
