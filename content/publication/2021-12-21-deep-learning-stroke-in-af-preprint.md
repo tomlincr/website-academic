@@ -15,7 +15,7 @@ tags:
   - Transformers
   - Risk Prediction
 authors: [Alex Handy, Angela Wood, Cathie Sudlow, admin, Frank Kee, Johan H Thygesen, Mohammad Mamouei, Reecha Sofat, Richard
-Dobson, Samantha Ip3, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
+Dobson, Samantha Ip, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium]
 doi: '10.1101/2021.12.20.21268113'
 publishDate: '2021-12-21'
 publication_types:
