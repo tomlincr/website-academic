@@ -25,7 +25,7 @@ summary: ''
 featured: false
 url_pdf: 'https://www.medrxiv.org/content/10.1101/2022.11.11.22282217v1.full.pdf'
 url_pmid: ''
-url_code: ''
+url_code: 'https://github.com/BHFDSC/CCU037_01'
 url_dataset: 'https://web.www.healthdatagateway.org/dataset/7e5f0247-f033-4f98-aed3-3d7422b9dc6d'
 url_poster: ~
 url_project: 'https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/'
