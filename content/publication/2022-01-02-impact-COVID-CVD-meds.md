@@ -42,6 +42,10 @@ slides: ''
 add_badge: true
 ---
 
+❗ **Now published in Nature Medicine**  
+
+{{< cite page="/publication/2023-01-19-impact-COVID-CVD-meds NM.md" view="4" >}}
+
 {{< metrics >}}
   
 📺 **BHF Data Science Centre seminar by Prof Reecha Sofat and Dr Caroline Dale**  
