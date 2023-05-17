@@ -12,7 +12,12 @@ weight: 40
 # Section title
 title: Collaborators
 
+# Dimensions.ai 
+# profile: https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.014123621041.41
+# /Analytical Views/Researchers/Networks/Co-authorship
+
 # github hosted: 
+
 # src="https://app.vosviewer.com/?json=https://www.ctomlinson.net/uploads/VOSviewer-network.json&simple_ui=true"
 # dimensions.ai hosted - NB no longer working as of ~ Jan '23, code changed
 # src="https://cdn-app.dimensions.ai/static/vosviewer/?attraction=2&repulsion=-1&largest_component=false&_cbt=26add2f7b9&json=https%3A%2F%2Fapp.dimensions.ai%2Fviz%2Fdata%2Fpublication%2Fauthor%2Fvosviewer-coauthors.json%3Fignore_hyperauthorship%3DFalse%26max_nodes%3D100%26only_largest%3DFalse%26and_facet_researcher%3Dur.014123621041.41&simple_ui=true"
