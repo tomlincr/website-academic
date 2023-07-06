@@ -14,6 +14,8 @@ title: Collaborators
 
 # Dimensions.ai 
 # profile: https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.014123621041.41
+# NB now have multiple profiles:
+# https://app.dimensions.ai/discover/publication?or_facet_researcher=ur.014123621041.41&or_facet_researcher=ur.012006411322.79
 # /Analytical Views/Researchers/Networks/Co-authorship
 
 # github hosted: 
