@@ -22,7 +22,7 @@ publication: ''
 publication_short: ''
 abstract: ''
 summary: ''
-featured: yes
+featured: no
 url_pdf: ''
 url_pmid: ''
 url_code: ''
