@@ -50,10 +50,6 @@ add_badge: true
 ---
 
 {{< metrics >}}
-  
-📰  ['The Conversation' article by Kate Brown & Christina Pagel](https://theconversation.com/covid-in-kids-younger-children-and-those-from-deprived-areas-are-at-higher-risk-of-being-hospitalised-new-research-208704)  
-
-🌐  [HDR UK News Story: "England-wide study of 3.2 million infections sheds light on COVID impact on children"](https://www.hdruk.ac.uk/news/england-wide-study-of-3-2-million-infections-sheds-light-on-covid-impact-on-children/)  
 
 {{< icon name="twitter" pack="fab" >}} [Twitter thread by Christina Pagel summarising key results](https://twitter.com/chrischirp/status/1676695061696847877)  
 
@@ -62,3 +58,9 @@ add_badge: true
 {{< icon name="twitter" pack="fab" >}} [Twitter thread by Deepti Gurdasani summarising key results](https://twitter.com/dgurdasani1/status/1678414032200511491)  
 
 {{< tweet 1678414032200511491 >}}
+
+📰 **Selected media coverage**
+
+* [Pregnant women urged to get booster jab after study shows babies at high risk of serious Covidle](https://inews.co.uk/news/health/pregnant-women-urged-booster-jab-covid-2479785). Tom Bawden, iNews. 16/07/2023.  
+* [COVID in kids: younger children and those from deprived areas are at higher risk of being hospitalised – new research](https://theconversation.com/covid-in-kids-younger-children-and-those-from-deprived-areas-are-at-higher-risk-of-being-hospitalised-new-research-208704). Katherine Brown & Christina Pagel, The Conversation. 05/07/2023.  
+* [England-wide study of 3.2 million infections sheds light on COVID impact on children](https://www.hdruk.ac.uk/news/england-wide-study-of-3-2-million-infections-sheds-light-on-covid-impact-on-children/). HDR-UK. 05/07/2023.  
