@@ -22,8 +22,8 @@
                 "id": "ur.01001113112.07",
                 "label": "Dregan, Alexandru",
                 "organization": "King's College London",
-                "x": -0.4681126337883879,
-                "y": -0.1436709642629873,
+                "x": -0.5861236266437649,
+                "y": 0.3547576223992069,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -38,8 +38,8 @@
                 "id": "ur.010034764402.56",
                 "label": "Consortium, Cvd-Covid-Uk",
                 "organization": "Health Data Research UK",
-                "x": 0.22119763320788696,
-                "y": 0.6157443201256246,
+                "x": -0.10500674332593622,
+                "y": -0.8359696144741975,
                 "cluster": 2,
                 "weights": {
                     "Publications": 2,
@@ -54,8 +54,8 @@
                 "id": "ur.010076466201.28",
                 "label": "Bojanić, Lana",
                 "organization": "University of Manchester",
-                "x": -0.45355153220756195,
-                "y": -0.39640848728011546,
+                "x": -0.8735141129266422,
+                "y": 0.20345468699553176,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -70,72 +70,72 @@
                 "id": "ur.01016225525.25",
                 "label": "Katsoulis, Michail",
                 "organization": "University College London",
-                "x": 0.0709928746935201,
-                "y": 0.6693627332641277,
-                "cluster": 3,
+                "x": 0.21875310032487916,
+                "y": -0.44817420500428795,
+                "cluster": 4,
                 "weights": {
                     "Publications": 3,
-                    "Citations": 26
+                    "Citations": 29
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 8.666666666666666
+                    "Avg. citations": 9.666666666666666
                 }
             },
             {
                 "id": "ur.010254226477.98",
                 "label": "Sudlow, Cathie L M",
                 "organization": "University of Edinburgh",
-                "x": 0.0873381169645599,
-                "y": 0.11075132817571044,
+                "x": -0.06441235826028398,
+                "y": -0.2809137129505305,
                 "cluster": 2,
                 "weights": {
                     "Publications": 9,
-                    "Citations": 99
+                    "Citations": 106
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 11
+                    "Avg. citations": 11.777777777777779
                 }
             },
             {
                 "id": "ur.01026114310.09",
                 "label": "Sattar, Naveed A",
                 "organization": "University of Glasgow",
-                "x": -0.06458967613024602,
-                "y": 0.5545479950677717,
-                "cluster": 3,
+                "x": 0.1791287619684964,
+                "y": -0.5431126181747323,
+                "cluster": 4,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 18
+                    "Citations": 21
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 9
+                    "Avg. citations": 10.5
                 }
             },
             {
                 "id": "ur.010320553714.39",
                 "label": "Torabi, Fatemeh",
                 "organization": "Swansea University",
-                "x": -0.1369698042992598,
-                "y": 0.33919932817401904,
-                "cluster": 3,
+                "x": -0.1846942370212518,
+                "y": -0.28832551799812356,
+                "cluster": 4,
                 "weights": {
                     "Publications": 6,
-                    "Citations": 108
+                    "Citations": 118
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 18
+                    "Avg. citations": 19.666666666666668
                 }
             },
             {
                 "id": "ur.01036063320.47",
                 "label": "Kallis, Costas",
                 "organization": null,
-                "x": -0.37302413308998983,
-                "y": -0.11098540964426205,
+                "x": -0.58564630365183,
+                "y": 0.13030512117517173,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -150,9 +150,9 @@
                 "id": "ur.010363556767.74",
                 "label": "Adams, Tom",
                 "organization": null,
-                "x": 1.839444275380491,
-                "y": -0.03818977953809425,
-                "cluster": 5,
+                "x": 1.830529141609977,
+                "y": -0.21428625132760876,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -163,27 +163,43 @@
                 }
             },
             {
-                "id": "ur.01052270357.38",
-                "label": "Lorgelly, Paula Kate",
+                "id": "ur.01041326411.13",
+                "label": "Gonzalez-Izquierdo, Arturo",
                 "organization": "University College London",
-                "x": -0.07236938745167619,
-                "y": 0.773880553072149,
-                "cluster": 3,
+                "x": 0.49633027885947123,
+                "y": 0.44259052983707864,
+                "cluster": 7,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 1
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 1
+                }
+            },
+            {
+                "id": "ur.01052270357.38",
+                "label": "Lorgelly, Paula Kate",
+                "organization": "University College London",
+                "x": 0.10064511840178997,
+                "y": -0.4848157600089692,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 18
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.01056637062.63",
                 "label": "Padmanabhan, Sandosh",
                 "organization": "University of Glasgow",
-                "x": -0.9915053990917239,
-                "y": -0.16619995128808676,
+                "x": -0.2700748539157842,
+                "y": 0.32040538778518257,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -198,8 +214,8 @@
                 "id": "ur.01057207260.72",
                 "label": "Babu-Narayan, Sonya Vidya",
                 "organization": "Royal Brompton Hospital",
-                "x": -0.8098260539793368,
-                "y": -0.45288999928697443,
+                "x": -0.8798698471417012,
+                "y": 0.3767808657525918,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -214,24 +230,24 @@
                 "id": "ur.01057414710.27",
                 "label": "Duffield, Stephen J",
                 "organization": "National Institute for Health and Care Excellence",
-                "x": -0.32189508246840454,
-                "y": 0.817843718828073,
-                "cluster": 3,
+                "x": -0.0010730200705178212,
+                "y": -0.5368566507699778,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.01061403301.00",
                 "label": "Fraser, Lorna Katharine",
                 "organization": "University of York",
-                "x": -0.5465083131953232,
-                "y": -0.420704717735721,
+                "x": -0.7046607381267298,
+                "y": 0.25689499828205886,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -246,8 +262,8 @@
                 "id": "ur.010634063654.16",
                 "label": "Nafilyan, Vahé Louis",
                 "organization": "Office for National Statistics",
-                "x": -0.7368418236871463,
-                "y": 0.28732629559094985,
+                "x": -0.8127844357709696,
+                "y": 0.04666226594610952,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -261,9 +277,9 @@
             {
                 "id": "ur.01063554274.30",
                 "label": "Raffetti, Elena",
-                "organization": "Karolinska Institutet",
-                "x": -0.6369165136317622,
-                "y": 0.24756034086566817,
+                "organization": "Uppsala University",
+                "x": -0.7212258961597547,
+                "y": 0.16417992323080724,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -278,25 +294,25 @@
                 "id": "ur.010663343457.34",
                 "label": "Smith, George G Davey",
                 "organization": "University of Bristol",
-                "x": 0.39100989535362535,
-                "y": -0.019744749261909632,
-                "cluster": 4,
+                "x": 0.3692384980567439,
+                "y": -0.04147388870614834,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 67
+                    "Citations": 74
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 33.5
+                    "Avg. citations": 37
                 }
             },
             {
                 "id": "ur.01067023110.81",
                 "label": "Michie, Susan Fiona",
                 "organization": "University College London",
-                "x": 0.5902502512853373,
-                "y": -0.7950113336184889,
-                "cluster": 6,
+                "x": 0.29116244426910026,
+                "y": 0.9273351228308908,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -310,24 +326,24 @@
                 "id": "ur.010711013677.02",
                 "label": "Chaturvedi, Nishi",
                 "organization": "University College London",
-                "x": 0.37718374550872086,
-                "y": -0.12722387281282935,
-                "cluster": 4,
+                "x": 0.17625870533439536,
+                "y": 0.060059371217375666,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 67
+                    "Citations": 74
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 33.5
+                    "Avg. citations": 37
                 }
             },
             {
                 "id": "ur.01072320062.54",
                 "label": "Lai, Alvina Grace",
                 "organization": "University College London",
-                "x": -0.12548779873305058,
-                "y": 0.20398970617707307,
+                "x": -0.38125444371271006,
+                "y": -0.4235784347929093,
                 "cluster": 2,
                 "weights": {
                     "Publications": 4,
@@ -342,9 +358,9 @@
                 "id": "ur.01073024202.48",
                 "label": "Martin, Daniel Stuart",
                 "organization": "University of Plymouth",
-                "x": 1.9080073872033516,
-                "y": -0.03217295484608659,
-                "cluster": 5,
+                "x": 1.8305164190326344,
+                "y": -0.11929384790966865,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -358,8 +374,8 @@
                 "id": "ur.010736034157.74",
                 "label": "Curry, Gwenetta Denise",
                 "organization": "University of Edinburgh",
-                "x": -0.6002601784612268,
-                "y": -0.5348797467090131,
+                "x": -0.7349814099114613,
+                "y": 0.40422906504977046,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -371,27 +387,43 @@
                 }
             },
             {
-                "id": "ur.011032753302.17",
-                "label": "Carragher, Raymond Bernard",
-                "organization": "University of Strathclyde",
-                "x": -0.23069369289808986,
-                "y": 0.8569309936579953,
-                "cluster": 3,
+                "id": "ur.011004537503.48",
+                "label": "Johnson, Mae",
+                "organization": "Great Ormond Street Hospital",
+                "x": 0.5942123803498768,
+                "y": 0.4206439487974948,
+                "cluster": 7,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 1
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 1
+                }
+            },
+            {
+                "id": "ur.011032753302.17",
+                "label": "Carragher, Raymond Bernard",
+                "organization": "University of Strathclyde",
+                "x": 0.07699432112202806,
+                "y": -0.5597312686894818,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 18
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.01104073006.50",
                 "label": "Douiri, Abdel",
                 "organization": "King's College London",
-                "x": -0.7049536145043487,
-                "y": -0.29508223740623435,
+                "x": -0.5567269081219094,
+                "y": 0.4408116545901555,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -406,9 +438,9 @@
                 "id": "ur.01104606706.02",
                 "label": "Griffin, Stephen D C",
                 "organization": "University of Leeds",
-                "x": 0.5303104656103358,
-                "y": -0.9129195709204935,
-                "cluster": 6,
+                "x": 0.4101792519374092,
+                "y": 0.8028423222740834,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -422,8 +454,8 @@
                 "id": "ur.01106547242.76",
                 "label": "Ayyar-Gupta, Vandana",
                 "organization": "University College London",
-                "x": -0.8925763571045171,
-                "y": -0.016203306373933433,
+                "x": -0.3262058049776343,
+                "y": 0.1261716039828759,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -438,57 +470,56 @@
                 "id": "ur.011122001335.42",
                 "label": "Handy, Alex",
                 "organization": "University College London",
-                "x": 0.20024964563668496,
-                "y": 0.48688172912559874,
+                "x": 0.1421835835562484,
+                "y": -0.6410058958017385,
                 "cluster": 2,
                 "weights": {
                     "Publications": 8,
-                    "Citations": 31
+                    "Citations": 34
                 },
                 "scores": {
                     "Avg. publication year": 2021.75,
-                    "Avg. citations": 3.875
+                    "Avg. citations": 4.25
                 }
             },
             {
                 "id": "ur.01114247300.26",
                 "label": "Toms, Renin",
                 "organization": "University of Bristol",
-                "x": -0.07064532218097425,
-                "y": -0.2764258708825824,
-                "cluster": 4,
+                "x": -0.04761554498039176,
+                "y": 0.1958189906578437,
+                "cluster": 3,
                 "weights": {
                     "Publications": 3,
-                    "Citations": 92
+                    "Citations": 99
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 30.666666666666668
+                    "Avg. citations": 33
                 }
             },
             {
                 "id": "ur.011161776477.32",
                 "label": "Wilde, Harrison",
                 "organization": "University of Warwick",
-                "score<Avg. citations>": null,
-                "x": -0.09174581609758692,
-                "y": -0.676006183280786,
+                "x": 0.42079720445996877,
+                "y": 0.4503541877011345,
                 "cluster": 7,
                 "weights": {
-                    "Publications": 2,
-                    "Citations": 0
+                    "Publications": 3,
+                    "Citations": 1
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": null
+                    "Avg. citations": 0.3333333333333333
                 }
             },
             {
                 "id": "ur.011167170123.23",
                 "label": "Chudasama, Yogini V",
                 "organization": "University of Leicester",
-                "x": -0.8325337190855103,
-                "y": 0.23685147901780218,
+                "x": -0.443627770282728,
+                "y": 0.28289834195906416,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -500,27 +531,43 @@
                 }
             },
             {
+                "id": "ur.011214043754.94",
+                "label": "Knight, Rochelle",
+                "organization": "University of Bristol",
+                "x": 0.3572647473836012,
+                "y": 0.06350544633245661,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 65
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 65
+                }
+            },
+            {
                 "id": "ur.011230767104.22",
                 "label": "Study, For The Cvd-Covid-Uk Covid-Impact Consortium And The Longitudinal Health And Wellbeing Covid-National Core",
                 "organization": null,
-                "x": 0.4817799468841825,
-                "y": -0.07246014727243481,
-                "cluster": 4,
+                "x": 0.20713087539342367,
+                "y": -0.12147385240023019,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 67
+                    "Citations": 74
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 33.5
+                    "Avg. citations": 37
                 }
             },
             {
                 "id": "ur.011232002333.53",
                 "label": "Shabnam, Sharmin",
                 "organization": "University of Leicester",
-                "x": -0.6352806164616857,
-                "y": -0.4399569246411685,
+                "x": -0.8957486404193398,
+                "y": 0.018803666104973762,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -535,24 +582,40 @@
                 "id": "ur.01125304272.54",
                 "label": "Smith, Craig James",
                 "organization": "University of Manchester",
-                "x": 0.26687279079583526,
-                "y": -0.18366907967846885,
-                "cluster": 4,
+                "x": 0.26032868078065524,
+                "y": 0.1141759375814101,
+                "cluster": 3,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 58
+                    "Citations": 65
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 58
+                    "Avg. citations": 65
+                }
+            },
+            {
+                "id": "ur.01126040443.87",
+                "label": "Kanthimathinathan, Hari Krishnan",
+                "organization": "Birmingham Women’s and Children’s NHS Foundation Trust",
+                "x": 0.5471917632780028,
+                "y": 0.4624527715332,
+                "cluster": 7,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 1
                 }
             },
             {
                 "id": "ur.011377211602.35",
                 "label": "Sosenko, Filip Lukasz",
                 "organization": "University of Glasgow",
-                "x": -0.9191702568234548,
-                "y": 0.16696268499596972,
+                "x": -0.7830212254708832,
+                "y": 0.22623366199277484,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -567,8 +630,8 @@
                 "id": "ur.01140036350.06",
                 "label": "Seminog, Olena O",
                 "organization": "University of Oxford",
-                "x": -0.6341848541446873,
-                "y": 0.1393561033671035,
+                "x": -0.8022704531787557,
+                "y": 0.13760418781421083,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -583,9 +646,9 @@
                 "id": "ur.01141137402.19",
                 "label": "Gilbert-Kawai, Edward T",
                 "organization": "University College London",
-                "x": 1.715678083271494,
-                "y": -0.031587891847916404,
-                "cluster": 5,
+                "x": 1.804393356651814,
+                "y": -0.16326997218413467,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -599,9 +662,9 @@
                 "id": "ur.01142410601.19",
                 "label": "Dale, Caroline E",
                 "organization": "University College London",
-                "x": 0.5621021333982633,
-                "y": 0.507116280318104,
-                "cluster": 4,
+                "x": 0.47004670353159905,
+                "y": -0.5167898781661501,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
                     "Citations": 11
@@ -615,9 +678,9 @@
                 "id": "ur.01143203427.39",
                 "label": "Hanson, Mark Adrian",
                 "organization": "University of Southampton",
-                "x": 1.748976709672672,
-                "y": -0.08758912276001109,
-                "cluster": 5,
+                "x": 1.747041949730354,
+                "y": -0.036178955575417136,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -631,25 +694,25 @@
                 "id": "ur.01145326566.25",
                 "label": "Barber, Mark",
                 "organization": "Monklands Hospital",
-                "x": 0.3576438573665137,
-                "y": -0.2358729149095607,
-                "cluster": 4,
+                "x": 0.2798101941883447,
+                "y": 0.016742583380524034,
+                "cluster": 3,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 58
+                    "Citations": 65
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 58
+                    "Avg. citations": 65
                 }
             },
             {
                 "id": "ur.01146371357.60",
                 "label": "Aref-Adib, Golnar",
                 "organization": "University College London",
-                "x": 1.9136273262981074,
-                "y": 0.032036435762469236,
-                "cluster": 5,
+                "x": 1.7695039677279678,
+                "y": -0.2174640052212417,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -663,9 +726,9 @@
                 "id": "ur.01146565310.12",
                 "label": "Feelisch, Martin",
                 "organization": "University of Southampton",
-                "x": 1.710815461487536,
-                "y": 0.03257508412471923,
-                "cluster": 5,
+                "x": 1.7543127669422847,
+                "y": -0.1519356904726984,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -679,9 +742,9 @@
                 "id": "ur.01152603060.89",
                 "label": "Kee, Frank",
                 "organization": "Queen's University Belfast",
-                "x": 0.6973338127274898,
-                "y": 0.2563599926141002,
-                "cluster": 4,
+                "x": 0.5718615645869378,
+                "y": -0.31803079903563336,
+                "cluster": 3,
                 "weights": {
                     "Publications": 1,
                     "Citations": 1
@@ -695,8 +758,8 @@
                 "id": "ur.01154104546.29",
                 "label": "Nolan, John J",
                 "organization": "Health Data Research UK",
-                "x": 0.3118492622584733,
-                "y": 0.47389948035119256,
+                "x": -0.2932938932175742,
+                "y": -0.7069385497131166,
                 "cluster": 2,
                 "weights": {
                     "Publications": 3,
@@ -711,40 +774,40 @@
                 "id": "ur.011542710300.12",
                 "label": "Abbasizanjani, Hoda",
                 "organization": "Swansea University",
-                "x": -0.2072268561054251,
-                "y": 0.23454701443619697,
-                "cluster": 3,
+                "x": -0.13493008234623666,
+                "y": -0.062155393128900116,
+                "cluster": 4,
                 "weights": {
                     "Publications": 4,
-                    "Citations": 107
+                    "Citations": 117
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 26.75
+                    "Avg. citations": 29.25
                 }
             },
             {
                 "id": "ur.01160000022.74",
                 "label": "Denaxas, Spiros C",
                 "organization": "University College London",
-                "x": 0.15600364064223096,
-                "y": -0.035780315477421956,
-                "cluster": 4,
+                "x": 0.07357875661947386,
+                "y": -0.03550682118661603,
+                "cluster": 3,
                 "weights": {
                     "Publications": 12,
-                    "Citations": 153
+                    "Citations": 163
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 12.75
+                    "Avg. citations": 13.583333333333334
                 }
             },
             {
                 "id": "ur.011655713115.47",
                 "label": "Razieh, Cameron",
                 "organization": "University of Leicester",
-                "x": -0.7947764255298261,
-                "y": 0.03335135164676438,
+                "x": -0.3774543432577362,
+                "y": 0.04338486566911597,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -759,9 +822,9 @@
                 "id": "ur.012006411322.79",
                 "label": "Tomlinson, Christopher",
                 "organization": "University College London",
-                "x": -0.18809890294846268,
-                "y": -0.3238042702469747,
-                "cluster": 7,
+                "x": -0.2689989559196622,
+                "y": 0.01594562243058822,
+                "cluster": 1,
                 "weights": {
                     "Publications": 4,
                     "Citations": 25
@@ -775,8 +838,8 @@
                 "id": "ur.01203454615.49",
                 "label": "Downs, Johnny M",
                 "organization": "King's College London",
-                "x": -0.8043006724730809,
-                "y": -0.05771517896292867,
+                "x": -0.7342538294676425,
+                "y": 0.07492841303417719,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -791,40 +854,40 @@
                 "id": "ur.012046306577.92",
                 "label": "Mueller, Tanja",
                 "organization": "University of Strathclyde",
-                "x": -0.1078567891204469,
-                "y": 0.6848102949936133,
-                "cluster": 3,
+                "x": -0.06259774522163529,
+                "y": -0.6013134446352173,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.01205530415.85",
                 "label": "Mizani, Mehrdad A",
                 "organization": "University College London",
-                "x": 0.10191457296934153,
-                "y": 0.5569975528498047,
+                "x": 0.11302465346220109,
+                "y": -0.7299274359664616,
                 "cluster": 2,
                 "weights": {
                     "Publications": 6,
-                    "Citations": 30
+                    "Citations": 33
                 },
                 "scores": {
                     "Avg. publication year": 2021.8333333333333,
-                    "Avg. citations": 5
+                    "Avg. citations": 5.5
                 }
             },
             {
                 "id": "ur.012101223262.45",
                 "label": "Gilbert, Ruth E",
                 "organization": "University College London",
-                "x": -0.4953707565978053,
-                "y": -0.5122941813397747,
+                "x": -0.556918541476942,
+                "y": 0.20554351145658115,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -839,9 +902,9 @@
                 "id": "ur.01210164526.53",
                 "label": "Peters, Mark John",
                 "organization": "University College London",
-                "x": 1.8123839371266128,
-                "y": -0.10293336858421072,
-                "cluster": 5,
+                "x": 1.8063677647632674,
+                "y": -0.023502444403994318,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -855,24 +918,24 @@
                 "id": "ur.012101661101.91",
                 "label": "Denholm, Rachel",
                 "organization": "University of Bristol",
-                "x": 0.29511675155723144,
-                "y": -0.07241696227600782,
-                "cluster": 4,
+                "x": 0.19953688442360693,
+                "y": -0.03208291932141468,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 67
+                    "Citations": 74
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 33.5
+                    "Avg. citations": 37
                 }
             },
             {
                 "id": "ur.01211316531.27",
                 "label": "Hemingway, Harry",
                 "organization": "University College London",
-                "x": -0.13554526380848889,
-                "y": 0.09010114212400397,
+                "x": -0.3431799437804478,
+                "y": -0.3383554392676219,
                 "cluster": 2,
                 "weights": {
                     "Publications": 4,
@@ -887,8 +950,8 @@
                 "id": "ur.01224513405.02",
                 "label": "Canoy, Dexter",
                 "organization": "University of Oxford",
-                "x": -0.31681524946664014,
-                "y": 0.20807814789236193,
+                "x": -0.5155326442053715,
+                "y": -0.4150177268060825,
                 "cluster": 2,
                 "weights": {
                     "Publications": 3,
@@ -903,8 +966,8 @@
                 "id": "ur.012247703727.34",
                 "label": "Denniston, Alastair Keith",
                 "organization": "University of Birmingham",
-                "x": -0.2920835351634841,
-                "y": 0.03451227495054582,
+                "x": -0.5946439937313758,
+                "y": -0.2524691952171481,
                 "cluster": 1,
                 "weights": {
                     "Publications": 2,
@@ -919,9 +982,9 @@
                 "id": "ur.01226120733.21",
                 "label": "West, Jonathan J",
                 "organization": "University of Southampton",
-                "x": 1.7850647172602594,
-                "y": -0.039022364601176855,
-                "cluster": 5,
+                "x": 1.7138550146109643,
+                "y": -0.19250672694413937,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -932,19 +995,35 @@
                 }
             },
             {
+                "id": "ur.01230661647.74",
+                "label": "Ramnarayan, Padmanabhan",
+                "organization": "Imperial College London",
+                "x": 0.5475077924050046,
+                "y": 0.5253944724988148,
+                "cluster": 7,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 1
+                }
+            },
+            {
                 "id": "ur.01231074312.24",
                 "label": "Mamas, Mamas Andreas",
                 "organization": "Keele University",
-                "x": -0.5912936364058905,
-                "y": 0.4112949285985626,
-                "cluster": 3,
+                "x": -0.29378469179841005,
+                "y": -0.2037528887239191,
+                "cluster": 4,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 40
+                    "Citations": 43
                 },
                 "scores": {
                     "Avg. publication year": 2022.5,
-                    "Avg. citations": 20
+                    "Avg. citations": 21.5
                 }
             },
             {
@@ -952,8 +1031,8 @@
                 "label": "Prieto-Alhambra, Daniel",
                 "organization": "University of Oxford",
                 "score<Avg. citations>": null,
-                "x": 0.20630911451143638,
-                "y": 0.10729243272457609,
+                "x": -0.45761403705697506,
+                "y": -0.6613287675430386,
                 "cluster": 2,
                 "weights": {
                     "Publications": 1,
@@ -968,24 +1047,24 @@
                 "id": "ur.012371007265.42",
                 "label": "Walker, Venexia M",
                 "organization": "University of Bristol",
-                "x": 0.48593775702917624,
-                "y": 0.15059149774008296,
-                "cluster": 4,
+                "x": 0.33733216916353576,
+                "y": -0.23838281822258617,
+                "cluster": 3,
                 "weights": {
                     "Publications": 3,
-                    "Citations": 69
+                    "Citations": 76
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 23
+                    "Avg. citations": 25.333333333333332
                 }
             },
             {
                 "id": "ur.01241172356.03",
                 "label": "Caputo, Massimo",
                 "organization": "University of Bristol",
-                "x": -0.8861968760808674,
-                "y": -0.198650897859301,
+                "x": -0.5012762269677078,
+                "y": 0.5296719889494989,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1000,8 +1079,8 @@
                 "id": "ur.012422364643.80",
                 "label": "Dong, Tim",
                 "organization": "University of Bristol",
-                "x": -0.6344916372283728,
-                "y": 0.04296346203919056,
+                "x": -0.5998913604366468,
+                "y": -0.12875342276302848,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1016,8 +1095,24 @@
                 "id": "ur.01242330567.33",
                 "label": "Skrypak, Mirek",
                 "organization": "Healthcare Quality Improvement Partnership",
-                "x": -0.8980562729824837,
-                "y": -0.10724493745208667,
+                "x": -0.5073088067195917,
+                "y": 0.12266743868805961,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 25
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 25
+                }
+            },
+            {
+                "id": "ur.012432013277.27",
+                "label": "Sydes, Matthew Robert",
+                "organization": "University College London",
+                "x": -0.8135045653325643,
+                "y": 0.4481277861573003,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1032,9 +1127,9 @@
                 "id": "ur.01250055705.84",
                 "label": "Hyde, Zoë",
                 "organization": "University of Western Australia",
-                "x": 0.36901126930264166,
-                "y": -0.830146086593354,
-                "cluster": 6,
+                "x": 0.4006531428746438,
+                "y": 0.8668287569041101,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -1048,8 +1143,8 @@
                 "id": "ur.012542112550.27",
                 "label": "Dashtban, Ashkan",
                 "organization": "University College London",
-                "x": -0.7913382463058687,
-                "y": -0.3465585763494428,
+                "x": -0.5100076161457531,
+                "y": -0.09492667819425578,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1064,9 +1159,9 @@
                 "id": "ur.01254302315.61",
                 "label": "Sheperdigian, Adam",
                 "organization": null,
-                "x": 1.7689943700006538,
-                "y": 0.012862464321833772,
-                "cluster": 5,
+                "x": 1.7501197528117354,
+                "y": -0.10063801887507114,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -1080,9 +1175,9 @@
                 "id": "ur.012574103237.76",
                 "label": "Hollings, Sam",
                 "organization": "NHS Digital",
-                "x": -0.021428099744547704,
-                "y": 0.025955787265206528,
-                "cluster": 4,
+                "x": -0.02752048080716376,
+                "y": -0.08165873041274152,
+                "cluster": 3,
                 "weights": {
                     "Publications": 5,
                     "Citations": 48
@@ -1096,8 +1191,8 @@
                 "id": "ur.01257477401.32",
                 "label": "Hardelid, Pia Cecilia",
                 "organization": "University College London",
-                "x": -0.623160505164512,
-                "y": -0.34374158009159256,
+                "x": -0.2955700367947891,
+                "y": 0.2175947438025703,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1112,8 +1207,8 @@
                 "id": "ur.01264650141.38",
                 "label": "Payne, Rupert A",
                 "organization": "University of Bristol",
-                "x": -0.7843131219466322,
-                "y": -0.24398500160251704,
+                "x": -0.645017941356685,
+                "y": 0.19294361314699432,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1128,8 +1223,8 @@
                 "id": "ur.01270021657.58",
                 "label": "Olvera-Barrios, Abraham",
                 "organization": "University College London",
-                "x": -0.713979672840087,
-                "y": -0.007565326069603088,
+                "x": -0.8468027684209443,
+                "y": 0.2916678960057873,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1144,8 +1239,8 @@
                 "id": "ur.01271523063.65",
                 "label": "Townson, Julia K",
                 "organization": "Cardiff University",
-                "x": -0.4217211066188777,
-                "y": -0.3003985927852144,
+                "x": -0.8312419139812034,
+                "y": -0.049926213441660906,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1160,8 +1255,8 @@
                 "id": "ur.01271703117.17",
                 "label": "Prieto-Alhambra, Dani D",
                 "organization": "University of Oxford",
-                "x": -0.38465267701208244,
-                "y": -0.02329821508139134,
+                "x": -0.40015707135018314,
+                "y": 0.37108116466456764,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1176,8 +1271,8 @@
                 "id": "ur.01272154776.19",
                 "label": "Pasea, Laura",
                 "organization": "University College London",
-                "x": -0.2377593713164588,
-                "y": 0.13702762521813291,
+                "x": -0.48407085337043326,
+                "y": -0.32502315836139334,
                 "cluster": 2,
                 "weights": {
                     "Publications": 3,
@@ -1189,44 +1284,60 @@
                 }
             },
             {
+                "id": "ur.01274464602.22",
+                "label": "Pathan, Nazima Pathan",
+                "organization": "University of Cambridge",
+                "x": 0.6008795966641989,
+                "y": 0.4870422342632564,
+                "cluster": 7,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 1
+                }
+            },
+            {
                 "id": "ur.012763226355.92",
                 "label": "Takhar, Rohan",
                 "organization": "University College London",
-                "x": -0.2530351692776186,
-                "y": 0.41193766419167616,
-                "cluster": 3,
+                "x": -0.16883515183827094,
+                "y": -0.19269915881397104,
+                "cluster": 4,
                 "weights": {
                     "Publications": 4,
-                    "Citations": 51
+                    "Citations": 54
                 },
                 "scores": {
                     "Avg. publication year": 2022,
-                    "Avg. citations": 12.75
+                    "Avg. citations": 13.5
                 }
             },
             {
                 "id": "ur.013025532630.54",
                 "label": "Keene, Spencer J",
                 "organization": "University of Cambridge",
-                "x": 0.4662798870372609,
-                "y": -0.17838883798140373,
-                "cluster": 4,
+                "x": 0.29431671480435495,
+                "y": -0.09444659230340713,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 67
+                    "Citations": 74
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 33.5
+                    "Avg. citations": 37
                 }
             },
             {
                 "id": "ur.01304131711.13",
                 "label": "Bc, Rajendra Kumar",
                 "organization": "Nepal Health Research Council",
-                "x": 1.8751736433446566,
-                "y": -0.08789842235606528,
-                "cluster": 5,
+                "x": 1.8707452369494322,
+                "y": -0.16900366744489806,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -1240,9 +1351,9 @@
                 "id": "ur.01306675612.93",
                 "label": "Bhatt, Samir J",
                 "organization": "Imperial College London",
-                "x": 0.46225443000188504,
-                "y": -0.9153701308368243,
-                "cluster": 6,
+                "x": 0.5024539030412369,
+                "y": 0.8862281405171621,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -1256,8 +1367,8 @@
                 "id": "ur.013114570665.96",
                 "label": "Mateen, Bilal Akhter",
                 "organization": "University College London",
-                "x": -0.2235159026402678,
-                "y": -0.41463031933749256,
+                "x": -0.09652174918161548,
+                "y": 0.11544714913306578,
                 "cluster": 7,
                 "weights": {
                     "Publications": 4,
@@ -1272,8 +1383,8 @@
                 "id": "ur.01317416027.19",
                 "label": "Firth, Joseph",
                 "organization": "University of Manchester",
-                "x": -0.5515305473495061,
-                "y": -0.09363521269404392,
+                "x": -0.7440178802293312,
+                "y": -0.013591842154661186,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1288,8 +1399,8 @@
                 "id": "ur.013212505657.01",
                 "label": "Dhillon, Baljean",
                 "organization": "University of Edinburgh",
-                "x": -0.648432846039081,
-                "y": -0.22782297795632087,
+                "x": -0.3866684417276695,
+                "y": 0.2065812422077594,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1304,24 +1415,24 @@
                 "id": "ur.013231735677.15",
                 "label": "Sterne, Jonathan A C",
                 "organization": "University of Bristol",
-                "x": -0.04918832153386779,
-                "y": 0.14127891950864602,
-                "cluster": 3,
+                "x": -0.07116287714936391,
+                "y": -0.15964810672384264,
+                "cluster": 4,
                 "weights": {
                     "Publications": 5,
-                    "Citations": 110
+                    "Citations": 120
                 },
                 "scores": {
                     "Avg. publication year": 2021.8,
-                    "Avg. citations": 22
+                    "Avg. citations": 24
                 }
             },
             {
                 "id": "ur.01326462665.97",
                 "label": "Greaves, Felix E C",
                 "organization": "Imperial College London",
-                "x": -0.3217933285808267,
-                "y": -0.28011763449555194,
+                "x": -0.43282052156337447,
+                "y": -0.03357123511149467,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1336,24 +1447,24 @@
                 "id": "ur.01327124407.43",
                 "label": "North, Teri-Louise",
                 "organization": "University of Bristol",
-                "x": -0.11207709758289382,
-                "y": -0.0975050785661555,
-                "cluster": 4,
+                "x": -0.1805829499569193,
+                "y": 0.16044518906655836,
+                "cluster": 3,
                 "weights": {
                     "Publications": 3,
-                    "Citations": 92
+                    "Citations": 99
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 30.666666666666668
+                    "Avg. citations": 33
                 }
             },
             {
                 "id": "ur.013325132457.12",
                 "label": "Hama, Tuankasfee",
                 "organization": null,
-                "x": -0.7204319757093185,
-                "y": -0.09591003928104837,
+                "x": -0.6607191018609551,
+                "y": 0.017947384844890103,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1368,40 +1479,40 @@
                 "id": "ur.013325375556.64",
                 "label": "Kurdi, Amanj Baker",
                 "organization": "University of Strathclyde",
-                "x": -0.40404630913059475,
-                "y": 0.3914632639181005,
-                "cluster": 3,
+                "x": -0.38622193095632185,
+                "y": -0.15771999304418483,
+                "cluster": 4,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 40
+                    "Citations": 43
                 },
                 "scores": {
                     "Avg. publication year": 2022.5,
-                    "Avg. citations": 20
+                    "Avg. citations": 21.5
                 }
             },
             {
                 "id": "ur.013345751547.36",
                 "label": "Whiteley, William N",
                 "organization": "University of Edinburgh",
-                "x": -0.0018438624357124214,
-                "y": -0.08596265037724111,
-                "cluster": 4,
+                "x": -0.04367582010435787,
+                "y": 0.02954834700463964,
+                "cluster": 3,
                 "weights": {
                     "Publications": 4,
-                    "Citations": 95
+                    "Citations": 102
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 23.75
+                    "Avg. citations": 25.5
                 }
             },
             {
                 "id": "ur.013363701543.87",
                 "label": "Llinares, Miguel Bernabeu",
                 "organization": null,
-                "x": -0.8669777790744082,
-                "y": -0.290169911272251,
+                "x": -0.3839781230345254,
+                "y": 0.4857515983316851,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1416,24 +1527,24 @@
                 "id": "ur.01342153057.51",
                 "label": "Gurdasani, Deepti",
                 "organization": "Queen Mary University of London",
-                "x": -0.0021444016450003554,
-                "y": -0.5469351858275501,
-                "cluster": 6,
+                "x": 0.09908807611527341,
+                "y": 0.5347097759892575,
+                "cluster": 5,
                 "weights": {
-                    "Publications": 2,
-                    "Citations": 55
+                    "Publications": 3,
+                    "Citations": 56
                 },
                 "scores": {
-                    "Avg. publication year": 2021.5,
-                    "Avg. citations": 27.5
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 18.666666666666668
                 }
             },
             {
                 "id": "ur.01360153731.10",
                 "label": "Zaccardi, Francesco",
                 "organization": "University of Leicester",
-                "x": 0.31606441890259174,
-                "y": 0.607866860201775,
+                "x": -0.3428354260045639,
+                "y": -0.8668179496947436,
                 "cluster": 2,
                 "weights": {
                     "Publications": 2,
@@ -1445,12 +1556,29 @@
                 }
             },
             {
+                "id": "ur.013657724721.98",
+                "label": "Anand, Easan",
+                "organization": "Southampton General Hospital",
+                "score<Avg. citations>": null,
+                "x": 1.0721681406964694,
+                "y": 0.11332785195114092,
+                "cluster": 8,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 0
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": null
+                }
+            },
+            {
                 "id": "ur.01366551744.32",
                 "label": "Bean, Daniel M",
                 "organization": "King's College London",
-                "x": 0.5031064928432045,
-                "y": 0.42854338171899653,
-                "cluster": 4,
+                "x": 0.39851108293154924,
+                "y": -0.4437403628684052,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
                     "Citations": 11
@@ -1463,27 +1591,26 @@
             {
                 "id": "ur.013670622741.77",
                 "label": "Brown, Katherine Loraine",
-                "organization": "University College London",
-                "score<Avg. citations>": null,
-                "x": -0.15289670483603385,
-                "y": -0.6801412918537916,
+                "organization": "Great Ormond Street Hospital",
+                "x": 0.45265725852768063,
+                "y": 0.38244345490804355,
                 "cluster": 7,
                 "weights": {
-                    "Publications": 2,
-                    "Citations": 0
+                    "Publications": 3,
+                    "Citations": 1
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": null
+                    "Avg. citations": 0.3333333333333333
                 }
             },
             {
                 "id": "ur.01367673420.84",
                 "label": "Mckee, Martin Mc",
                 "organization": "London School of Hygiene & Tropical Medicine",
-                "x": 0.4967793954266205,
-                "y": -0.7093141025987948,
-                "cluster": 6,
+                "x": 0.44457561650935645,
+                "y": 0.9927597302229341,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -1497,8 +1624,8 @@
                 "id": "ur.01367711150.31",
                 "label": "Danesh, John Navid",
                 "organization": "University of Cambridge",
-                "x": -0.8052454976502759,
-                "y": -0.14845146226925454,
+                "x": -0.645753865049101,
+                "y": 0.4298064561959315,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1513,8 +1640,8 @@
                 "id": "ur.01370414346.27",
                 "label": "Glickman, Myer",
                 "organization": "Office for National Statistics",
-                "x": -0.39356675421483023,
-                "y": -0.4767016463110847,
+                "x": -0.4641790469411645,
+                "y": 0.43948301213907937,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1529,25 +1656,25 @@
                 "id": "ur.01371504405.32",
                 "label": "Lyons, Ronan Anthony",
                 "organization": "Swansea University",
-                "x": -0.48940087383558156,
-                "y": 0.4524925728044688,
-                "cluster": 3,
+                "x": -0.3867857734087518,
+                "y": -0.2422513229083429,
+                "cluster": 4,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 40
+                    "Citations": 43
                 },
                 "scores": {
                     "Avg. publication year": 2022.5,
-                    "Avg. citations": 20
+                    "Avg. citations": 21.5
                 }
             },
             {
                 "id": "ur.01371624753.15",
                 "label": "Ziauddeen, Hisham",
                 "organization": "University of Cambridge",
-                "x": 0.5001707582878678,
-                "y": -0.8498780408013464,
-                "cluster": 6,
+                "x": 0.3927579873347811,
+                "y": 0.9470817473456611,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -1562,8 +1689,8 @@
                 "label": "Pineda-Moncusí, Marta",
                 "organization": "University of Oxford",
                 "score<Avg. citations>": null,
-                "x": 0.25749353382859,
-                "y": 0.1910624222502932,
+                "x": -0.36562498348101463,
+                "y": -0.598399687184999,
                 "cluster": 2,
                 "weights": {
                     "Publications": 1,
@@ -1578,9 +1705,9 @@
                 "id": "ur.014022150747.32",
                 "label": "Iliff, H A",
                 "organization": "Prince Charles Hospital",
-                "x": 0.9613835314977187,
-                "y": -0.026553218322956363,
-                "cluster": 5,
+                "x": 0.8684747669522841,
+                "y": -0.037113388502860646,
+                "cluster": 8,
                 "weights": {
                     "Publications": 1,
                     "Citations": 6
@@ -1594,9 +1721,9 @@
                 "id": "ur.014117022377.36",
                 "label": "Ip, Samantha H Y",
                 "organization": "University of Cambridge",
-                "x": 0.5710932049591223,
-                "y": 0.07181155351487614,
-                "cluster": 4,
+                "x": 0.43374877814216023,
+                "y": -0.17900006018869577,
+                "cluster": 3,
                 "weights": {
                     "Publications": 2,
                     "Citations": 10
@@ -1610,40 +1737,40 @@
                 "id": "ur.014123621041.41",
                 "label": "Tomlinson, Christopher",
                 "organization": "University College London",
-                "x": 0.7407275259197073,
-                "y": 0.010072881156030975,
-                "cluster": 5,
+                "x": 0.6884493678926674,
+                "y": 0.008289766004382892,
+                "cluster": 8,
                 "weights": {
-                    "Publications": 14,
-                    "Citations": 144
+                    "Publications": 16,
+                    "Citations": 155
                 },
                 "scores": {
-                    "Avg. publication year": 2021.142857142857,
-                    "Avg. citations": 10.285714285714286
+                    "Avg. publication year": 2021.375,
+                    "Avg. citations": 9.6875
                 }
             },
             {
                 "id": "ur.014207203412.59",
                 "label": "Bullard, Ian",
                 "organization": "NHS Digital",
-                "x": -0.12954927696317092,
-                "y": 0.8579582194105283,
-                "cluster": 3,
+                "x": 0.10831278422151029,
+                "y": -0.40335724120138733,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.014314007260.40",
                 "label": "Slapkova, Martina",
                 "organization": null,
-                "x": -0.7157956458449949,
-                "y": 0.0874376712612206,
+                "x": -0.687661392153636,
+                "y": -0.16608122294075803,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1658,24 +1785,24 @@
                 "id": "ur.014366020547.03",
                 "label": "Morris, Andrew David",
                 "organization": "Health Data Research UK",
-                "x": -0.19382102790633823,
-                "y": 0.6129064057777436,
-                "cluster": 3,
+                "x": 0.028242976362812314,
+                "y": -0.45651305618870325,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.014702626755.48",
                 "label": "Oliver, Dominic",
                 "organization": "King's College London",
-                "x": -0.46838151712375065,
-                "y": -0.057273542918774685,
+                "x": -0.9699218592581467,
+                "y": 0.176289476403384,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1690,8 +1817,8 @@
                 "id": "ur.014730052330.70",
                 "label": "Machado, Pedro M",
                 "organization": "University College London",
-                "x": -0.8995532507207804,
-                "y": -0.38662491918685954,
+                "x": -0.5296295174270957,
+                "y": 0.2808931849779039,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1706,9 +1833,9 @@
                 "id": "ur.014747303414.53",
                 "label": "Imray, Chris H E",
                 "organization": "University Hospital Coventry",
-                "x": 1.8720255348127324,
-                "y": 0.08159958025771258,
-                "cluster": 5,
+                "x": 1.8574606310549038,
+                "y": -0.05698413649299448,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -1722,8 +1849,8 @@
                 "id": "ur.015107023045.97",
                 "label": "Torralbo, Ana",
                 "organization": "University College London",
-                "x": 0.09264162140094855,
-                "y": 0.3005795256771265,
+                "x": 0.3029163290864926,
+                "y": -0.5190139859351238,
                 "cluster": 2,
                 "weights": {
                     "Publications": 1,
@@ -1738,25 +1865,25 @@
                 "id": "ur.015116260450.00",
                 "label": "Omigie, Efosa",
                 "organization": "NHS Digital",
-                "x": -0.01939447405019627,
-                "y": -0.19304525265540376,
-                "cluster": 4,
+                "x": -0.13044856710098163,
+                "y": 0.25483298268960347,
+                "cluster": 3,
                 "weights": {
                     "Publications": 3,
-                    "Citations": 92
+                    "Citations": 99
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 30.666666666666668
+                    "Avg. citations": 33
                 }
             },
             {
                 "id": "ur.015407406705.60",
                 "label": "Mamouei, Mohammad",
                 "organization": "University of Oxford",
-                "x": 0.6549961162964931,
-                "y": 0.1905083058000569,
-                "cluster": 4,
+                "x": 0.5322917061069878,
+                "y": -0.2549187738085916,
+                "cluster": 3,
                 "weights": {
                     "Publications": 1,
                     "Citations": 1
@@ -1770,40 +1897,40 @@
                 "id": "ur.015452200430.62",
                 "label": "Lyons, Jane",
                 "organization": "Swansea University",
-                "x": -0.28920581220634484,
-                "y": 0.6437201665684905,
-                "cluster": 3,
+                "x": -0.11200165896776723,
+                "y": -0.5328312101633254,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.015545043764.70",
                 "label": "Griffiths, Rowena",
                 "organization": "Swansea University",
-                "x": -0.26209872332852674,
-                "y": 0.7530121130699508,
-                "cluster": 3,
+                "x": 0.021786410425229975,
+                "y": -0.6203278192759603,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.015604455234.08",
                 "label": "Allery, Freya",
                 "organization": "University College London",
-                "x": -0.2427768852519481,
-                "y": -0.10164323821185714,
+                "x": -0.5126268755381437,
+                "y": -0.20564539623352673,
                 "cluster": 1,
                 "weights": {
                     "Publications": 2,
@@ -1818,9 +1945,9 @@
                 "id": "ur.015646342212.36",
                 "label": "Dobson, Richard J B",
                 "organization": "University College London",
-                "x": 0.5970518931467801,
-                "y": 0.3461074713199365,
-                "cluster": 4,
+                "x": 0.4741236650949586,
+                "y": -0.37572188518480304,
+                "cluster": 3,
                 "weights": {
                     "Publications": 3,
                     "Citations": 12
@@ -1834,8 +1961,8 @@
                 "id": "ur.015662135341.90",
                 "label": "Friebel, Rocco",
                 "organization": "London School of Economics and Political Science",
-                "x": -0.7208102589507149,
-                "y": -0.18374115547043995,
+                "x": -0.6106921891030715,
+                "y": 0.5272473443515595,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1850,8 +1977,8 @@
                 "id": "ur.015710515127.48",
                 "label": "Pickrell, Owen W",
                 "organization": "Swansea University",
-                "x": -0.5583755054010516,
-                "y": -0.005691772282907126,
+                "x": -0.5201366404462464,
+                "y": -0.008637768630002235,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1866,9 +1993,9 @@
                 "id": "ur.015740350363.33",
                 "label": "Cumpstey, Andrew F",
                 "organization": "University of Southampton",
-                "x": 1.8554889945109445,
-                "y": 0.01389755847522055,
-                "cluster": 5,
+                "x": 1.6994741837231817,
+                "y": -0.07426036737653144,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -1882,24 +2009,24 @@
                 "id": "ur.015747463462.79",
                 "label": "Wood, Angela M",
                 "organization": "University of Cambridge",
-                "x": 0.39502550566063604,
-                "y": 0.17757229871155963,
-                "cluster": 4,
+                "x": 0.21148123108829792,
+                "y": -0.3014299274184082,
+                "cluster": 3,
                 "weights": {
                     "Publications": 6,
-                    "Citations": 73
+                    "Citations": 80
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 12.166666666666666
+                    "Avg. citations": 13.333333333333334
                 }
             },
             {
                 "id": "ur.015751504314.99",
                 "label": "Hocaoglu, Mevhibe B",
                 "organization": "King's College London",
-                "x": -0.5532125695926141,
-                "y": 0.09199924121456303,
+                "x": -0.6778797791736715,
+                "y": -0.0724088771624471,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1914,8 +2041,8 @@
                 "id": "ur.015772131473.44",
                 "label": "Lawson, Claire Alexandra",
                 "organization": "University of Leicester",
-                "x": -0.9678165209412872,
-                "y": -0.2761260179115099,
+                "x": -0.4676232614916317,
+                "y": 0.05321080146980527,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1930,8 +2057,8 @@
                 "id": "ur.016023726460.83",
                 "label": "Tochel, Claire",
                 "organization": "University of Edinburgh",
-                "x": -0.5179647011482333,
-                "y": -0.32977731230819873,
+                "x": -0.4732567631916636,
+                "y": 0.20076050928123415,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1947,8 +2074,8 @@
                 "label": "Collins, Gary Stephen",
                 "organization": "University of Oxford",
                 "score<Avg. citations>": null,
-                "x": 0.2949860932697719,
-                "y": 0.10507058851923351,
+                "x": -0.4531911869537432,
+                "y": -0.5768682514104154,
                 "cluster": 2,
                 "weights": {
                     "Publications": 1,
@@ -1963,8 +2090,8 @@
                 "id": "ur.016104077405.59",
                 "label": "Hughes, David Michael",
                 "organization": "University of Liverpool",
-                "x": -0.48945198265642703,
-                "y": -0.23587685523694632,
+                "x": -0.8882288785154924,
+                "y": 0.11318114465199584,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1979,8 +2106,8 @@
                 "id": "ur.016131223561.08",
                 "label": "Hassaine, Abdelaali",
                 "organization": "University of Oxford",
-                "x": -0.558398168906395,
-                "y": -0.17871500617335245,
+                "x": -0.6165297071750826,
+                "y": 0.27229644835339545,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -1995,8 +2122,8 @@
                 "id": "ur.016254237031.09",
                 "label": "Withnell, Eloise",
                 "organization": "University College London",
-                "x": -0.4805617711071028,
-                "y": 0.032391614908809735,
+                "x": -0.869630311864017,
+                "y": -0.14356578253350225,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2011,8 +2138,8 @@
                 "id": "ur.016464214747.57",
                 "label": "Oluyase, Adejoke Obirenjeyi",
                 "organization": "King's College London",
-                "x": -0.35292896031761295,
-                "y": -0.3755867880837938,
+                "x": -0.7873444047593763,
+                "y": -0.20200548578981628,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2027,8 +2154,8 @@
                 "id": "ur.016471722402.07",
                 "label": "Dashtban, Muhammad H",
                 "organization": "University College London",
-                "x": 0.40737944088097866,
-                "y": 0.5610961695636661,
+                "x": -0.1485588173407319,
+                "y": -0.9186200253418162,
                 "cluster": 2,
                 "weights": {
                     "Publications": 2,
@@ -2043,8 +2170,8 @@
                 "id": "ur.016515345753.55",
                 "label": "Cooper, Jennifer A",
                 "organization": "University of Bristol",
-                "x": 0.13397965583623936,
-                "y": 0.21377737961771925,
+                "x": 0.35791160013193885,
+                "y": -0.5978431537935416,
                 "cluster": 2,
                 "weights": {
                     "Publications": 1,
@@ -2059,9 +2186,9 @@
                 "id": "ur.016551203565.33",
                 "label": "Reicher, Stephen David",
                 "organization": "University of St Andrews",
-                "x": 0.573091880139732,
-                "y": -0.8586739514454693,
-                "cluster": 6,
+                "x": 0.30079601913342946,
+                "y": 0.8616951280934042,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2075,25 +2202,25 @@
                 "id": "ur.016573420657.30",
                 "label": "Priedon, Rouven",
                 "organization": "Health Data Research UK",
-                "x": -0.42465894075936,
-                "y": 0.28779190600692584,
-                "cluster": 3,
+                "x": -0.32480001962940436,
+                "y": -0.0943758319946611,
+                "cluster": 4,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 40
+                    "Citations": 43
                 },
                 "scores": {
                     "Avg. publication year": 2022.5,
-                    "Avg. citations": 20
+                    "Avg. citations": 21.5
                 }
             },
             {
                 "id": "ur.016651444114.11",
                 "label": "Grocott, Michael Patrick William Mpw",
                 "organization": "University of Southampton",
-                "x": 1.8122521176554791,
-                "y": 0.10666491706079476,
-                "cluster": 5,
+                "x": 1.8870787819948016,
+                "y": -0.11015906019048763,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -2107,9 +2234,9 @@
                 "id": "ur.016661266542.50",
                 "label": "Costello, Anthony M De L",
                 "organization": "University College London",
-                "x": 0.3858889919401637,
-                "y": -0.766439233261101,
-                "cluster": 6,
+                "x": 0.44057184737514393,
+                "y": 0.910375578234923,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2123,8 +2250,8 @@
                 "id": "ur.0611446267.37",
                 "label": "Birney, Ewan",
                 "organization": "European Bioinformatics Institute",
-                "x": -0.40242436999692827,
-                "y": -0.20664065213032162,
+                "x": -0.7633172502369344,
+                "y": -0.10758666955394453,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2139,8 +2266,8 @@
                 "id": "ur.0613564631.86",
                 "label": "Mordi, Ify R",
                 "organization": "University of Dundee",
-                "x": -0.720193434117989,
-                "y": 0.1855083161036953,
+                "x": -0.9440916642251629,
+                "y": 0.2817426987500281,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2152,43 +2279,60 @@
                 }
             },
             {
-                "id": "ur.0630220770.36",
-                "label": "Pirmohamed, Munir",
-                "organization": "University of Liverpool",
-                "x": -0.35057580671530997,
-                "y": 0.7161513827886246,
-                "cluster": 3,
+                "id": "ur.0622622220.82",
+                "label": "Mercer, Stuart J",
+                "organization": "Queen Alexandra Hospital",
+                "score<Avg. citations>": null,
+                "x": 1.1020415616231034,
+                "y": 0.08808257624903493,
+                "cluster": 8,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 0
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": null
+                }
+            },
+            {
+                "id": "ur.0630220770.36",
+                "label": "Pirmohamed, Munir",
+                "organization": "University of Liverpool",
+                "x": -0.03675982243771618,
+                "y": -0.4003073659932045,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 18
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.0631117221.13",
                 "label": "Mctaggart, Stuart A",
                 "organization": "Public Health Scotland",
-                "x": -0.16916576773090522,
-                "y": 0.7767938401784307,
-                "cluster": 3,
+                "x": 0.03945656601150905,
+                "y": -0.36430423556410296,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.0634343703.24",
                 "label": "Macleod, Mary Joan",
                 "organization": "University of Aberdeen",
-                "x": 0.22482188500024086,
-                "y": 0.7237890486365721,
+                "x": -0.2518507544629359,
+                "y": -0.9236874383947945,
                 "cluster": 2,
                 "weights": {
                     "Publications": 2,
@@ -2203,9 +2347,9 @@
                 "id": "ur.0640410710.66",
                 "label": "Flaxman, Seth R",
                 "organization": "University of Oxford",
-                "x": 0.5592513342190963,
-                "y": -0.7316427601158936,
-                "cluster": 6,
+                "x": 0.4650574366567709,
+                "y": 0.8360511155854898,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2219,24 +2363,24 @@
                 "id": "ur.0641072534.04",
                 "label": "Khunti, Kamlesh K",
                 "organization": "University of Leicester",
-                "x": -0.04159916134581078,
-                "y": 0.27004636852890246,
+                "x": -0.2512676951669362,
+                "y": -0.3784311355250056,
                 "cluster": 2,
                 "weights": {
                     "Publications": 6,
-                    "Citations": 99
+                    "Citations": 109
                 },
                 "scores": {
                     "Avg. publication year": 2022.1666666666667,
-                    "Avg. citations": 16.5
+                    "Avg. citations": 18.166666666666668
                 }
             },
             {
                 "id": "ur.0642075131.67",
                 "label": "Goldacre, Ben M",
                 "organization": "University of Oxford",
-                "x": -0.877473413438139,
-                "y": 0.07672056485490195,
+                "x": -0.7153020689287287,
+                "y": 0.5043790171920151,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2251,8 +2395,8 @@
                 "id": "ur.0645430644.98",
                 "label": "Banerjee, Amitava",
                 "organization": "University College London",
-                "x": 0.3794481809538178,
-                "y": 0.3952603525952314,
+                "x": -0.011806099769884455,
+                "y": -0.7300441932606215,
                 "cluster": 2,
                 "weights": {
                     "Publications": 6,
@@ -2267,24 +2411,40 @@
                 "id": "ur.0645437504.72",
                 "label": "Di Angelantonio, Emanuele",
                 "organization": "University of Cambridge",
-                "x": -0.144698758768034,
-                "y": -0.19424738133937186,
-                "cluster": 4,
+                "x": -0.17314863763964072,
+                "y": 0.05712449576803063,
+                "cluster": 3,
                 "weights": {
                     "Publications": 3,
-                    "Citations": 92
+                    "Citations": 99
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 30.666666666666668
+                    "Avg. citations": 33
+                }
+            },
+            {
+                "id": "ur.0645633743.20",
+                "label": "Vollmer, Sebastian Josef",
+                "organization": "University of Warwick",
+                "x": 0.48948805224815445,
+                "y": 0.505467103815445,
+                "cluster": 7,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 1
                 }
             },
             {
                 "id": "ur.0647447514.31",
                 "label": "Delmestri, Antonella",
                 "organization": "University of Oxford",
-                "x": -0.21322413781240523,
-                "y": -0.015694041242281073,
+                "x": -0.6865109374114817,
+                "y": -0.288728766263253,
                 "cluster": 1,
                 "weights": {
                     "Publications": 2,
@@ -2299,9 +2459,9 @@
                 "id": "ur.0653042471.04",
                 "label": "Yates, Christian Adam",
                 "organization": "University of Bath",
-                "x": 0.3996500723910278,
-                "y": -0.8938885869557149,
-                "cluster": 6,
+                "x": 0.35265697011240693,
+                "y": 0.9032597845215768,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2315,8 +2475,8 @@
                 "id": "ur.0661375424.50",
                 "label": "Kontopantelis, Evan",
                 "organization": "University of Manchester",
-                "x": -0.31130765823030376,
-                "y": -0.1860261847262794,
+                "x": -0.6581763106546679,
+                "y": 0.10170145360811918,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2331,9 +2491,9 @@
                 "id": "ur.0665526165.82",
                 "label": "Aveling, Wynne",
                 "organization": "University College London",
-                "x": 1.811640333572865,
-                "y": 0.046106695107151124,
-                "cluster": 5,
+                "x": 1.692991792868088,
+                "y": -0.1348855607152724,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -2347,24 +2507,24 @@
                 "id": "ur.0702223041.06",
                 "label": "Akbari, Ashley",
                 "organization": "Swansea University",
-                "x": 0.11537471705088562,
-                "y": 0.40518245325446084,
+                "x": -0.1299122355434126,
+                "y": -0.43107022507514614,
                 "cluster": 2,
                 "weights": {
                     "Publications": 7,
-                    "Citations": 86
+                    "Citations": 96
                 },
                 "scores": {
                     "Avg. publication year": 2021.857142857143,
-                    "Avg. citations": 12.285714285714286
+                    "Avg. citations": 13.714285714285714
                 }
             },
             {
                 "id": "ur.0704624321.30",
                 "label": "Williams, Gareth Haydn",
                 "organization": "King's College London",
-                "x": -0.9958448920719917,
-                "y": -0.05752004437654861,
+                "x": -0.9790303535033829,
+                "y": 0.06524936691588502,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2379,8 +2539,8 @@
                 "id": "ur.0710065774.60",
                 "label": "Onida, Sarah",
                 "organization": "Imperial College London",
-                "x": -0.5520871834542889,
-                "y": 0.19566539589763643,
+                "x": -0.9391756816282368,
+                "y": -0.06358148163589994,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2395,25 +2555,25 @@
                 "id": "ur.0721420403.33",
                 "label": "Thygesen, Johan Hilge",
                 "organization": "University College London",
-                "x": 0.4548567499888013,
-                "y": 0.2797440387151177,
-                "cluster": 4,
+                "x": 0.2809185197065406,
+                "y": -0.368154842050024,
+                "cluster": 3,
                 "weights": {
                     "Publications": 8,
-                    "Citations": 83
+                    "Citations": 90
                 },
                 "scores": {
                     "Avg. publication year": 2021.5,
-                    "Avg. citations": 10.375
+                    "Avg. citations": 11.25
                 }
             },
             {
                 "id": "ur.0723076443.96",
                 "label": "Richardson, Alan James",
                 "organization": "University of Brighton",
-                "x": 1.7525674790593073,
-                "y": 0.08143458602551723,
-                "cluster": 5,
+                "x": 1.7974719661736511,
+                "y": -0.08016199251942423,
+                "cluster": 6,
                 "weights": {
                     "Publications": 1,
                     "Citations": 10
@@ -2427,8 +2587,8 @@
                 "id": "ur.0731207013.14",
                 "label": "Goldacre, Raph",
                 "organization": "University of Oxford",
-                "x": -0.6371305936843789,
-                "y": -0.13813766340425146,
+                "x": -0.5761635621221999,
+                "y": 0.05111574189457772,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2443,9 +2603,9 @@
                 "id": "ur.0731257347.22",
                 "label": "Scally, Gabriel J",
                 "organization": "University of Bristol",
-                "x": 0.5199375856750097,
-                "y": -0.7900855590588757,
-                "cluster": 6,
+                "x": 0.38255166344326663,
+                "y": 1.0120780880176616,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2459,9 +2619,9 @@
                 "id": "ur.0734302623.84",
                 "label": "Greenhalgh, Trisha",
                 "organization": "University of Oxford",
-                "x": 0.4285688238109706,
-                "y": -0.7124517466565082,
-                "cluster": 6,
+                "x": 0.4915653969085352,
+                "y": 0.9520321806037175,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2475,24 +2635,24 @@
                 "id": "ur.0734746616.07",
                 "label": "Pagel, Christina",
                 "organization": "University College London",
-                "x": 0.013689670310056993,
-                "y": -0.446997240251149,
-                "cluster": 6,
+                "x": 0.14801008129414647,
+                "y": 0.4098869837896095,
+                "cluster": 7,
                 "weights": {
-                    "Publications": 5,
-                    "Citations": 58
+                    "Publications": 6,
+                    "Citations": 59
                 },
                 "scores": {
-                    "Avg. publication year": 2022,
-                    "Avg. citations": 11.6
+                    "Avg. publication year": 2022.1666666666667,
+                    "Avg. citations": 9.833333333333334
                 }
             },
             {
                 "id": "ur.07355233274.45",
                 "label": "Wang, Huan",
                 "organization": "University of Dundee",
-                "x": -0.9794713355465213,
-                "y": 0.05363406481672836,
+                "x": -0.3575095028118896,
+                "y": 0.2930869655932832,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2507,8 +2667,8 @@
                 "id": "ur.0737720050.31",
                 "label": "Mamza, Jil Billy",
                 "organization": "AstraZeneca (United Kingdom)",
-                "x": 0.4248943613160622,
-                "y": 0.6674246616022218,
+                "x": -0.17725257180765935,
+                "y": -0.7582053449015947,
                 "cluster": 2,
                 "weights": {
                     "Publications": 2,
@@ -2520,27 +2680,28 @@
                 }
             },
             {
-                "id": "ur.07406214702.11",
-                "label": "Sydes, Matt",
-                "organization": null,
-                "x": -0.47028393409331265,
-                "y": 0.14540459117182802,
-                "cluster": 1,
+                "id": "ur.07410130543.25",
+                "label": "Rahman, Saqib A",
+                "organization": "University of Southampton",
+                "score<Avg. citations>": null,
+                "x": 1.1082734133346044,
+                "y": 0.12691098360086359,
+                "cluster": 8,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 25
+                    "Citations": 0
                 },
                 "scores": {
-                    "Avg. publication year": 2022,
-                    "Avg. citations": 25
+                    "Avg. publication year": 2023,
+                    "Avg. citations": null
                 }
             },
             {
                 "id": "ur.07412650053.98",
                 "label": "Khalid, Sara",
                 "organization": "University of Oxford",
-                "x": 0.2573461094468153,
-                "y": 0.3940361037471842,
+                "x": -0.38105671025597465,
+                "y": -0.7586204607263394,
                 "cluster": 2,
                 "weights": {
                     "Publications": 3,
@@ -2555,8 +2716,8 @@
                 "id": "ur.07414615403.16",
                 "label": "Wu, Honghan",
                 "organization": "University College London",
-                "x": 0.19358968495217754,
-                "y": 0.29261921653680084,
+                "x": 0.27554970200291246,
+                "y": -0.6392449419259051,
                 "cluster": 2,
                 "weights": {
                     "Publications": 1,
@@ -2568,11 +2729,27 @@
                 }
             },
             {
+                "id": "ur.07420117074.74",
+                "label": "Du Pré, Pascale",
+                "organization": "Great Ormond Street Hospital",
+                "x": 0.5387584846970846,
+                "y": 0.39335295248582974,
+                "cluster": 7,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2023,
+                    "Avg. citations": 1
+                }
+            },
+            {
                 "id": "ur.0744062507.00",
                 "label": "Tufail, Adnan T",
                 "organization": "Moorfields Eye Hospital NHS Foundation Trust",
-                "x": -0.7168293530967458,
-                "y": -0.5081707095713492,
+                "x": -0.5973397320410282,
+                "y": -0.03976307327669396,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2587,8 +2764,8 @@
                 "id": "ur.07453126021.18",
                 "label": "Bolton, Thomas R",
                 "organization": "University of Cambridge",
-                "x": 0.3280709376392716,
-                "y": 0.29338956597757965,
+                "x": -0.21843400304910024,
+                "y": -0.5968403858721869,
                 "cluster": 2,
                 "weights": {
                     "Publications": 4,
@@ -2603,8 +2780,8 @@
                 "id": "ur.0746307425.24",
                 "label": "Allara, Elias",
                 "organization": "University of Cambridge",
-                "x": -0.4037602793660137,
-                "y": 0.0767559559416532,
+                "x": -0.7686681688097367,
+                "y": 0.325244629315972,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2619,8 +2796,8 @@
                 "id": "ur.07471663351.11",
                 "label": "Morris, Tamsin",
                 "organization": "AstraZeneca (United Kingdom)",
-                "x": 0.33140065383339956,
-                "y": 0.7264314393779017,
+                "x": -0.24566920853866836,
+                "y": -0.8207628248817584,
                 "cluster": 2,
                 "weights": {
                     "Publications": 2,
@@ -2635,8 +2812,8 @@
                 "id": "ur.0752146643.96",
                 "label": "Das-Munshi, Jayati",
                 "organization": "King's College London",
-                "x": -0.6359084156808458,
-                "y": -0.05111496409097538,
+                "x": -0.4181075448763353,
+                "y": 0.12654541525264773,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2651,8 +2828,8 @@
                 "id": "ur.07526235461.86",
                 "label": "Martos, David Moreno",
                 "organization": "University of Dundee",
-                "x": -0.7141318655217005,
-                "y": -0.39396473771326596,
+                "x": -0.6737660051557874,
+                "y": 0.33802765148244124,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2667,25 +2844,25 @@
                 "id": "ur.07550036570.06",
                 "label": "Harris, Daniel E",
                 "organization": "Swansea University",
-                "x": -0.5121474604593832,
-                "y": 0.33903996644718254,
-                "cluster": 3,
+                "x": -0.24428698219079237,
+                "y": -0.10921643799061768,
+                "cluster": 4,
                 "weights": {
                     "Publications": 2,
-                    "Citations": 40
+                    "Citations": 43
                 },
                 "scores": {
                     "Avg. publication year": 2022.5,
-                    "Avg. citations": 20
+                    "Avg. citations": 21.5
                 }
             },
             {
                 "id": "ur.0757514737.12",
                 "label": "Katzourakis, Aris",
                 "organization": "University of Oxford",
-                "x": 0.45884935054414977,
-                "y": -0.774550062537668,
-                "cluster": 6,
+                "x": 0.3284355681154894,
+                "y": 0.9778008755856639,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2699,9 +2876,9 @@
                 "id": "ur.0760341634.14",
                 "label": "Ratmann, Oliver",
                 "organization": "Imperial College London",
-                "x": 0.43859156898466317,
-                "y": -0.8351078105427042,
-                "cluster": 6,
+                "x": 0.34817616654335426,
+                "y": 0.8215192792935366,
+                "cluster": 5,
                 "weights": {
                     "Publications": 1,
                     "Citations": 30
@@ -2715,24 +2892,24 @@
                 "id": "ur.0761135000.02",
                 "label": "Bennie, Marion Clark",
                 "organization": "University of Strathclyde",
-                "x": -0.20008674685690137,
-                "y": 0.6961553521897996,
-                "cluster": 3,
+                "x": -0.053073936760892,
+                "y": -0.480836025222651,
+                "cluster": 4,
                 "weights": {
                     "Publications": 1,
-                    "Citations": 15
+                    "Citations": 18
                 },
                 "scores": {
                     "Avg. publication year": 2023,
-                    "Avg. citations": 15
+                    "Avg. citations": 18
                 }
             },
             {
                 "id": "ur.0762426550.49",
                 "label": "Macleod, John A A",
                 "organization": "University of Bristol",
-                "x": -0.8022677185280322,
-                "y": 0.13745199031657795,
+                "x": -0.31157165054187885,
+                "y": 0.41029338608305105,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2747,24 +2924,24 @@
                 "id": "ur.0764474576.97",
                 "label": "Sofat, Reecha",
                 "organization": "University of Liverpool",
-                "x": -0.04634880131922211,
-                "y": 0.3786267735578262,
-                "cluster": 3,
+                "x": 0.037199994970312567,
+                "y": -0.21051731043018618,
+                "cluster": 4,
                 "weights": {
                     "Publications": 6,
-                    "Citations": 55
+                    "Citations": 58
                 },
                 "scores": {
                     "Avg. publication year": 2021.6666666666667,
-                    "Avg. citations": 9.166666666666666
+                    "Avg. citations": 9.666666666666666
                 }
             },
             {
                 "id": "ur.0765500701.54",
                 "label": "Curcin, Vasa",
                 "organization": "King's College London",
-                "x": -0.5771560291924732,
-                "y": -0.26745153174616315,
+                "x": -0.4959957186496205,
+                "y": 0.35818566500752413,
                 "cluster": 1,
                 "weights": {
                     "Publications": 1,
@@ -2779,8 +2956,8 @@
                 "id": "ur.0776525644.00",
                 "label": "Berry, Colin B",
                 "organization": "University of Glasgow",
-                "x": -0.2861752356368263,
-                "y": 0.30614802004351926,
+                "x": -0.611768740650947,
+                "y": -0.3979376770745823,
                 "cluster": 2,
                 "weights": {
                     "Publications": 3,
@@ -2946,6 +3123,11 @@
             {
                 "source_id": "ur.01001113112.07",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01001113112.07",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -3196,11 +3378,6 @@
             {
                 "source_id": "ur.01001113112.07",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01001113112.07",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -3515,6 +3692,11 @@
             },
             {
                 "source_id": "ur.010076466201.28",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010076466201.28",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -3761,11 +3943,6 @@
             {
                 "source_id": "ur.010076466201.28",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.010076466201.28",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -4085,6 +4262,11 @@
             },
             {
                 "source_id": "ur.010254226477.98",
+                "target_id": "ur.011214043754.94",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010254226477.98",
                 "target_id": "ur.011230767104.22",
                 "strength": 1
             },
@@ -4211,6 +4393,11 @@
             {
                 "source_id": "ur.010254226477.98",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010254226477.98",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -4555,11 +4742,6 @@
             },
             {
                 "source_id": "ur.010254226477.98",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.010254226477.98",
                 "target_id": "ur.07412650053.98",
                 "strength": 3
             },
@@ -4910,6 +5092,11 @@
             },
             {
                 "source_id": "ur.010320553714.39",
+                "target_id": "ur.011214043754.94",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010320553714.39",
                 "target_id": "ur.011230767104.22",
                 "strength": 2
             },
@@ -5026,6 +5213,11 @@
             {
                 "source_id": "ur.010320553714.39",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010320553714.39",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -5365,11 +5557,6 @@
             },
             {
                 "source_id": "ur.010320553714.39",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.010320553714.39",
                 "target_id": "ur.07412650053.98",
                 "strength": 2
             },
@@ -5566,6 +5753,11 @@
             {
                 "source_id": "ur.01036063320.47",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01036063320.47",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -5820,11 +6012,6 @@
             },
             {
                 "source_id": "ur.01036063320.47",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01036063320.47",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -5941,6 +6128,61 @@
             {
                 "source_id": "ur.010363556767.74",
                 "target_id": "ur.0723076443.96",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.011004537503.48",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.011161776477.32",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.01126040443.87",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.01230661647.74",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.01274464602.22",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.013670622741.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01041326411.13",
+                "target_id": "ur.07420117074.74",
                 "strength": 1
             },
             {
@@ -6200,6 +6442,11 @@
             },
             {
                 "source_id": "ur.01056637062.63",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01056637062.63",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -6446,11 +6693,6 @@
             {
                 "source_id": "ur.01056637062.63",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01056637062.63",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -6625,6 +6867,11 @@
             },
             {
                 "source_id": "ur.01057207260.72",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01057207260.72",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -6871,11 +7118,6 @@
             {
                 "source_id": "ur.01057207260.72",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01057207260.72",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -7165,6 +7407,11 @@
             },
             {
                 "source_id": "ur.01061403301.00",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01061403301.00",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -7411,11 +7658,6 @@
             {
                 "source_id": "ur.01061403301.00",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01061403301.00",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -7580,6 +7822,11 @@
             },
             {
                 "source_id": "ur.010634063654.16",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010634063654.16",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -7826,11 +8073,6 @@
             {
                 "source_id": "ur.010634063654.16",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.010634063654.16",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -7990,6 +8232,11 @@
             },
             {
                 "source_id": "ur.01063554274.30",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01063554274.30",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -8240,11 +8487,6 @@
             },
             {
                 "source_id": "ur.01063554274.30",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01063554274.30",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -8297,6 +8539,11 @@
                 "source_id": "ur.010663343457.34",
                 "target_id": "ur.01114247300.26",
                 "strength": 2
+            },
+            {
+                "source_id": "ur.010663343457.34",
+                "target_id": "ur.011214043754.94",
+                "strength": 1
             },
             {
                 "source_id": "ur.010663343457.34",
@@ -8492,6 +8739,11 @@
                 "source_id": "ur.010711013677.02",
                 "target_id": "ur.01114247300.26",
                 "strength": 2
+            },
+            {
+                "source_id": "ur.010711013677.02",
+                "target_id": "ur.011214043754.94",
+                "strength": 1
             },
             {
                 "source_id": "ur.010711013677.02",
@@ -8716,6 +8968,11 @@
             {
                 "source_id": "ur.01072320062.54",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01072320062.54",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -9025,11 +9282,6 @@
             },
             {
                 "source_id": "ur.01072320062.54",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01072320062.54",
                 "target_id": "ur.07412650053.98",
                 "strength": 2
             },
@@ -9265,6 +9517,11 @@
             },
             {
                 "source_id": "ur.010736034157.74",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010736034157.74",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -9515,11 +9772,6 @@
             },
             {
                 "source_id": "ur.010736034157.74",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.010736034157.74",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -9561,6 +9813,56 @@
             {
                 "source_id": "ur.010736034157.74",
                 "target_id": "ur.0776525644.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.011161776477.32",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.01126040443.87",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.01230661647.74",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.01274464602.22",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.013670622741.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011004537503.48",
+                "target_id": "ur.07420117074.74",
                 "strength": 1
             },
             {
@@ -9775,6 +10077,11 @@
             },
             {
                 "source_id": "ur.01104073006.50",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01104073006.50",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -10021,11 +10328,6 @@
             {
                 "source_id": "ur.01104073006.50",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01104073006.50",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -10245,6 +10547,11 @@
             },
             {
                 "source_id": "ur.01106547242.76",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01106547242.76",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -10491,11 +10798,6 @@
             {
                 "source_id": "ur.01106547242.76",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01106547242.76",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -10840,6 +11142,11 @@
             },
             {
                 "source_id": "ur.01114247300.26",
+                "target_id": "ur.011214043754.94",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01114247300.26",
                 "target_id": "ur.011230767104.22",
                 "strength": 2
             },
@@ -10945,6 +11252,11 @@
             },
             {
                 "source_id": "ur.01114247300.26",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01114247300.26",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -11225,11 +11537,6 @@
             },
             {
                 "source_id": "ur.01114247300.26",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01114247300.26",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -11280,8 +11587,23 @@
             },
             {
                 "source_id": "ur.011161776477.32",
+                "target_id": "ur.01126040443.87",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011161776477.32",
                 "target_id": "ur.012006411322.79",
                 "strength": 2
+            },
+            {
+                "source_id": "ur.011161776477.32",
+                "target_id": "ur.01230661647.74",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011161776477.32",
+                "target_id": "ur.01274464602.22",
+                "strength": 1
             },
             {
                 "source_id": "ur.011161776477.32",
@@ -11290,13 +11612,33 @@
             },
             {
                 "source_id": "ur.011161776477.32",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011161776477.32",
                 "target_id": "ur.013670622741.77",
-                "strength": 2
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011161776477.32",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011161776477.32",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
             },
             {
                 "source_id": "ur.011161776477.32",
                 "target_id": "ur.0734746616.07",
-                "strength": 2
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011161776477.32",
+                "target_id": "ur.07420117074.74",
+                "strength": 1
             },
             {
                 "source_id": "ur.011167170123.23",
@@ -11376,6 +11718,11 @@
             {
                 "source_id": "ur.011167170123.23",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011167170123.23",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -11630,11 +11977,6 @@
             },
             {
                 "source_id": "ur.011167170123.23",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.011167170123.23",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -11676,6 +12018,96 @@
             {
                 "source_id": "ur.011167170123.23",
                 "target_id": "ur.0776525644.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.011230767104.22",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.01125304272.54",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.01145326566.25",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.011542710300.12",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.01160000022.74",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.012101661101.91",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.012371007265.42",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.013025532630.54",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.013231735677.15",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.01327124407.43",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.013345751547.36",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.015116260450.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.015747463462.79",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.0641072534.04",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.0645437504.72",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.0702223041.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011214043754.94",
+                "target_id": "ur.0721420403.33",
                 "strength": 1
             },
             {
@@ -11855,6 +12287,11 @@
             },
             {
                 "source_id": "ur.011232002333.53",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011232002333.53",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -12101,11 +12538,6 @@
             {
                 "source_id": "ur.011232002333.53",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.011232002333.53",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -12234,6 +12666,46 @@
                 "strength": 1
             },
             {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.01230661647.74",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.01274464602.22",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.013670622741.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01126040443.87",
+                "target_id": "ur.07420117074.74",
+                "strength": 1
+            },
+            {
                 "source_id": "ur.011377211602.35",
                 "target_id": "ur.01140036350.06",
                 "strength": 1
@@ -12301,6 +12773,11 @@
             {
                 "source_id": "ur.011377211602.35",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011377211602.35",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -12551,11 +13028,6 @@
             {
                 "source_id": "ur.011377211602.35",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.011377211602.35",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -12670,6 +13142,11 @@
             },
             {
                 "source_id": "ur.01140036350.06",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01140036350.06",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -12916,11 +13393,6 @@
             {
                 "source_id": "ur.01140036350.06",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01140036350.06",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -13585,6 +14057,11 @@
             },
             {
                 "source_id": "ur.011542710300.12",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011542710300.12",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -13895,11 +14372,6 @@
             },
             {
                 "source_id": "ur.011542710300.12",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.011542710300.12",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -14031,6 +14503,11 @@
             {
                 "source_id": "ur.01160000022.74",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01160000022.74",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -14455,11 +14932,6 @@
             },
             {
                 "source_id": "ur.01160000022.74",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01160000022.74",
                 "target_id": "ur.07412650053.98",
                 "strength": 3
             },
@@ -14586,6 +15058,11 @@
             {
                 "source_id": "ur.011655713115.47",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011655713115.47",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -14840,11 +15317,6 @@
             },
             {
                 "source_id": "ur.011655713115.47",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.011655713115.47",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -14936,6 +15408,11 @@
             {
                 "source_id": "ur.012006411322.79",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012006411322.79",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -15220,11 +15697,6 @@
             },
             {
                 "source_id": "ur.012006411322.79",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012006411322.79",
                 "target_id": "ur.07412650053.98",
                 "strength": 1
             },
@@ -15316,6 +15788,11 @@
             {
                 "source_id": "ur.01203454615.49",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01203454615.49",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -15566,11 +16043,6 @@
             {
                 "source_id": "ur.01203454615.49",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01203454615.49",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -15960,6 +16432,11 @@
             },
             {
                 "source_id": "ur.012101223262.45",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012101223262.45",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -16210,11 +16687,6 @@
             },
             {
                 "source_id": "ur.012101223262.45",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012101223262.45",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -16406,6 +16878,11 @@
             {
                 "source_id": "ur.01211316531.27",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01211316531.27",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -16715,11 +17192,6 @@
             },
             {
                 "source_id": "ur.01211316531.27",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01211316531.27",
                 "target_id": "ur.07412650053.98",
                 "strength": 2
             },
@@ -16806,6 +17278,11 @@
             {
                 "source_id": "ur.01224513405.02",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01224513405.02",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -17100,11 +17577,6 @@
             },
             {
                 "source_id": "ur.01224513405.02",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01224513405.02",
                 "target_id": "ur.07412650053.98",
                 "strength": 2
             },
@@ -17186,6 +17658,11 @@
             {
                 "source_id": "ur.012247703727.34",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012247703727.34",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -17465,11 +17942,6 @@
             },
             {
                 "source_id": "ur.012247703727.34",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012247703727.34",
                 "target_id": "ur.07412650053.98",
                 "strength": 1
             },
@@ -17564,6 +18036,41 @@
                 "strength": 1
             },
             {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.01274464602.22",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.013670622741.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230661647.74",
+                "target_id": "ur.07420117074.74",
+                "strength": 1
+            },
+            {
                 "source_id": "ur.01231074312.24",
                 "target_id": "ur.01241172356.03",
                 "strength": 1
@@ -17576,6 +18083,11 @@
             {
                 "source_id": "ur.01231074312.24",
                 "target_id": "ur.01242330567.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01231074312.24",
+                "target_id": "ur.012432013277.27",
                 "strength": 1
             },
             {
@@ -17870,11 +18382,6 @@
             },
             {
                 "source_id": "ur.01231074312.24",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01231074312.24",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -18070,6 +18577,11 @@
             },
             {
                 "source_id": "ur.01241172356.03",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01241172356.03",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -18316,11 +18828,6 @@
             {
                 "source_id": "ur.01241172356.03",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01241172356.03",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -18375,6 +18882,11 @@
             },
             {
                 "source_id": "ur.012422364643.80",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012422364643.80",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -18621,11 +19133,6 @@
             {
                 "source_id": "ur.012422364643.80",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012422364643.80",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -18675,6 +19182,11 @@
             },
             {
                 "source_id": "ur.01242330567.33",
+                "target_id": "ur.012432013277.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01242330567.33",
                 "target_id": "ur.012542112550.27",
                 "strength": 1
             },
@@ -18925,11 +19437,6 @@
             },
             {
                 "source_id": "ur.01242330567.33",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01242330567.33",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -18970,6 +19477,301 @@
             },
             {
                 "source_id": "ur.01242330567.33",
+                "target_id": "ur.0776525644.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.012542112550.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.012574103237.76",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01257477401.32",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01264650141.38",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01270021657.58",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01271523063.65",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01271703117.17",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01272154776.19",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.012763226355.92",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013114570665.96",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01317416027.19",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013212505657.01",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013231735677.15",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01326462665.97",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01327124407.43",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013325132457.12",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013325375556.64",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013345751547.36",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.013363701543.87",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01367711150.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01370414346.27",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.01371504405.32",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.014314007260.40",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.014702626755.48",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.014730052330.70",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.015116260450.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.015604455234.08",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.015662135341.90",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.015710515127.48",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.015751504314.99",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.015772131473.44",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.016023726460.83",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.016104077405.59",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.016131223561.08",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.016254237031.09",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.016464214747.57",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.016573420657.30",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0611446267.37",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0613564631.86",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0641072534.04",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0642075131.67",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0645437504.72",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0647447514.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0661375424.50",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0704624321.30",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0710065774.60",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0731207013.14",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.07355233274.45",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0744062507.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0746307425.24",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0752146643.96",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.07526235461.86",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.07550036570.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0762426550.49",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0764474576.97",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
+                "target_id": "ur.0765500701.54",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012432013277.27",
                 "target_id": "ur.0776525644.00",
                 "strength": 1
             },
@@ -19290,11 +20092,6 @@
             },
             {
                 "source_id": "ur.012542112550.27",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012542112550.27",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -19670,11 +20467,6 @@
             },
             {
                 "source_id": "ur.012574103237.76",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012574103237.76",
                 "target_id": "ur.07414615403.16",
                 "strength": 1
             },
@@ -19965,11 +20757,6 @@
             },
             {
                 "source_id": "ur.01257477401.32",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01257477401.32",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -20245,11 +21032,6 @@
             },
             {
                 "source_id": "ur.01264650141.38",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01264650141.38",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -20520,11 +21302,6 @@
             },
             {
                 "source_id": "ur.01270021657.58",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01270021657.58",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -20790,11 +21567,6 @@
             },
             {
                 "source_id": "ur.01271523063.65",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01271523063.65",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -21051,11 +21823,6 @@
             {
                 "source_id": "ur.01271703117.17",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01271703117.17",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -21355,11 +22122,6 @@
             },
             {
                 "source_id": "ur.01272154776.19",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01272154776.19",
                 "target_id": "ur.07412650053.98",
                 "strength": 2
             },
@@ -21417,6 +22179,36 @@
                 "source_id": "ur.01272154776.19",
                 "target_id": "ur.0776525644.00",
                 "strength": 3
+            },
+            {
+                "source_id": "ur.01274464602.22",
+                "target_id": "ur.01342153057.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01274464602.22",
+                "target_id": "ur.013670622741.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01274464602.22",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01274464602.22",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01274464602.22",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01274464602.22",
+                "target_id": "ur.07420117074.74",
+                "strength": 1
             },
             {
                 "source_id": "ur.012763226355.92",
@@ -21686,11 +22478,6 @@
             {
                 "source_id": "ur.012763226355.92",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.012763226355.92",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -22140,11 +22927,6 @@
             },
             {
                 "source_id": "ur.013114570665.96",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013114570665.96",
                 "target_id": "ur.07414615403.16",
                 "strength": 1
             },
@@ -22390,11 +23172,6 @@
             },
             {
                 "source_id": "ur.01317416027.19",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01317416027.19",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -22630,11 +23407,6 @@
             },
             {
                 "source_id": "ur.013212505657.01",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013212505657.01",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -22935,11 +23707,6 @@
             },
             {
                 "source_id": "ur.013231735677.15",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013231735677.15",
                 "target_id": "ur.07414615403.16",
                 "strength": 1
             },
@@ -23176,11 +23943,6 @@
             {
                 "source_id": "ur.01326462665.97",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01326462665.97",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -23430,11 +24192,6 @@
             },
             {
                 "source_id": "ur.01327124407.43",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01327124407.43",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -23651,11 +24408,6 @@
             {
                 "source_id": "ur.013325132457.12",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013325132457.12",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -23906,11 +24658,6 @@
             {
                 "source_id": "ur.013325375556.64",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013325375556.64",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -24165,11 +24912,6 @@
             },
             {
                 "source_id": "ur.013345751547.36",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013345751547.36",
                 "target_id": "ur.07414615403.16",
                 "strength": 1
             },
@@ -24380,11 +25122,6 @@
             },
             {
                 "source_id": "ur.013363701543.87",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.013363701543.87",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -24430,6 +25167,11 @@
             },
             {
                 "source_id": "ur.01342153057.51",
+                "target_id": "ur.013670622741.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01342153057.51",
                 "target_id": "ur.01367673420.84",
                 "strength": 1
             },
@@ -24456,7 +25198,7 @@
             {
                 "source_id": "ur.01342153057.51",
                 "target_id": "ur.014123621041.41",
-                "strength": 1
+                "strength": 2
             },
             {
                 "source_id": "ur.01342153057.51",
@@ -24575,6 +25317,11 @@
             },
             {
                 "source_id": "ur.01342153057.51",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01342153057.51",
                 "target_id": "ur.0647447514.31",
                 "strength": 1
             },
@@ -24616,7 +25363,7 @@
             {
                 "source_id": "ur.01342153057.51",
                 "target_id": "ur.0734746616.07",
-                "strength": 2
+                "strength": 3
             },
             {
                 "source_id": "ur.01342153057.51",
@@ -24625,7 +25372,7 @@
             },
             {
                 "source_id": "ur.01342153057.51",
-                "target_id": "ur.07406214702.11",
+                "target_id": "ur.07420117074.74",
                 "strength": 1
             },
             {
@@ -24744,6 +25491,21 @@
                 "strength": 2
             },
             {
+                "source_id": "ur.013657724721.98",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013657724721.98",
+                "target_id": "ur.0622622220.82",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013657724721.98",
+                "target_id": "ur.07410130543.25",
+                "strength": 1
+            },
+            {
                 "source_id": "ur.01366551744.32",
                 "target_id": "ur.014123621041.41",
                 "strength": 2
@@ -24775,8 +25537,23 @@
             },
             {
                 "source_id": "ur.013670622741.77",
+                "target_id": "ur.014123621041.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013670622741.77",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013670622741.77",
                 "target_id": "ur.0734746616.07",
-                "strength": 2
+                "strength": 3
+            },
+            {
+                "source_id": "ur.013670622741.77",
+                "target_id": "ur.07420117074.74",
+                "strength": 1
             },
             {
                 "source_id": "ur.01367673420.84",
@@ -24980,11 +25757,6 @@
             },
             {
                 "source_id": "ur.01367711150.31",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01367711150.31",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -25166,11 +25938,6 @@
             {
                 "source_id": "ur.01370414346.27",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01370414346.27",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -25391,11 +26158,6 @@
             {
                 "source_id": "ur.01371504405.32",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.01371504405.32",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -25685,6 +26447,11 @@
             },
             {
                 "source_id": "ur.014123621041.41",
+                "target_id": "ur.0622622220.82",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.014123621041.41",
                 "target_id": "ur.0630220770.36",
                 "strength": 1
             },
@@ -25717,6 +26484,11 @@
                 "source_id": "ur.014123621041.41",
                 "target_id": "ur.0645437504.72",
                 "strength": 2
+            },
+            {
+                "source_id": "ur.014123621041.41",
+                "target_id": "ur.0645633743.20",
+                "strength": 1
             },
             {
                 "source_id": "ur.014123621041.41",
@@ -25756,12 +26528,17 @@
             {
                 "source_id": "ur.014123621041.41",
                 "target_id": "ur.0734746616.07",
-                "strength": 2
+                "strength": 3
             },
             {
                 "source_id": "ur.014123621041.41",
                 "target_id": "ur.0737720050.31",
                 "strength": 2
+            },
+            {
+                "source_id": "ur.014123621041.41",
+                "target_id": "ur.07410130543.25",
+                "strength": 1
             },
             {
                 "source_id": "ur.014123621041.41",
@@ -25771,6 +26548,11 @@
             {
                 "source_id": "ur.014123621041.41",
                 "target_id": "ur.07414615403.16",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.014123621041.41",
+                "target_id": "ur.07420117074.74",
                 "strength": 1
             },
             {
@@ -26000,11 +26782,6 @@
             },
             {
                 "source_id": "ur.014314007260.40",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.014314007260.40",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -26225,11 +27002,6 @@
             },
             {
                 "source_id": "ur.014702626755.48",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.014702626755.48",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -26391,11 +27163,6 @@
             {
                 "source_id": "ur.014730052330.70",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.014730052330.70",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -26631,11 +27398,6 @@
             {
                 "source_id": "ur.015116260450.00",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.015116260450.00",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -26925,11 +27687,6 @@
             },
             {
                 "source_id": "ur.015604455234.08",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.015604455234.08",
                 "target_id": "ur.07412650053.98",
                 "strength": 1
             },
@@ -27110,11 +27867,6 @@
             },
             {
                 "source_id": "ur.015662135341.90",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.015662135341.90",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -27256,11 +28008,6 @@
             {
                 "source_id": "ur.015710515127.48",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.015710515127.48",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -27485,11 +28232,6 @@
             },
             {
                 "source_id": "ur.015751504314.99",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.015751504314.99",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -27625,11 +28367,6 @@
             },
             {
                 "source_id": "ur.015772131473.44",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.015772131473.44",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -27756,11 +28493,6 @@
             {
                 "source_id": "ur.016023726460.83",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.016023726460.83",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -27920,11 +28652,6 @@
             },
             {
                 "source_id": "ur.016104077405.59",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.016104077405.59",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -28045,11 +28772,6 @@
             },
             {
                 "source_id": "ur.016131223561.08",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.016131223561.08",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -28165,11 +28887,6 @@
             },
             {
                 "source_id": "ur.016254237031.09",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.016254237031.09",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -28276,11 +28993,6 @@
             {
                 "source_id": "ur.016464214747.57",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.016464214747.57",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -28525,11 +29237,6 @@
             },
             {
                 "source_id": "ur.016573420657.30",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.016573420657.30",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -28680,11 +29387,6 @@
             },
             {
                 "source_id": "ur.0611446267.37",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0611446267.37",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -28780,11 +29482,6 @@
             },
             {
                 "source_id": "ur.0613564631.86",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0613564631.86",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -28826,6 +29523,11 @@
             {
                 "source_id": "ur.0613564631.86",
                 "target_id": "ur.0776525644.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0622622220.82",
+                "target_id": "ur.07410130543.25",
                 "strength": 1
             },
             {
@@ -29025,11 +29727,6 @@
             },
             {
                 "source_id": "ur.0641072534.04",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0641072534.04",
                 "target_id": "ur.07412650053.98",
                 "strength": 3
             },
@@ -29131,11 +29828,6 @@
             {
                 "source_id": "ur.0642075131.67",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0642075131.67",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -29285,11 +29977,6 @@
             },
             {
                 "source_id": "ur.0645437504.72",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0645437504.72",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -29339,6 +30026,16 @@
                 "strength": 1
             },
             {
+                "source_id": "ur.0645633743.20",
+                "target_id": "ur.0734746616.07",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0645633743.20",
+                "target_id": "ur.07420117074.74",
+                "strength": 1
+            },
+            {
                 "source_id": "ur.0647447514.31",
                 "target_id": "ur.0661375424.50",
                 "strength": 1
@@ -29371,11 +30068,6 @@
             {
                 "source_id": "ur.0647447514.31",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0647447514.31",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -29481,11 +30173,6 @@
             {
                 "source_id": "ur.0661375424.50",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0661375424.50",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -29615,11 +30302,6 @@
             },
             {
                 "source_id": "ur.0704624321.30",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0704624321.30",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -29676,11 +30358,6 @@
             {
                 "source_id": "ur.0710065774.60",
                 "target_id": "ur.07355233274.45",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0710065774.60",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -29780,11 +30457,6 @@
             },
             {
                 "source_id": "ur.0731207013.14",
-                "target_id": "ur.07406214702.11",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.0731207013.14",
                 "target_id": "ur.0744062507.00",
                 "strength": 1
             },
@@ -29870,12 +30542,12 @@
             },
             {
                 "source_id": "ur.0734746616.07",
-                "target_id": "ur.07406214702.11",
+                "target_id": "ur.07414615403.16",
                 "strength": 1
             },
             {
                 "source_id": "ur.0734746616.07",
-                "target_id": "ur.07414615403.16",
+                "target_id": "ur.07420117074.74",
                 "strength": 1
             },
             {
@@ -29931,11 +30603,6 @@
             {
                 "source_id": "ur.0734746616.07",
                 "target_id": "ur.0776525644.00",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07355233274.45",
-                "target_id": "ur.07406214702.11",
                 "strength": 1
             },
             {
@@ -30002,51 +30669,6 @@
                 "source_id": "ur.0737720050.31",
                 "target_id": "ur.0776525644.00",
                 "strength": 2
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0744062507.00",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0746307425.24",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0752146643.96",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.07526235461.86",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.07550036570.06",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0762426550.49",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0764474576.97",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0765500701.54",
-                "strength": 1
-            },
-            {
-                "source_id": "ur.07406214702.11",
-                "target_id": "ur.0776525644.00",
-                "strength": 1
             },
             {
                 "source_id": "ur.07412650053.98",
