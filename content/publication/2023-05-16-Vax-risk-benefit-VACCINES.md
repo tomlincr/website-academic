@@ -14,7 +14,7 @@ publication: 'Vaccines'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: yes
+featured: false
 url_pdf: ~
 url_pmid: ~
 url_code: ~
