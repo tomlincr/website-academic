@@ -1,5 +1,5 @@
 ---
-title: UCL GSK Phenomics Hub
+title: UCL-GSK Phenomics Hub
 summary: Phenotyping at scale using electronic health records and diverse biobank cohorts
 tags:
 - Phenomics
@@ -7,6 +7,17 @@ tags:
 - Health data science
 - UK Biobank
 - Genes & Health
+- "UCL-GSK Phenomics Hub"
+- "UK Biobank Pharma Proteomics Project"
+- Omics
+- Genomics
+- Proteomics
+- Industry collaboration
+- GSK
+- Risk prediction
+- Machine learning
+- PheWAS
+- Drug discovery
 date: "2023-03-06"
 
 # Optional external URL for project (replaces project detail page).
