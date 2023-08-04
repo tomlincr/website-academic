@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 100
 
 # Section title
-title: Feed
+title: News
 ---
 
 Should you be interested, you can follow my latest updates on [Twitter @tomlincr](https://twitter.com/tomlincr):
