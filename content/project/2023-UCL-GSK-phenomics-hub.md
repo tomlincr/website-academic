@@ -55,4 +55,4 @@ Phenotyping at scale across diverse biobank cohorts to power genomic & proteomic
 
 ## Selected works
 
-{{< cite page="/publication/2023-07-23-UKB-GSK-proteomic-prediction.md" view="compact" >}}
+{{< cite page="/publication/2023-07-23-UKB-GSK-proteomic-prediction.md" >}}
