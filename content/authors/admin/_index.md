@@ -14,13 +14,13 @@ title: Chris Tomlinson
 # Full name (for SEO)
 first_name: Chris
 last_name: Tomlinson
-role: "Senior Research Fellow: Phenomics, Representation Learning & Real-world Evidence"
+role: "Senior Research Fellow: Health Data Science"
 interests:
-  - "**Phenomics**: Defining clinically-relevant EHR phenotypes to unlock routinely-collected healthcare data for research benefit"
-  - "**Representation learning**: building *predictive* representations that codify both domain knowledge and data-driven insights"
-  - "**Uncertainty quantification**: for clinical evaluation and scientific discovery"
-  - "**Causal inference**: for evidence generation from routinely-collected observational data"
-  # Latent variable models
+  - "**Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit"
+  - "**Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights"
+  - "**Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing robustness to distributional shift and performance in inductive learning settings"
+  - "**Causal inference**: for evidence generation from observational data and to learn better representations"
+  - "**Real-world evidence**: I prioritise working with **routinely-collected** healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers"
 social:
   - icon: envelope
     icon_pack: fas
