@@ -46,12 +46,12 @@ Phenotyping at scale across diverse biobank cohorts to power genomic & proteomic
 * **GSK**: *Jonathan Davitte, Damien C. Croteau-Chonka, Paul A. Wilson*
 * **UCL**: *Spiros Denaxas, Ana Torralbo, Natalie Fitzpatrick, Cai Ytsma, Natalie Zelenka*
 
-### Collaborators
+## Collaborators
 
 * **GSK**: *Robert A. Scott, Chloe Robins, Joanna C. Betts, Praveen Surendran, Tokuwa Kanno, Stephan Gade, Daniel Freitag, Frederik Ziebell*
-* **Precision Healthcare University Research Institute, QMUL**: *Claudia Langenberg, Maik Pietzner, Julia Carrasco-Zanini*
-* **Institute of Health Informatics, UCL**: *Harry Hemingway*
-* **MRC Epidemiology Unit, University of Cambridge**: *Nicholas J. Wareham*
+* **QMUL**: *Claudia Langenberg, Maik Pietzner, Julia Carrasco-Zanini*
+* **UCL**: *Harry Hemingway*
+* **University of Cambridge**: *Nicholas J. Wareham*
 
 ## Selected works
 
