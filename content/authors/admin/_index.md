@@ -2,8 +2,6 @@
 organizations:
   - name: "UCL Institute of Health Informatics"
     url: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
-  - name: "UKRI UCL CDT in AI-enabled Healthcare Systems"
-    url: https://www.ucl.ac.uk/aihealth-cdt/
   - name: "NHS England Digital Analytics and Research Team (DART)"
     url: https://nhsx.github.io/nhsx-internship-projects/
 superuser: true
