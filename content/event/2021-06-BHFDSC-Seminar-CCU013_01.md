@@ -24,7 +24,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2021-06-17'
-authors: [J Thygesen, C Tomlinson, S Denaxas & CVD-COVID-UK Consortium]
+authors: [J Thygesen and C Tomlinson]
 featured: yes
 image:
   caption: ''

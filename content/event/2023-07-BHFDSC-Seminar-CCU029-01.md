@@ -24,7 +24,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2023-07-19'
-authors: [K Brown, C Tomlinson, CCU029_01 co-authors & CVD-COVID-UK Consortium]
+authors: [K Brown, admin]
 featured: yes
 image:
   caption: ''
