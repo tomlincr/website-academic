@@ -20,7 +20,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2020-06-27'
-authors: [C Tomlinson]
+authors: [admin]
 featured: no
 image:
   caption: ''

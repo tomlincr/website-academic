@@ -19,7 +19,7 @@ address:
   region: ~
   postcode: ~
   country: ~
-summary: ~
+summary: "For July's BHF Data Science Centre webinar we were joined by Professor Kate Brown from Great Ormond Street Hospital (GOSH) and Dr Chris Tomlinson from University College London (UCL). They speak about findings from a recent  paper, published on 5th July 2023, outlining the impact of COVID-19 on children across England. This study - undertaken as part of the BHF Data Science Centre CVD-COVID-UK/COVID-IMPACT Consortium – looked at 12 million childhood health records across England during the height of the pandemic, and analysed 3.2 million cases of coronavirus infection. The study reveals the extent of severe outcomes in children during the pandemic and could inform public health policies. "
 abstract: ~
 date_end: ''
 all_day: no
@@ -39,5 +39,5 @@ projects: [CVD-COVID-UK/COVID-IMPACT]
 ---
 
 {{< youtube id="C94_LrbXnwk" autoplay="false" >}}  
-
+  
 {{< cite page="/publication/2023-07-05-Paeds-COVID-BMJ.md" >}}

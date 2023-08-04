@@ -25,7 +25,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2021-09-14'
-authors: [Prof Nick Lemoine, Prof Martin Gibson, Prof Cathie Sudlow,  Dr Angela Wood, Dr Venexia Walker, Dr Johan Thygesen, Dr Chris Tomlinson, Lynn Morrice]
+authors: [Prof Nick Lemoine, Prof Martin Gibson, Prof Cathie Sudlow,  Dr Angela Wood, Dr Venexia Walker, Dr Johan Thygesen, admin, Lynn Morrice]
 featured: yes
 image:
   caption: ''

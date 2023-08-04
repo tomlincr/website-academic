@@ -27,7 +27,7 @@ abstract: ~
 date_end: ~
 all_day: no
 publishDate: '2016-10-27'
-authors: []
+authors: [admin]
 featured: no
 image:
   caption: ''

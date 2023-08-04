@@ -25,7 +25,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2022-03-16'
-authors: [Dr Chris Tomlinson]
+authors: [admin]
 featured: yes
 image:
   caption: ''

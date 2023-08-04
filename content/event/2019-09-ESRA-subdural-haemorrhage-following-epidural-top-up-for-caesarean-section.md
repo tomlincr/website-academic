@@ -21,7 +21,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2019-09-11'
-authors: [C Tomlinson, S Sen, S Irwin and S Milewczyk]
+authors: [admin, S Sen, S Irwin and S Milewczyk]
 featured: no
 image:
   caption: ''

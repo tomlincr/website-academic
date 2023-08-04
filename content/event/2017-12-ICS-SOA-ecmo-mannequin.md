@@ -24,7 +24,7 @@ abstract: ~
 date_end: 
 all_day: no
 publishDate: '2017-12-06'
-authors: [C. Tomlinson, B. Pates, M. Abayalingam & A. Rosenberg]
+authors: [admin, B. Pates, M. Abayalingam & A. Rosenberg]
 featured: no
 image:
   caption: ''

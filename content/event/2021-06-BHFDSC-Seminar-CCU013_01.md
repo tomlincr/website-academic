@@ -24,7 +24,7 @@ abstract: ~
 date_end: ''
 all_day: no
 publishDate: '2021-06-17'
-authors: [J Thygesen and C Tomlinson]
+authors: [J Thygesen, admin]
 featured: yes
 image:
   caption: ''
