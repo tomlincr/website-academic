@@ -10,7 +10,7 @@ title: Chris Tomlinson
 # Full name (for SEO)
 first_name: Chris
 last_name: Tomlinson
-role: 👨‍💻Health Data Scientist |🎓PhD in AI Healthcare |👨‍⚕️Critical Care Doctor
+role: "Senior Research Fellow: Phenomics, Representation Learning & Real-world Evidence"
 interests:
   - "**Phenomics**: Defining clinically-relevant EHR phenotypes to unlock routinely-collected healthcare data for research benefit"
   - "**Representation learning**: building *predictive* representations that codify both domain knowledge and data-driven insights"
