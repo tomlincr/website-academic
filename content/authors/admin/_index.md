@@ -12,7 +12,7 @@ title: Chris Tomlinson
 # Full name (for SEO)
 first_name: Chris
 last_name: Tomlinson
-role: "MBBS BSc MRes DMCC MRCA \nSenior Research Fellow in Health Data Science"
+role: "**MBBS BSc MRes DMCC MRCA** \nSenior Research Fellow in Health Data Science"
 # interests:
 #   - "**Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit"
 #   - "**Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights"
