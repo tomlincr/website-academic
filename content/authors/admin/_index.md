@@ -81,21 +81,21 @@ He is interested in the application of AI methodologies to disentangle the compl
 
 * **Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit
 * **Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights
-* **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing robustness to distributional shift and performance in inductive learning settings
-* ***Causal inference**: for evidence generation from observational data and to learn better representations
-* **Real-world evidence**: I prioritise working with **routinely-collected** healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
+* **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing *robustness* to distributional shift and performance in *inductive learning* settings
+* **Causal inference**: for evidence generation from observational data and to learn better representations
+* **Real-world evidence**: I prioritise working with *routinely-collected* healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
 
 ## Education
 
-* **PhD Candidate: Artificial Intelligence enabled healthcare** (2021-2024)  
+* **PhD Candidate: Artificial Intelligence enabled healthcare** *2021-2024*  
   *UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems, UCL Institute of Health Informatics*
-* **MRes Artificial Intelligence enabled healthcare** (2021)
+* **MRes: Artificial Intelligence enabled healthcare** *2021*  
   *UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems, UCL Institute of Health Informatics*
-* **MRCA (Primary Fellowship)** (2018)
+* **MRCA: Primary Fellowship of the Royal College of Anaesthetists** *2018*  
   *Royal College of Anaesthetists*
-* **Diploma in Medical Care of Catastrophes** (2016)
+* **DMCC: Diploma in Medical Care of Catastrophes** *2016*  
   *The Worshipful Society of Apothecaries of London*
-* **Bachelor of Medicine & Surgery** (2014)
+* **MBBS: Bachelor of Medicine & Surgery** *2014*  
   *University College London*
-* **Bachelor of Medical Sciences with Physiology (1st Class Hons)** (2011)
+* **BSc: Bachelor of Medical Sciences with Physiology (1st Class Hons)** *2011*  
   *University College London*
