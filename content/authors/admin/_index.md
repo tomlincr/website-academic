@@ -13,12 +13,12 @@ title: Chris Tomlinson
 first_name: Chris
 last_name: Tomlinson
 role: "Senior Research Fellow: Health Data Science"
-interests:
-  - "**Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit"
-  - "**Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights"
-  - "**Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing robustness to distributional shift and performance in inductive learning settings"
-  - "**Causal inference**: for evidence generation from observational data and to learn better representations"
-  - "**Real-world evidence**: I prioritise working with **routinely-collected** healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers"
+# interests:
+#   - "**Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit"
+#   - "**Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights"
+#   - "**Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing robustness to distributional shift and performance in inductive learning settings"
+#   - "**Causal inference**: for evidence generation from observational data and to learn better representations"
+#   - "**Real-world evidence**: I prioritise working with **routinely-collected** healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers"
 social:
   - icon: envelope
     icon_pack: fas
@@ -76,3 +76,11 @@ Chris Tomlinson is an Anaesthetics & Intensive Care registrar undertaking a PhD 
 Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research he uses real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
 
 He is interested in the application of AI methodologies to disentangle the complex interactions between organ systems, diseases, individuals and healthcare services to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
+  
+## Interests
+
+* **Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit
+* **Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights
+* **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing robustness to distributional shift and performance in inductive learning settings
+* ***Causal inference**: for evidence generation from observational data and to learn better representations
+* **Real-world evidence**: I prioritise working with **routinely-collected** healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
