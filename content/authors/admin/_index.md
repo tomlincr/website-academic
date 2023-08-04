@@ -44,28 +44,28 @@ social:
   - icon: university
     icon_pack: fas
     link: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
-education:
-  courses:
-    - course: "PhD Candidate: Artificial Intelligence enabled healthcare"
-      institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
-        Systems, UCL Institute of Health Informatics
-      year: 2021-2024
-    - course: MRes Artificial Intelligence enabled healthcare
-      institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
-        Systems, UCL Institute of Health Informatics
-      year: 2021
-    - course: MRCA (Primary Fellowship)
-      institution: Royal College of Anaesthetists
-      year: 2018
-    - course: Diploma in Medical Care of Catastrophes
-      institution: The Worshipful Society of Apothecaries of London
-      year: 2016
-    - course: Bachelor of Medicine & Surgery
-      institution: University College London
-      year: 2014
-    - course: Bachelor of Medical Sciences with Physiology (1st Class Hons)
-      institution: University College London
-      year: 2011
+# education:
+#   courses:
+#     - course: "PhD Candidate: Artificial Intelligence enabled healthcare"
+#       institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
+#         Systems, UCL Institute of Health Informatics
+#       year: 2021-2024
+#     - course: MRes Artificial Intelligence enabled healthcare
+#       institution: UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare
+#         Systems, UCL Institute of Health Informatics
+#       year: 2021
+#     - course: MRCA (Primary Fellowship)
+#       institution: Royal College of Anaesthetists
+#       year: 2018
+#     - course: Diploma in Medical Care of Catastrophes
+#       institution: The Worshipful Society of Apothecaries of London
+#       year: 2016
+#     - course: Bachelor of Medicine & Surgery
+#       institution: University College London
+#       year: 2014
+#     - course: Bachelor of Medical Sciences with Physiology (1st Class Hons)
+#       institution: University College London
+#       year: 2011
 email: ""
 user_groups: null
 highlight_name: true
@@ -84,3 +84,18 @@ He is interested in the application of AI methodologies to disentangle the compl
 * **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing robustness to distributional shift and performance in inductive learning settings
 * ***Causal inference**: for evidence generation from observational data and to learn better representations
 * **Real-world evidence**: I prioritise working with **routinely-collected** healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
+
+## Education
+
+* **PhD Candidate: Artificial Intelligence enabled healthcare** (2021-2024)  
+  *UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems, UCL Institute of Health Informatics*
+* **MRes Artificial Intelligence enabled healthcare** (2021)
+  *UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems, UCL Institute of Health Informatics*
+* **MRCA (Primary Fellowship)** (2018)
+  *Royal College of Anaesthetists*
+* **Diploma in Medical Care of Catastrophes** (2016)
+  *The Worshipful Society of Apothecaries of London*
+* **Bachelor of Medicine & Surgery** (2014)
+  *University College London*
+* **Bachelor of Medical Sciences with Physiology (1st Class Hons)** (2011)
+  *University College London*
