@@ -38,6 +38,6 @@ slides: ''
 projects: [CVD-COVID-UK/COVID-IMPACT]
 ---
 
-Short presentation of our progress on defining COVID-19 event phenotypes in the NHS-Digital Trusted Research Environment as part of the [CVD-COVID-UK Consortium](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/). 
+Short presentation of our progress on defining COVID-19 event phenotypes in the NHS-Digital Trusted Research Environment as part of the [CVD-COVID-UK Consortium](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/).
 
 {{< youtube aNmOu2kbAM4 >}}
