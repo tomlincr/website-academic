@@ -1,6 +1,6 @@
 ---
 title: UCL-GSK Phenomics Hub
-summary: Phenotyping at scale using electronic health records and diverse biobank cohorts
+summary: "Phenotyping at scale across diverse biobank cohorts to power genomic & proteomic analyses for target identification, drug discovery, and precision medicine."
 tags:
 - Phenomics
 - EHR
@@ -17,17 +17,15 @@ tags:
 - Risk prediction
 - Machine learning
 - PheWAS
+- GWAS
 - Drug discovery
+- Target identification
 date: "2023-03-06"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 links:
-- name: UCL
-  url: https://iris.ucl.ac.uk/iris/browse/researchActivity/38380
-- name: "UK Biobank: Defining and redefining human disease at scale: an atlas of the human phenome."
-  url: https://www.ukbiobank.ac.uk/enable-your-research/approved-research/defining-and-redefining-human-disease-at-scale-an-atlas-of-the-human-phenome
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -41,3 +39,20 @@ url_video: ""
 slides: ""
 ---
 
+Phenotyping at scale across diverse biobank cohorts to power genomic & proteomic analyses for target identification, drug discovery, and precision medicine.  
+
+## Core team
+
+* **GSK**: *Jonathan Davitte, Damien C. Croteau-Chonka, Paul A. Wilson*
+* **UCL**: *Spiros Denaxas, Ana Torralbo, Natalie Fitzpatrick, Cai Ytsma, Natalie Zelenka*
+
+### Collaborators
+
+* **GSK**: *Robert A. Scott, Chloe Robins, Joanna C. Betts, Praveen Surendran, Tokuwa Kanno, Stephan Gade, Daniel Freitag, Frederik Ziebell*
+* **Precision Healthcare University Research Institute, QMUL**: *Claudia Langenberg, Maik Pietzner, Julia Carrasco-Zanini*
+* **Institute of Health Informatics, UCL**: *Harry Hemingway*
+* **MRC Epidemiology Unit, University of Cambridge**: *Nicholas J. Wareham*
+
+## Selected works
+
+{{< cite page="/publication/2023-07-23-UKB-GSK-proteomic-prediction.md" view="stream" >}}
