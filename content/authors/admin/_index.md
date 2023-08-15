@@ -80,7 +80,7 @@ He is interested in the application of AI methodologies to disentangle the compl
 ## Interests
 
 * **Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit
-* **Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights
+* **Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *multi-modal*, *predictive* representations that codify both domain knowledge and data-driven insights
 * **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing *robustness* to distributional shift and performance in *inductive learning* settings
 * **Causal inference**: for evidence generation from observational data and to learn better representations
 * **Real-world evidence**: I prioritise working with *routinely-collected* healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
