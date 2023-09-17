@@ -43,7 +43,7 @@ social:
     link: https://www.linkedin.com/in/tomlincr
   - icon: university
     icon_pack: fas
-    link: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
+    link: https://profiles.ucl.ac.uk/80245-chris-tomlinson
 # education:
 #   courses:
 #     - course: "PhD Candidate: Artificial Intelligence enabled healthcare"
