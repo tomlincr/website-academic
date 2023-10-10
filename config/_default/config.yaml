@@ -74,3 +74,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+# Chris custom
+# ERROR 2023/10/10 08:40:30 Failed to get JSON resource "https://api.twitter.com/1/statuses/oembed.json?id=1616105346615119872&dnt=false": Failed to retrieve remote file: Not Found
+# 9:40:30 AM: If you feel that this should not be logged as an ERROR, you can ignore it by adding this to your site config:
+# 9:40:30 AM: ignoreErrors = ["error-remote-getjson"]
+ignoreErrors: ["error-remote-getjson"]
