@@ -11,6 +11,10 @@ date: "2023-01-01"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.ucl.ac.uk/health-informatics/research/disease-atlas"
 
+image:
+    # Reference an image in your `assets/media/` folder
+    filename: atlas_circos.png
+
 links:
 url_code: ""
 url_pdf: ""
