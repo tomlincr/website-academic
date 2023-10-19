@@ -12,8 +12,8 @@ date: "2023-01-01"
 external_link: "https://www.ucl.ac.uk/health-informatics/research/disease-atlas"
 
 image:
-  caption: Disease Atlas circos plot
-  focal_point: Smart
+  # image in assets/media
+  filename: atlas_circo.png
 
 links:
 url_code: ""
