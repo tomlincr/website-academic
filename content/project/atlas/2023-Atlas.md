@@ -12,8 +12,8 @@ date: "2023-01-01"
 external_link: "https://www.ucl.ac.uk/health-informatics/research/disease-atlas"
 
 image:
-    # Reference an image in your `assets/media/` folder
-    filename: atlas_circos.png
+  caption: Disease Atlas circos plot
+  focal_point: Smart
 
 links:
 url_code: ""
