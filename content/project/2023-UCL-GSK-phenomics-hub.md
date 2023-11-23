@@ -23,7 +23,7 @@ tags:
 date: "2023-03-06"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.ucl.ac.uk/health-informatics/research/gsk-ucl-phenomics"
 
 links:
 url_code: ""
