@@ -1,9 +1,9 @@
 ---
 organizations:
   - name: "UCL Institute of Health Informatics"
-    url: https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04
-  - name: "NHS England Digital Analytics and Research Team (DART)"
-    url: https://nhsx.github.io/nhsx-internship-projects/
+    url: https://profiles.ucl.ac.uk/80245
+  - name: "Health Data Research UK"
+    url: https://www.hdruk.ac.uk/people/chris-tomlinson/
 superuser: true
 authors:
   - admin
