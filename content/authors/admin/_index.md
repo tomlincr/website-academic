@@ -71,11 +71,11 @@ user_groups: null
 highlight_name: true
 ---
 
-Chris Tomlinson is an Anaesthetics & Intensive Care registrar undertaking a PhD at the [UKRI UCL Centre for Doctoral Training in AI-enabled Healthcare Systems](https://www.ucl.ac.uk/aihealth-cdt/).
+Chris is a senior research fellow in health data science and clinical PhD student at UCL, on track to submit his thesis on informatics and AI-based approaches for scalable phenotyping of electronic health records (EHR), in early 2024.  
 
-Combining technical expertise in epidemiology, data science and machine/deep learning with an extensive background in clinical medicine and physiological research he uses real world evidence to uncover new insights of critical relevance to patients, clinicians and policymakers. Most recently this has involved [creating novel COVID-19 phenotypes from linked-EHR data of 57 million individuals in England (now published in Lancet Digital Health)]({{< relref "/publication/2022-06-08-COVID-phenotyping-LDH.md" >}}).
+He has over a decade of experience in healthcare, spanning physiological research and clinical medicine, as well as quantitative methods in epidemiology and machine learning. His work has been featured in top medical journals ([Nature Medicine](https://doi.org/10.1038/s41591-022-02158-7), [Circulation](https://doi.org/10.1161/CIRCULATIONAHA.122.060785), [BMJ](https://doi.org/10.1136/bmj-2022-073639), [Lancet Digital Health](https://doi.org/10.1016/S2589-7500%2822%2900091-7)) and informed policy at home and abroad.  
 
-He is interested in the application of AI methodologies to disentangle the complex interactions between organ systems, diseases, individuals and healthcare services to advance our scientific understanding and translate knowledge into tangible benefits to patient care.
+He is excited about the ability of artificial intelligence to flexibly integrate, structure and summarise insights from both traditional knowledge repositories and observational data, to scalably advance our understanding of health and disease, and enable us to address the fundamental challenges of precision medicine: diagnosis, prognosis and treatment response.  
   
 ## Interests
 
