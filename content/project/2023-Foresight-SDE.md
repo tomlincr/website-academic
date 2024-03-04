@@ -11,7 +11,7 @@ tags:
 - 'NHS Secure Data Environment'
 - Industry collaboration
 
-date: "2023-03-06"
+date: "2023-12-23"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ~
