@@ -71,19 +71,17 @@ user_groups: null
 highlight_name: true
 ---
 
-Chris is a senior research fellow in health data science and clinical PhD student at UCL, on track to submit his thesis on informatics and AI-based approaches for scalable phenotyping of electronic health records (EHR), in early 2024.  
-
-He has over a decade of experience in healthcare, spanning physiological research and clinical medicine, as well as quantitative methods in epidemiology and machine learning. His work has been featured in top medical journals ([Nature Medicine](https://doi.org/10.1038/s41591-022-02158-7), [Circulation](https://doi.org/10.1161/CIRCULATIONAHA.122.060785), [BMJ](https://doi.org/10.1136/bmj-2022-073639), [Lancet Digital Health](https://doi.org/10.1016/S2589-7500%2822%2900091-7)) and informed policy at home and abroad.  
+Chris is a curiosity-driven physician scientist with over a decade of experience in healthcare, spanning physiological research and clinical medicine, as well as quantitative methods in epidemiology and machine learning. His work has been featured in top medical journals ([Nature Medicine](https://doi.org/10.1038/s41591-022-02158-7), [Circulation](https://doi.org/10.1161/CIRCULATIONAHA.122.060785), [BMJ](https://doi.org/10.1136/bmj-2022-073639), [Lancet Digital Health](https://doi.org/10.1016/S2589-7500%2822%2900091-7)) and informed policy at home and abroad.  
 
 He is excited about the ability of artificial intelligence to flexibly integrate, structure and summarise insights from both traditional knowledge repositories and observational data, to scalably advance our understanding of health and disease, and enable us to address the fundamental challenges of precision medicine: diagnosis, prognosis and treatment response.  
   
 ## Interests
 
-* **Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit
-* **Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *multi-modal*, *predictive* representations that codify both domain knowledge and data-driven insights
-* **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing *robustness* to distributional shift and performance in *inductive learning* settings
-* **Causal inference**: for evidence generation from observational data and to learn better representations
+* **Clinical foundation models**: Harnessing real-world EHR data, codifying domain knowledge, downstream use for precision medicine, trial emulation and population health, multimodality
 * **Real-world evidence**: I prioritise working with *routinely-collected* healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
+* **Causal inference**: for evidence generation from observational data and to learn better representations
+* **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing *robustness* to distributional shift and performance in *inductive learning* settings
+* **Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit
 
 ## Education
 
