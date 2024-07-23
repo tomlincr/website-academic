@@ -23,7 +23,7 @@ publication: 'medRxiv'
 publication_short: ''
 abstract: ''
 summary: ''
-featured: true
+featured: false
 url_pdf: 'https://www.medrxiv.org/content/10.1101/2023.07.18.23292811v1.full.pdf'
 url_pmid: ''
 url_code: ''
