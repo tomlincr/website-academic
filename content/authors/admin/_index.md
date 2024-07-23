@@ -78,9 +78,9 @@ He is excited about the ability of artificial intelligence to flexibly integrate
 ## Interests
 
 * **Clinical foundation models**: Harnessing real-world EHR data, codifying domain knowledge, downstream use for precision medicine, trial emulation and population health, multimodality
-* **Real-world evidence**: I prioritise working with *routinely-collected* healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
+* **Real-world evidence**: I prioritise working with routinely-collected healthcare data to ensure my research is of direct relevance to patients, clinicians and policymakers
 * **Causal inference**: for evidence generation from observational data and to learn better representations
-* **Uncertainty quantification**: for clinical evaluation and scientific *discovery*, through assessing *robustness* to distributional shift and performance in *inductive learning* settings
+* **Uncertainty quantification**: for clinical evaluation and scientific discovery, through assessing robustness to distributional shift and performance in inductive learning settings
 * **Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit
 
 ## Education
