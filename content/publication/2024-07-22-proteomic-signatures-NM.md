@@ -43,7 +43,10 @@ add_badge: true
 
 {{< metrics >}}  
 
-[Press release](https://www.qmul.ac.uk/media/news/2024/fmd/blood-proteins-predict-the-risk-of-developing-more-than-60-diseases.html)
+## Press releases
+
+* [QMUL Press release](https://www.qmul.ac.uk/media/news/2024/fmd/blood-proteins-predict-the-risk-of-developing-more-than-60-diseases.html)
+* [UCL Press release](https://www.ucl.ac.uk/news/2024/jul/blood-proteins-predict-risk-developing-more-60-diseases)
   
 ## Nature Medicine Research Briefing
 
@@ -52,3 +55,4 @@ add_badge: true
 ## Select media coverage
 
 * [Blood test can predict 67 diseases 10 years early](https://www.telegraph.co.uk/news/2024/07/22/blood-test-predicts-67-diseases-10-years-early). Sarah Knapton, The Telegraph. 22/07/2024.
+* [Blood proteins predict risk of developing more than 60 diseases – study](https://www.independent.co.uk/news/science/queen-mary-university-of-london-b2583792.html). Nina Massey, The Independent. 22/07/2024.
