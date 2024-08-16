@@ -56,3 +56,4 @@ add_badge: true
 
 * [Blood test can predict 67 diseases 10 years early](https://www.telegraph.co.uk/news/2024/07/22/blood-test-predicts-67-diseases-10-years-early). Sarah Knapton, The Telegraph. 22/07/2024.
 * [Blood proteins predict risk of developing more than 60 diseases – study](https://www.independent.co.uk/news/science/queen-mary-university-of-london-b2583792.html). Nina Massey, The Independent. 22/07/2024.
+* [Breakthrough blood drop test can test risk of getting 66 dangerous conditions](https://www.mirror.co.uk/news/health/breakthrough-blood-drop-test-can-33304179). Antony Clements-Thrower, The Mirror. 25/07/2024.  
