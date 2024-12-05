@@ -1,5 +1,7 @@
 ---
 organizations:
+  - name: "LifeArc"
+    url: https://www.lifearc.org/
   - name: "UCL Institute of Health Informatics"
     url: https://profiles.ucl.ac.uk/80245
   - name: "Health Data Research UK"
@@ -12,7 +14,7 @@ title: Chris Tomlinson
 # Full name (for SEO)
 first_name: Chris
 last_name: Tomlinson
-role: "**MBBS BSc MRes DMCC MRCA** \n \nSenior Research Fellow in Health Data Science"
+role: "**MBBS BSc MRes DMCC MRCA** \n \nUK Health Data & AI Lead \nHonorary Senior Research Fellow in Clinical Foundation Models"
 # interests:
 #   - "**Phenomics**: Defining clinically-relevant phenotypes at scale to unlock healthcare data for research & patient benefit"
 #   - "**Representation learning**: Harnessing Large Language Models (LLMs) and Graph Neural Networks (GNNs) to build *predictive* representations that codify both domain knowledge and data-driven insights"
