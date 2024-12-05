@@ -41,4 +41,3 @@ add_badge: true
 ---
 
 {{< metrics >}}
-
