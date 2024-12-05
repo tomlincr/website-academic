@@ -9,7 +9,7 @@ tags:
   - BHF Data Science Centre
   - EHR
   - linkage
-authors: [Ashkan Dashtban, Mehrdad A. Mizani, Sarah Rafferty, Laura Pasea, admin, Yi Mu, Nazrul Islam, , Charlotte Warren-Gash, Spiros Denaxas, Steffen Petersen, Cathie Sudlow, Kamlesh Khunti, Amitava Banerjee]
+authors: [Ashkan Dashtban, Mehrdad A. Mizani, Sarah Rafferty, Laura Pasea, admin, Yi Mu, Nazrul Islam, Charlotte Warren-Gash, Spiros Denaxas, Steffen Petersen, Cathie Sudlow, Kamlesh Khunti, Amitava Banerjee]
 doi: '10.1093/eurheartj/ehae666.2625'
 publishDate: '2024-10-28'
 publication_types:
